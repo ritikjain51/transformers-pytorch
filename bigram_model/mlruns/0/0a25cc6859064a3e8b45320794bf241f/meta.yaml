@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritikjain/personal/transformers/bigram_model/mlruns/0/0a25cc6859064a3e8b45320794bf241f/artifacts
+end_time: 1682099584642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a25cc6859064a3e8b45320794bf241f
+run_name: experiment
+run_uuid: 0a25cc6859064a3e8b45320794bf241f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682071034786
+status: 3
+tags: []
+user_id: ritikjain

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ritikjain/personal/transformers/bigram_model/mlruns/0/c7565d2775174eadaa58e36adaf15ce8/artifacts
+end_time: 1682068473457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7565d2775174eadaa58e36adaf15ce8
+run_name: experiment_residual_connect_with_layernorm
+run_uuid: c7565d2775174eadaa58e36adaf15ce8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682068471175
+status: 4
+tags: []
+user_id: ritikjain

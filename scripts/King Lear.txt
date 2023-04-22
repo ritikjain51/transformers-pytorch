@@ -1,0 +1,7532 @@
+OCTAVIUS:
+ACT I
+OCTAVIUS:
+SCENE I. King Lear's palace.
+OCTAVIUS:
+Enter KENT, GLOUCESTER, and EDMUND
+KENT:
+I thought the king had more affected the Duke of
+KENT:
+Albany than Cornwall.
+GLOUCESTER:
+It did always seem so to us: but now, in the
+GLOUCESTER:
+division of the kingdom, it appears not which of
+GLOUCESTER:
+the dukes he values most, for equalities are so
+GLOUCESTER:
+weighed, that curiosity in neither can make choice
+GLOUCESTER:
+of either's moiety.
+KENT:
+Is not this your son, my lord?
+GLOUCESTER:
+His breeding, sir, hath been at my charge: I have
+GLOUCESTER:
+so often blushed to acknowledge him, that now I am
+GLOUCESTER:
+brazed to it.
+KENT:
+I cannot conceive you.
+GLOUCESTER:
+Sir, this young fellow's mother could: whereupon
+GLOUCESTER:
+she grew round-wombed, and had, indeed, sir, a son
+GLOUCESTER:
+for her cradle ere she had a husband for her bed.
+GLOUCESTER:
+Do you smell a fault?
+KENT:
+I cannot wish the fault undone, the issue of it
+KENT:
+being so proper.
+GLOUCESTER:
+But I have, sir, a son by order of law, some year
+GLOUCESTER:
+elder than this, who yet is no dearer in my account
+GLOUCESTER:
+though this knave came something saucily into the
+GLOUCESTER:
+world before he was sent for, yet was his mother
+GLOUCESTER:
+fair, there was good sport at his making, and the
+GLOUCESTER:
+whoreson must be acknowledged. Do you know this
+GLOUCESTER:
+noble gentleman, Edmund?
+EDMUND:
+No, my lord.
+GLOUCESTER:
+My lord of Kent: remember him hereafter as my
+GLOUCESTER:
+honourable friend.
+EDMUND:
+My services to your lordship.
+KENT:
+I must love you, and sue to know you better.
+EDMUND:
+Sir, I shall study deserving.
+GLOUCESTER:
+He hath been out nine years, and away he shall
+GLOUCESTER:
+again. The king is coming.
+GLOUCESTER:
+Sennet. Enter KING LEAR, CORNWALL, ALBANY, GONERIL, REGAN, CORDELIA, and Attendants
+KING LEAR:
+Attend the lords of France and Burgundy, Gloucester.
+GLOUCESTER:
+I shall, my liege.
+GLOUCESTER:
+Exeunt GLOUCESTER and EDMUND
+KING LEAR:
+Meantime we shall express our darker purpose.
+KING LEAR:
+Give me the map there. Know that we have divided
+KING LEAR:
+In three our kingdom: and 'tis our fast intent
+KING LEAR:
+To shake all cares and business from our age,
+KING LEAR:
+Conferring them on younger strengths, while we
+KING LEAR:
+Unburthen'd crawl toward death. Our son of Cornwall,
+KING LEAR:
+And you, our no less loving son of Albany,
+KING LEAR:
+We have this hour a constant will to publish
+KING LEAR:
+Our daughters' several dowers, that future strife
+KING LEAR:
+May be prevented now. The princes, France and Burgundy,
+KING LEAR:
+Great rivals in our youngest daughter's love,
+KING LEAR:
+Long in our court have made their amorous sojourn,
+KING LEAR:
+And here are to be answer'd. Tell me, my daughters,--
+KING LEAR:
+Since now we will divest us both of rule,
+KING LEAR:
+Interest of territory, cares of state,--
+KING LEAR:
+Which of you shall we say doth love us most?
+KING LEAR:
+That we our largest bounty may extend
+KING LEAR:
+Where nature doth with merit challenge. Goneril,
+KING LEAR:
+Our eldest-born, speak first.
+GONERIL:
+Sir, I love you more than words can wield the matter,
+GONERIL:
+Dearer than eye-sight, space, and liberty,
+GONERIL:
+Beyond what can be valued, rich or rare,
+GONERIL:
+No less than life, with grace, health, beauty, honour,
+GONERIL:
+As much as child e'er loved, or father found,
+GONERIL:
+A love that makes breath poor, and speech unable,
+GONERIL:
+Beyond all manner of so much I love you.
+CORDELIA:
+[Aside]  What shall Cordelia do?
+CORDELIA:
+Love, and be silent.
+LEAR:
+Of all these bounds, even from this line to this,
+LEAR:
+With shadowy forests and with champains rich'd,
+LEAR:
+With plenteous rivers and wide-skirted meads,
+LEAR:
+We make thee lady: to thine and Albany's issue
+LEAR:
+Be this perpetual. What says our second daughter,
+LEAR:
+Our dearest Regan, wife to Cornwall? Speak.
+REGAN:
+Sir, I am made
+REGAN:
+Of the self-same metal that my sister is,
+REGAN:
+And prize me at her worth. In my true heart
+REGAN:
+I find she names my very deed of love,
+REGAN:
+Only she comes too short: that I profess
+REGAN:
+Myself an enemy to all other joys,
+REGAN:
+Which the most precious square of sense possesses,
+REGAN:
+And find I am alone felicitate
+REGAN:
+In your dear highness' love.
+CORDELIA:
+[Aside]	Then poor Cordelia!
+CORDELIA:
+And yet not so, since, I am sure, my love's
+CORDELIA:
+More richer than my tongue.
+KING LEAR:
+To thee and thine hereditary ever
+KING LEAR:
+Remain this ample third of our fair kingdom,
+KING LEAR:
+No less in space, validity, and pleasure,
+KING LEAR:
+Than that conferr'd on Goneril. Now, our joy,
+KING LEAR:
+Although the last, not least, to whose young love
+KING LEAR:
+The vines of France and milk of Burgundy
+KING LEAR:
+Strive to be interess'd, what can you say to draw
+KING LEAR:
+A third more opulent than your sisters? Speak.
+CORDELIA:
+Nothing, my lord.
+KING LEAR:
+Nothing!
+CORDELIA:
+Nothing.
+KING LEAR:
+Nothing will come of nothing: speak again.
+CORDELIA:
+Unhappy that I am, I cannot heave
+CORDELIA:
+My heart into my mouth: I love your majesty
+CORDELIA:
+According to my bond, nor more nor less.
+KING LEAR:
+How, how, Cordelia! mend your speech a little,
+KING LEAR:
+Lest it may mar your fortunes.
+CORDELIA:
+Good my lord,
+CORDELIA:
+You have begot me, bred me, loved me: I
+CORDELIA:
+Return those duties back as are right fit,
+CORDELIA:
+Obey you, love you, and most honour you.
+CORDELIA:
+Why have my sisters husbands, if they say
+CORDELIA:
+They love you all? Haply, when I shall wed,
+CORDELIA:
+That lord whose hand must take my plight shall carry
+CORDELIA:
+Half my love with him, half my care and duty
+CORDELIA:
+Sure, I shall never marry like my sisters,
+CORDELIA:
+To love my father all.
+KING LEAR:
+But goes thy heart with this?
+CORDELIA:
+Ay, good my lord.
+KING LEAR:
+So young, and so untender?
+CORDELIA:
+So young, my lord, and true.
+KING LEAR:
+Let it be so, thy truth, then, be thy dower
+KING LEAR:
+For, by the sacred radiance of the sun,
+KING LEAR:
+The mysteries of Hecate, and the night,
+KING LEAR:
+By all the operation of the orbs
+KING LEAR:
+From whom we do exist, and cease to be,
+KING LEAR:
+Here I disclaim all my paternal care,
+KING LEAR:
+Propinquity and property of blood,
+KING LEAR:
+And as a stranger to my heart and me
+KING LEAR:
+Hold thee, from this, for ever. The barbarous Scythian,
+KING LEAR:
+Or he that makes his generation messes
+KING LEAR:
+To gorge his appetite, shall to my bosom
+KING LEAR:
+Be as well neighbour'd, pitied, and relieved,
+KING LEAR:
+As thou my sometime daughter.
+KENT:
+Good my liege,--
+KING LEAR:
+Peace, Kent!
+KING LEAR:
+Come not between the dragon and his wrath.
+KING LEAR:
+I loved her most, and thought to set my rest
+KING LEAR:
+On her kind nursery. Hence, and avoid my sight!
+KING LEAR:
+So be my grave my peace, as here I give
+KING LEAR:
+Her father's heart from her! Call France, who stirs?
+KING LEAR:
+Call Burgundy. Cornwall and Albany,
+KING LEAR:
+With my two daughters' dowers digest this third
+KING LEAR:
+Let pride, which she calls plainness, marry her.
+KING LEAR:
+I do invest you jointly with my power,
+KING LEAR:
+Pre-eminence, and all the large effects
+KING LEAR:
+That troop with majesty. Ourself, by monthly course,
+KING LEAR:
+With reservation of an hundred knights,
+KING LEAR:
+By you to be sustain'd, shall our abode
+KING LEAR:
+Make with you by due turns. Only we still retain
+KING LEAR:
+The name, and all the additions to a king,
+KING LEAR:
+The sway, revenue, execution of the rest,
+KING LEAR:
+Beloved sons, be yours: which to confirm,
+KING LEAR:
+This coronet part betwixt you.
+KING LEAR:
+Giving the crown
+KENT:
+Royal Lear,
+KENT:
+Whom I have ever honour'd as my king,
+KENT:
+Loved as my father, as my master follow'd,
+KENT:
+As my great patron thought on in my prayers,--
+KING LEAR:
+The bow is bent and drawn, make from the shaft.
+KENT:
+Let it fall rather, though the fork invade
+KENT:
+The region of my heart: be Kent unmannerly,
+KENT:
+When Lear is mad. What wilt thou do, old man?
+KENT:
+Think'st thou that duty shall have dread to speak,
+KENT:
+When power to flattery bows? To plainness honour's bound,
+KENT:
+When majesty stoops to folly. Reverse thy doom,
+KENT:
+And, in thy best consideration, cheque
+KENT:
+This hideous rashness: answer my life my judgment,
+KENT:
+Thy youngest daughter does not love thee least,
+KENT:
+Nor are those empty-hearted whose low sound
+KENT:
+Reverbs no hollowness.
+KING LEAR:
+Kent, on thy life, no more.
+KENT:
+My life I never held but as a pawn
+KENT:
+To wage against thy enemies, nor fear to lose it,
+KENT:
+Thy safety being the motive.
+KING LEAR:
+Out of my sight!
+KENT:
+See better, Lear, and let me still remain
+KENT:
+The true blank of thine eye.
+KING LEAR:
+Now, by Apollo,--
+KENT:
+Now, by Apollo, king,
+KENT:
+Thou swear'st thy gods in vain.
+KING LEAR:
+O, vassal! miscreant!
+KING LEAR:
+Laying his hand on his sword
+CORNWALL:
+Dear sir, forbear.
+KENT:
+Do
+KENT:
+Kill thy physician, and the fee bestow
+KENT:
+Upon thy foul disease. Revoke thy doom,
+KENT:
+Or, whilst I can vent clamour from my throat,
+KENT:
+I'll tell thee thou dost evil.
+KING LEAR:
+Hear me, recreant!
+KING LEAR:
+On thine allegiance, hear me!
+KING LEAR:
+Since thou hast sought to make us break our vow,
+KING LEAR:
+Which we durst never yet, and with strain'd pride
+KING LEAR:
+To come between our sentence and our power,
+KING LEAR:
+Which nor our nature nor our place can bear,
+KING LEAR:
+Our potency made good, take thy reward.
+KING LEAR:
+Five days we do allot thee, for provision
+KING LEAR:
+To shield thee from diseases of the world,
+KING LEAR:
+And on the sixth to turn thy hated back
+KING LEAR:
+Upon our kingdom: if, on the tenth day following,
+KING LEAR:
+Thy banish'd trunk be found in our dominions,
+KING LEAR:
+The moment is thy death. Away! by Jupiter,
+KING LEAR:
+This shall not be revoked.
+KENT:
+Fare thee well, king: sith thus thou wilt appear,
+KENT:
+Freedom lives hence, and banishment is here.
+KENT:
+To CORDELIA
+KENT:
+The gods to their dear shelter take thee, maid,
+KENT:
+That justly think'st, and hast most rightly said!
+KENT:
+To REGAN and GONERIL
+KENT:
+And your large speeches may your deeds approve,
+KENT:
+That good effects may spring from words of love.
+KENT:
+Thus Kent, O princes, bids you all adieu,
+KENT:
+He'll shape his old course in a country new.
+KENT:
+Exit
+KENT:
+Flourish. Re-enter GLOUCESTER, with KING OF FRANCE, BURGUNDY, and Attendants
+GLOUCESTER:
+Here's France and Burgundy, my noble lord.
+KING LEAR:
+My lord of Burgundy.
+KING LEAR:
+We first address towards you, who with this king
+KING LEAR:
+Hath rivall'd for our daughter: what, in the least,
+KING LEAR:
+Will you require in present dower with her,
+KING LEAR:
+Or cease your quest of love?
+BURGUNDY:
+Most royal majesty,
+BURGUNDY:
+I crave no more than what your highness offer'd,
+BURGUNDY:
+Nor will you tender less.
+KING LEAR:
+Right noble Burgundy,
+KING LEAR:
+When she was dear to us, we did hold her so,
+KING LEAR:
+But now her price is fall'n. Sir, there she stands
+KING LEAR:
+If aught within that little seeming substance,
+KING LEAR:
+Or all of it, with our displeasure pieced,
+KING LEAR:
+And nothing more, may fitly like your grace,
+KING LEAR:
+She's there, and she is yours.
+BURGUNDY:
+I know no answer.
+KING LEAR:
+Will you, with those infirmities she owes,
+KING LEAR:
+Unfriended, new-adopted to our hate,
+KING LEAR:
+Dower'd with our curse, and stranger'd with our oath,
+KING LEAR:
+Take her, or leave her?
+BURGUNDY:
+Pardon me, royal sir,
+BURGUNDY:
+Election makes not up on such conditions.
+KING LEAR:
+Then leave her, sir, for, by the power that made me,
+KING LEAR:
+I tell you all her wealth.
+KING LEAR:
+To KING OF FRANCE
+KING LEAR:
+For you, great king,
+KING LEAR:
+I would not from your love make such a stray,
+KING LEAR:
+To match you where I hate, therefore beseech you
+KING LEAR:
+To avert your liking a more worthier way
+KING LEAR:
+Than on a wretch whom nature is ashamed
+KING LEAR:
+Almost to acknowledge hers.
+KING OF FRANCE:
+This is most strange,
+KING OF FRANCE:
+That she, that even but now was your best object,
+KING OF FRANCE:
+The argument of your praise, balm of your age,
+KING OF FRANCE:
+Most best, most dearest, should in this trice of time
+KING OF FRANCE:
+Commit a thing so monstrous, to dismantle
+KING OF FRANCE:
+So many folds of favour. Sure, her offence
+KING OF FRANCE:
+Must be of such unnatural degree,
+KING OF FRANCE:
+That monsters it, or your fore-vouch'd affection
+KING OF FRANCE:
+Fall'n into taint: which to believe of her,
+KING OF FRANCE:
+Must be a faith that reason without miracle
+KING OF FRANCE:
+Could never plant in me.
+CORDELIA:
+I yet beseech your majesty,--
+CORDELIA:
+If for I want that glib and oily art,
+CORDELIA:
+To speak and purpose not, since what I well intend,
+CORDELIA:
+I'll do't before I speak,--that you make known
+CORDELIA:
+It is no vicious blot, murder, or foulness,
+CORDELIA:
+No unchaste action, or dishonour'd step,
+CORDELIA:
+That hath deprived me of your grace and favour,
+CORDELIA:
+But even for want of that for which I am richer,
+CORDELIA:
+A still-soliciting eye, and such a tongue
+CORDELIA:
+As I am glad I have not, though not to have it
+CORDELIA:
+Hath lost me in your liking.
+KING LEAR:
+Better thou
+KING LEAR:
+Hadst not been born than not to have pleased me better.
+KING OF FRANCE:
+Is it but this,--a tardiness in nature
+KING OF FRANCE:
+Which often leaves the history unspoke
+KING OF FRANCE:
+That it intends to do? My lord of Burgundy,
+KING OF FRANCE:
+What say you to the lady? Love's not love
+KING OF FRANCE:
+When it is mingled with regards that stand
+KING OF FRANCE:
+Aloof from the entire point. Will you have her?
+KING OF FRANCE:
+She is herself a dowry.
+BURGUNDY:
+Royal Lear,
+BURGUNDY:
+Give but that portion which yourself proposed,
+BURGUNDY:
+And here I take Cordelia by the hand,
+BURGUNDY:
+Duchess of Burgundy.
+KING LEAR:
+Nothing: I have sworn, I am firm.
+BURGUNDY:
+I am sorry, then, you have so lost a father
+BURGUNDY:
+That you must lose a husband.
+CORDELIA:
+Peace be with Burgundy!
+CORDELIA:
+Since that respects of fortune are his love,
+CORDELIA:
+I shall not be his wife.
+KING OF FRANCE:
+Fairest Cordelia, that art most rich, being poor,
+KING OF FRANCE:
+Most choice, forsaken, and most loved, despised!
+KING OF FRANCE:
+Thee and thy virtues here I seize upon
+KING OF FRANCE:
+Be it lawful I take up what's cast away.
+KING OF FRANCE:
+Gods, gods! 'tis strange that from their cold'st neglect
+KING OF FRANCE:
+My love should kindle to inflamed respect.
+KING OF FRANCE:
+Thy dowerless daughter, king, thrown to my chance,
+KING OF FRANCE:
+Is queen of us, of ours, and our fair France
+KING OF FRANCE:
+Not all the dukes of waterish Burgundy
+KING OF FRANCE:
+Can buy this unprized precious maid of me.
+KING OF FRANCE:
+Bid them farewell, Cordelia, though unkind
+KING OF FRANCE:
+Thou losest here, a better where to find.
+KING LEAR:
+Thou hast her, France: let her be thine, for we
+KING LEAR:
+Have no such daughter, nor shall ever see
+KING LEAR:
+That face of hers again. Therefore be gone
+KING LEAR:
+Without our grace, our love, our benison.
+KING LEAR:
+Come, noble Burgundy.
+KING LEAR:
+Flourish. Exeunt all but KING OF FRANCE, GONERIL, REGAN, and CORDELIA
+KING OF FRANCE:
+Bid farewell to your sisters.
+CORDELIA:
+The jewels of our father, with wash'd eyes
+CORDELIA:
+Cordelia leaves you: I know you what you are,
+CORDELIA:
+And like a sister am most loath to call
+CORDELIA:
+Your faults as they are named. Use well our father
+CORDELIA:
+To your professed bosoms I commit him
+CORDELIA:
+But yet, alas, stood I within his grace,
+CORDELIA:
+I would prefer him to a better place.
+CORDELIA:
+So, farewell to you both.
+REGAN:
+Prescribe not us our duties.
+GONERIL:
+Let your study
+GONERIL:
+Be to content your lord, who hath received you
+GONERIL:
+At fortune's alms. You have obedience scanted,
+GONERIL:
+And well are worth the want that you have wanted.
+CORDELIA:
+Time shall unfold what plaited cunning hides
+CORDELIA:
+Who cover faults, at last shame them derides.
+CORDELIA:
+Well may you prosper!
+KING OF FRANCE:
+Come, my fair Cordelia.
+KING OF FRANCE:
+Exeunt KING OF FRANCE and CORDELIA
+GONERIL:
+Sister, it is not a little I have to say of what
+GONERIL:
+most nearly appertains to us both. I think our
+GONERIL:
+father will hence to-night.
+REGAN:
+That's most certain, and with you, next month with us.
+GONERIL:
+You see how full of changes his age is, the
+GONERIL:
+observation we have made of it hath not been
+GONERIL:
+little: he always loved our sister most, and
+GONERIL:
+with what poor judgment he hath now cast her off
+GONERIL:
+appears too grossly.
+REGAN:
+'Tis the infirmity of his age: yet he hath ever
+REGAN:
+but slenderly known himself.
+GONERIL:
+The best and soundest of his time hath been but
+GONERIL:
+rash, then must we look to receive from his age,
+GONERIL:
+not alone the imperfections of long-engraffed
+GONERIL:
+condition, but therewithal the unruly waywardness
+GONERIL:
+that infirm and choleric years bring with them.
+REGAN:
+Such unconstant starts are we like to have from
+REGAN:
+him as this of Kent's banishment.
+GONERIL:
+There is further compliment of leavetaking
+GONERIL:
+between France and him. Pray you, let's hit
+GONERIL:
+together: if our father carry authority with
+GONERIL:
+such dispositions as he bears, this last
+GONERIL:
+surrender of his will but offend us.
+REGAN:
+We shall further think on't.
+GONERIL:
+We must do something, and i' the heat.
+GONERIL:
+Exeunt
+GONERIL:
+SCENE II. The Earl of Gloucester's castle.
+GONERIL:
+Enter EDMUND, with a letter
+EDMUND:
+Thou, nature, art my goddess, to thy law
+EDMUND:
+My services are bound. Wherefore should I
+EDMUND:
+Stand in the plague of custom, and permit
+EDMUND:
+The curiosity of nations to deprive me,
+EDMUND:
+For that I am some twelve or fourteen moon-shines
+EDMUND:
+Lag of a brother? Why bastard? wherefore base?
+EDMUND:
+When my dimensions are as well compact,
+EDMUND:
+My mind as generous, and my shape as true,
+EDMUND:
+As honest madam's issue? Why brand they us
+EDMUND:
+With base? with baseness? bastardy? base, base?
+EDMUND:
+Who, in the lusty stealth of nature, take
+EDMUND:
+More composition and fierce quality
+EDMUND:
+Than doth, within a dull, stale, tired bed,
+EDMUND:
+Go to the creating a whole tribe of fops,
+EDMUND:
+Got 'tween asleep and wake? Well, then,
+EDMUND:
+Legitimate Edgar, I must have your land
+EDMUND:
+Our father's love is to the bastard Edmund
+EDMUND:
+As to the legitimate: fine word,--legitimate!
+EDMUND:
+Well, my legitimate, if this letter speed,
+EDMUND:
+And my invention thrive, Edmund the base
+EDMUND:
+Shall top the legitimate. I grow, I prosper
+EDMUND:
+Now, gods, stand up for bastards!
+EDMUND:
+Enter GLOUCESTER
+GLOUCESTER:
+Kent banish'd thus! and France in choler parted!
+GLOUCESTER:
+And the king gone to-night! subscribed his power!
+GLOUCESTER:
+Confined to exhibition! All this done
+GLOUCESTER:
+Upon the gad! Edmund, how now! what news?
+EDMUND:
+So please your lordship, none.
+EDMUND:
+Putting up the letter
+GLOUCESTER:
+Why so earnestly seek you to put up that letter?
+EDMUND:
+I know no news, my lord.
+GLOUCESTER:
+What paper were you reading?
+EDMUND:
+Nothing, my lord.
+GLOUCESTER:
+No? What needed, then, that terrible dispatch of
+GLOUCESTER:
+it into your pocket? the quality of nothing hath
+GLOUCESTER:
+not such need to hide itself. Let's see: come,
+GLOUCESTER:
+if it be nothing, I shall not need spectacles.
+EDMUND:
+I beseech you, sir, pardon me: it is a letter
+EDMUND:
+from my brother, that I have not all o'er-read,
+EDMUND:
+and for so much as I have perused, I find it not
+EDMUND:
+fit for your o'er-looking.
+GLOUCESTER:
+Give me the letter, sir.
+EDMUND:
+I shall offend, either to detain or give it. The
+EDMUND:
+contents, as in part I understand them, are to blame.
+GLOUCESTER:
+Let's see, let's see.
+EDMUND:
+I hope, for my brother's justification, he wrote
+EDMUND:
+this but as an essay or taste of my virtue.
+GLOUCESTER:
+[Reads]  'This policy and reverence of age makes
+GLOUCESTER:
+the world bitter to the best of our times, keeps
+GLOUCESTER:
+our fortunes from us till our oldness cannot relish
+GLOUCESTER:
+them. I begin to find an idle and fond bondage
+GLOUCESTER:
+in the oppression of aged tyranny, who sways, not
+GLOUCESTER:
+as it hath power, but as it is suffered. Come to
+GLOUCESTER:
+me, that of this I may speak more. If our father
+GLOUCESTER:
+would sleep till I waked him, you should half his
+GLOUCESTER:
+revenue for ever, and live the beloved of your
+GLOUCESTER:
+brother,	EDGAR.'
+GLOUCESTER:
+Hum--conspiracy!--'Sleep till I waked him,--you
+GLOUCESTER:
+should enjoy half his revenue,'--My son Edgar!
+GLOUCESTER:
+Had he a hand to write this? a heart and brain
+GLOUCESTER:
+to breed it in?--When came this to you? who
+GLOUCESTER:
+brought it?
+EDMUND:
+It was not brought me, my lord, there's the
+EDMUND:
+cunning of it, I found it thrown in at the
+EDMUND:
+casement of my closet.
+GLOUCESTER:
+You know the character to be your brother's?
+EDMUND:
+If the matter were good, my lord, I durst swear
+EDMUND:
+it were his, but, in respect of that, I would
+EDMUND:
+fain think it were not.
+GLOUCESTER:
+It is his.
+EDMUND:
+It is his hand, my lord, but I hope his heart is
+EDMUND:
+not in the contents.
+GLOUCESTER:
+Hath he never heretofore sounded you in this business?
+EDMUND:
+Never, my lord: but I have heard him oft
+EDMUND:
+maintain it to be fit, that, sons at perfect age,
+EDMUND:
+and fathers declining, the father should be as
+EDMUND:
+ward to the son, and the son manage his revenue.
+GLOUCESTER:
+O villain, villain! His very opinion in the
+GLOUCESTER:
+letter! Abhorred villain! Unnatural, detested,
+GLOUCESTER:
+brutish villain! worse than brutish! Go, sirrah,
+GLOUCESTER:
+seek him, I'll apprehend him: abominable villain!
+GLOUCESTER:
+Where is he?
+EDMUND:
+I do not well know, my lord. If it shall please
+EDMUND:
+you to suspend your indignation against my
+EDMUND:
+brother till you can derive from him better
+EDMUND:
+testimony of his intent, you shall run a certain
+EDMUND:
+course, where, if you violently proceed against
+EDMUND:
+him, mistaking his purpose, it would make a great
+EDMUND:
+gap in your own honour, and shake in pieces the
+EDMUND:
+heart of his obedience. I dare pawn down my life
+EDMUND:
+for him, that he hath wrote this to feel my
+EDMUND:
+affection to your honour, and to no further
+EDMUND:
+pretence of danger.
+GLOUCESTER:
+Think you so?
+EDMUND:
+If your honour judge it meet, I will place you
+EDMUND:
+where you shall hear us confer of this, and by an
+EDMUND:
+auricular assurance have your satisfaction, and
+EDMUND:
+that without any further delay than this very evening.
+GLOUCESTER:
+He cannot be such a monster--
+EDMUND:
+Nor is not, sure.
+GLOUCESTER:
+To his father, that so tenderly and entirely
+GLOUCESTER:
+loves him. Heaven and earth! Edmund, seek him
+GLOUCESTER:
+out: wind me into him, I pray you: frame the
+GLOUCESTER:
+business after your own wisdom. I would unstate
+GLOUCESTER:
+myself, to be in a due resolution.
+EDMUND:
+I will seek him, sir, presently: convey the
+EDMUND:
+business as I shall find means and acquaint you withal.
+GLOUCESTER:
+These late eclipses in the sun and moon portend
+GLOUCESTER:
+no good to us: though the wisdom of nature can
+GLOUCESTER:
+reason it thus and thus, yet nature finds itself
+GLOUCESTER:
+scourged by the sequent effects: love cools,
+GLOUCESTER:
+friendship falls off, brothers divide: in
+GLOUCESTER:
+cities, mutinies, in countries, discord, in
+GLOUCESTER:
+palaces, treason, and the bond cracked 'twixt son
+GLOUCESTER:
+and father. This villain of mine comes under the
+GLOUCESTER:
+prediction, there's son against father: the king
+GLOUCESTER:
+falls from bias of nature, there's father against
+GLOUCESTER:
+child. We have seen the best of our time
+GLOUCESTER:
+machinations, hollowness, treachery, and all
+GLOUCESTER:
+ruinous disorders, follow us disquietly to our
+GLOUCESTER:
+graves. Find out this villain, Edmund, it shall
+GLOUCESTER:
+lose thee nothing, do it carefully. And the
+GLOUCESTER:
+noble and true-hearted Kent banished! his
+GLOUCESTER:
+offence, honesty! 'Tis strange.
+GLOUCESTER:
+Exit
+EDMUND:
+This is the excellent foppery of the world, that,
+EDMUND:
+when we are sick in fortune,--often the surfeit
+EDMUND:
+of our own behavior,--we make guilty of our
+EDMUND:
+disasters the sun, the moon, and the stars: as
+EDMUND:
+if we were villains by necessity, fools by
+EDMUND:
+heavenly compulsion, knaves, thieves, and
+EDMUND:
+treachers, by spherical predominance, drunkards,
+EDMUND:
+liars, and adulterers, by an enforced obedience of
+EDMUND:
+planetary influence, and all that we are evil in,
+EDMUND:
+by a divine thrusting on: an admirable evasion
+EDMUND:
+of whoremaster man, to lay his goatish
+EDMUND:
+disposition to the charge of a star! My
+EDMUND:
+father compounded with my mother under the
+EDMUND:
+dragon's tail, and my nativity was under Ursa
+EDMUND:
+major, so that it follows, I am rough and
+EDMUND:
+lecherous. Tut, I should have been that I am,
+EDMUND:
+had the maidenliest star in the firmament
+EDMUND:
+twinkled on my bastardizing. Edgar--
+EDMUND:
+Enter EDGAR
+EDMUND:
+And pat he comes like the catastrophe of the old
+EDMUND:
+comedy: my cue is villanous melancholy, with a
+EDMUND:
+sigh like Tom o' Bedlam. O, these eclipses do
+EDMUND:
+portend these divisions! fa, sol, la, mi.
+EDGAR:
+How now, brother Edmund! what serious
+EDGAR:
+contemplation are you in?
+EDMUND:
+I am thinking, brother, of a prediction I read
+EDMUND:
+this other day, what should follow these eclipses.
+EDGAR:
+Do you busy yourself about that?
+EDMUND:
+I promise you, the effects he writes of succeed
+EDMUND:
+unhappily, as of unnaturalness between the child
+EDMUND:
+and the parent, death, dearth, dissolutions of
+EDMUND:
+ancient amities, divisions in state, menaces and
+EDMUND:
+maledictions against king and nobles, needless
+EDMUND:
+diffidences, banishment of friends, dissipation
+EDMUND:
+of cohorts, nuptial breaches, and I know not what.
+EDGAR:
+How long have you been a sectary astronomical?
+EDMUND:
+Come, come, when saw you my father last?
+EDGAR:
+Why, the night gone by.
+EDMUND:
+Spake you with him?
+EDGAR:
+Ay, two hours together.
+EDMUND:
+Parted you in good terms? Found you no
+EDMUND:
+displeasure in him by word or countenance?
+EDGAR:
+None at all.
+EDMUND:
+Bethink yourself wherein you may have offended
+EDMUND:
+him: and at my entreaty forbear his presence
+EDMUND:
+till some little time hath qualified the heat of
+EDMUND:
+his displeasure, which at this instant so rageth
+EDMUND:
+in him, that with the mischief of your person it
+EDMUND:
+would scarcely allay.
+EDGAR:
+Some villain hath done me wrong.
+EDMUND:
+That's my fear. I pray you, have a continent
+EDMUND:
+forbearance till the spied of his rage goes
+EDMUND:
+slower, and, as I say, retire with me to my
+EDMUND:
+lodging, from whence I will fitly bring you to
+EDMUND:
+hear my lord speak: pray ye, go, there's my key
+EDMUND:
+if you do stir abroad, go armed.
+EDGAR:
+Armed, brother!
+EDMUND:
+Brother, I advise you to the best, go armed: I
+EDMUND:
+am no honest man if there be any good meaning
+EDMUND:
+towards you: I have told you what I have seen
+EDMUND:
+and heard, but faintly, nothing like the image
+EDMUND:
+and horror of it: pray you, away.
+EDGAR:
+Shall I hear from you anon?
+EDMUND:
+I do serve you in this business.
+EDMUND:
+Exit EDGAR
+EDMUND:
+A credulous father! and a brother noble,
+EDMUND:
+Whose nature is so far from doing harms,
+EDMUND:
+That he suspects none: on whose foolish honesty
+EDMUND:
+My practises ride easy! I see the business.
+EDMUND:
+Let me, if not by birth, have lands by wit
+EDMUND:
+All with me's meet that I can fashion fit.
+EDMUND:
+Exit
+EDMUND:
+SCENE III. The Duke of Albany's palace.
+EDMUND:
+Enter GONERIL, and OSWALD, her steward
+GONERIL:
+Did my father strike my gentleman for chiding of his fool?
+OSWALD:
+Yes, madam.
+GONERIL:
+By day and night he wrongs me, every hour
+GONERIL:
+He flashes into one gross crime or other,
+GONERIL:
+That sets us all at odds: I'll not endure it
+GONERIL:
+His knights grow riotous, and himself upbraids us
+GONERIL:
+On every trifle. When he returns from hunting,
+GONERIL:
+I will not speak with him, say I am sick
+GONERIL:
+If you come slack of former services,
+GONERIL:
+You shall do well, the fault of it I'll answer.
+OSWALD:
+He's coming, madam, I hear him.
+OSWALD:
+Horns within
+GONERIL:
+Put on what weary negligence you please,
+GONERIL:
+You and your fellows, I'll have it come to question
+GONERIL:
+If he dislike it, let him to our sister,
+GONERIL:
+Whose mind and mine, I know, in that are one,
+GONERIL:
+Not to be over-ruled. Idle old man,
+GONERIL:
+That still would manage those authorities
+GONERIL:
+That he hath given away! Now, by my life,
+GONERIL:
+Old fools are babes again, and must be used
+GONERIL:
+With cheques as flatteries,--when they are seen abused.
+GONERIL:
+Remember what I tell you.
+OSWALD:
+Well, madam.
+GONERIL:
+And let his knights have colder looks among you,
+GONERIL:
+What grows of it, no matter, advise your fellows so
+GONERIL:
+I would breed from hence occasions, and I shall,
+GONERIL:
+That I may speak: I'll write straight to my sister,
+GONERIL:
+To hold my very course. Prepare for dinner.
+GONERIL:
+Exeunt
+GONERIL:
+SCENE IV. A hall in the same.
+GONERIL:
+Enter KENT, disguised
+KENT:
+If but as well I other accents borrow,
+KENT:
+That can my speech defuse, my good intent
+KENT:
+May carry through itself to that full issue
+KENT:
+For which I razed my likeness. Now, banish'd Kent,
+KENT:
+If thou canst serve where thou dost stand condemn'd,
+KENT:
+So may it come, thy master, whom thou lovest,
+KENT:
+Shall find thee full of labours.
+KENT:
+Horns within. Enter KING LEAR, Knights, and Attendants
+KING LEAR:
+Let me not stay a jot for dinner, go get it ready.
+KING LEAR:
+Exit an Attendant
+KING LEAR:
+How now! what art thou?
+KENT:
+A man, sir.
+KING LEAR:
+What dost thou profess? what wouldst thou with us?
+KENT:
+I do profess to be no less than I seem, to serve
+KENT:
+him truly that will put me in trust: to love him
+KENT:
+that is honest, to converse with him that is wise,
+KENT:
+and says little, to fear judgment, to fight when I
+KENT:
+cannot choose, and to eat no fish.
+KING LEAR:
+What art thou?
+KENT:
+A very honest-hearted fellow, and as poor as the king.
+KING LEAR:
+If thou be as poor for a subject as he is for a
+KING LEAR:
+king, thou art poor enough. What wouldst thou?
+KENT:
+Service.
+KING LEAR:
+Who wouldst thou serve?
+KENT:
+You.
+KING LEAR:
+Dost thou know me, fellow?
+KENT:
+No, sir, but you have that in your countenance
+KENT:
+which I would fain call master.
+KING LEAR:
+What's that?
+KENT:
+Authority.
+KING LEAR:
+What services canst thou do?
+KENT:
+I can keep honest counsel, ride, run, mar a curious
+KENT:
+tale in telling it, and deliver a plain message
+KENT:
+bluntly: that which ordinary men are fit for, I am
+KENT:
+qualified in, and the best of me is diligence.
+KING LEAR:
+How old art thou?
+KENT:
+Not so young, sir, to love a woman for singing, nor
+KENT:
+so old to dote on her for any thing: I have years
+KENT:
+on my back forty eight.
+KING LEAR:
+Follow me, thou shalt serve me: if I like thee no
+KING LEAR:
+worse after dinner, I will not part from thee yet.
+KING LEAR:
+Dinner, ho, dinner! Where's my knave? my fool?
+KING LEAR:
+Go you, and call my fool hither.
+KING LEAR:
+Exit an Attendant
+KING LEAR:
+Enter OSWALD
+KING LEAR:
+You, you, sirrah, where's my daughter?
+OSWALD:
+So please you,--
+OSWALD:
+Exit
+KING LEAR:
+What says the fellow there? Call the clotpoll back.
+KING LEAR:
+Exit a Knight
+KING LEAR:
+Where's my fool, ho? I think the world's asleep.
+KING LEAR:
+Re-enter Knight
+KING LEAR:
+How now! where's that mongrel?
+Knight:
+He says, my lord, your daughter is not well.
+KING LEAR:
+Why came not the slave back to me when I called him.
+Knight:
+Sir, he answered me in the roundest manner, he would
+Knight:
+not.
+KING LEAR:
+He would not!
+Knight:
+My lord, I know not what the matter is, but, to my
+Knight:
+judgment, your highness is not entertained with that
+Knight:
+ceremonious affection as you were wont, there's a
+Knight:
+great abatement of kindness appears as well in the
+Knight:
+general dependants as in the duke himself also and
+Knight:
+your daughter.
+KING LEAR:
+Ha! sayest thou so?
+Knight:
+I beseech you, pardon me, my lord, if I be mistaken,
+Knight:
+for my duty cannot be silent when I think your
+Knight:
+highness wronged.
+KING LEAR:
+Thou but rememberest me of mine own conception: I
+KING LEAR:
+have perceived a most faint neglect of late, which I
+KING LEAR:
+have rather blamed as mine own jealous curiosity
+KING LEAR:
+than as a very pretence and purpose of unkindness
+KING LEAR:
+I will look further into't. But where's my fool? I
+KING LEAR:
+have not seen him this two days.
+Knight:
+Since my young lady's going into France, sir, the
+Knight:
+fool hath much pined away.
+KING LEAR:
+No more of that, I have noted it well. Go you, and
+KING LEAR:
+tell my daughter I would speak with her.
+KING LEAR:
+Exit an Attendant
+KING LEAR:
+Go you, call hither my fool.
+KING LEAR:
+Exit an Attendant
+KING LEAR:
+Re-enter OSWALD
+KING LEAR:
+O, you sir, you, come you hither, sir: who am I,
+KING LEAR:
+sir?
+OSWALD:
+My lady's father.
+KING LEAR:
+'My lady's father'! my lord's knave: your
+KING LEAR:
+whoreson dog! you slave! you cur!
+OSWALD:
+I am none of these, my lord, I beseech your pardon.
+KING LEAR:
+Do you bandy looks with me, you rascal?
+KING LEAR:
+Striking him
+OSWALD:
+I'll not be struck, my lord.
+KENT:
+Nor tripped neither, you base football player.
+KENT:
+Tripping up his heels
+KING LEAR:
+I thank thee, fellow, thou servest me, and I'll
+KING LEAR:
+love thee.
+KENT:
+Come, sir, arise, away! I'll teach you differences
+KENT:
+away, away! if you will measure your lubber's
+KENT:
+length again, tarry: but away! go to, have you
+KENT:
+wisdom? so.
+KENT:
+Pushes OSWALD out
+KING LEAR:
+Now, my friendly knave, I thank thee: there's
+KING LEAR:
+earnest of thy service.
+KING LEAR:
+Giving KENT money
+KING LEAR:
+Enter Fool
+Fool:
+Let me hire him too: here's my coxcomb.
+Fool:
+Offering KENT his cap
+KING LEAR:
+How now, my pretty knave! how dost thou?
+Fool:
+Sirrah, you were best take my coxcomb.
+KENT:
+Why, fool?
+Fool:
+Why, for taking one's part that's out of favour
+Fool:
+nay, an thou canst not smile as the wind sits,
+Fool:
+thou'lt catch cold shortly: there, take my coxcomb
+Fool:
+why, this fellow has banished two on's daughters,
+Fool:
+and did the third a blessing against his will, if
+Fool:
+thou follow him, thou must needs wear my coxcomb.
+Fool:
+How now, nuncle! Would I had two coxcombs and two daughters!
+KING LEAR:
+Why, my boy?
+Fool:
+If I gave them all my living, I'ld keep my coxcombs
+Fool:
+myself. There's mine, beg another of thy daughters.
+KING LEAR:
+Take heed, sirrah, the whip.
+Fool:
+Truth's a dog must to kennel, he must be whipped
+Fool:
+out, when Lady the brach may stand by the fire and stink.
+KING LEAR:
+A pestilent gall to me!
+Fool:
+Sirrah, I'll teach thee a speech.
+KING LEAR:
+Do.
+Fool:
+Mark it, nuncle
+Fool:
+Have more than thou showest,
+Fool:
+Speak less than thou knowest,
+Fool:
+Lend less than thou owest,
+Fool:
+Ride more than thou goest,
+Fool:
+Learn more than thou trowest,
+Fool:
+Set less than thou throwest,
+Fool:
+Leave thy drink and thy whore,
+Fool:
+And keep in-a-door,
+Fool:
+And thou shalt have more
+Fool:
+Than two tens to a score.
+KENT:
+This is nothing, fool.
+Fool:
+Then 'tis like the breath of an unfee'd lawyer, you
+Fool:
+gave me nothing for't. Can you make no use of
+Fool:
+nothing, nuncle?
+KING LEAR:
+Why, no, boy, nothing can be made out of nothing.
+Fool:
+[To KENT]  Prithee, tell him, so much the rent of
+Fool:
+his land comes to: he will not believe a fool.
+KING LEAR:
+A bitter fool!
+Fool:
+Dost thou know the difference, my boy, between a
+Fool:
+bitter fool and a sweet fool?
+KING LEAR:
+No, lad, teach me.
+Fool:
+That lord that counsell'd thee
+Fool:
+To give away thy land,
+Fool:
+Come place him here by me,
+Fool:
+Do thou for him stand
+Fool:
+The sweet and bitter fool
+Fool:
+Will presently appear,
+Fool:
+The one in motley here,
+Fool:
+The other found out there.
+KING LEAR:
+Dost thou call me fool, boy?
+Fool:
+All thy other titles thou hast given away, that
+Fool:
+thou wast born with.
+KENT:
+This is not altogether fool, my lord.
+Fool:
+No, faith, lords and great men will not let me, if
+Fool:
+I had a monopoly out, they would have part on't
+Fool:
+and ladies too, they will not let me have all fool
+Fool:
+to myself, they'll be snatching. Give me an egg,
+Fool:
+nuncle, and I'll give thee two crowns.
+KING LEAR:
+What two crowns shall they be?
+Fool:
+Why, after I have cut the egg i' the middle, and eat
+Fool:
+up the meat, the two crowns of the egg. When thou
+Fool:
+clovest thy crown i' the middle, and gavest away
+Fool:
+both parts, thou borest thy ass on thy back o'er
+Fool:
+the dirt: thou hadst little wit in thy bald crown,
+Fool:
+when thou gavest thy golden one away. If I speak
+Fool:
+like myself in this, let him be whipped that first
+Fool:
+finds it so.
+Fool:
+Singing
+Fool:
+Fools had ne'er less wit in a year,
+Fool:
+For wise men are grown foppish,
+Fool:
+They know not how their wits to wear,
+Fool:
+Their manners are so apish.
+KING LEAR:
+When were you wont to be so full of songs, sirrah?
+Fool:
+I have used it, nuncle, ever since thou madest thy
+Fool:
+daughters thy mothers: for when thou gavest them
+Fool:
+the rod, and put'st down thine own breeches,
+Fool:
+Singing
+Fool:
+Then they for sudden joy did weep,
+Fool:
+And I for sorrow sung,
+Fool:
+That such a king should play bo-peep,
+Fool:
+And go the fools among.
+Fool:
+Prithee, nuncle, keep a schoolmaster that can teach
+Fool:
+thy fool to lie: I would fain learn to lie.
+KING LEAR:
+An you lie, sirrah, we'll have you whipped.
+Fool:
+I marvel what kin thou and thy daughters are
+Fool:
+they'll have me whipped for speaking true, thou'lt
+Fool:
+have me whipped for lying, and sometimes I am
+Fool:
+whipped for holding my peace. I had rather be any
+Fool:
+kind o' thing than a fool: and yet I would not be
+Fool:
+thee, nuncle, thou hast pared thy wit o' both sides,
+Fool:
+and left nothing i' the middle: here comes one o'
+Fool:
+the parings.
+Fool:
+Enter GONERIL
+KING LEAR:
+How now, daughter! what makes that frontlet on?
+KING LEAR:
+Methinks you are too much of late i' the frown.
+Fool:
+Thou wast a pretty fellow when thou hadst no need to
+Fool:
+care for her frowning, now thou art an O without a
+Fool:
+figure: I am better than thou art now, I am a fool,
+Fool:
+thou art nothing.
+Fool:
+To GONERIL
+Fool:
+Yes, forsooth, I will hold my tongue, so your face
+Fool:
+bids me, though you say nothing. Mum, mum,
+Fool:
+He that keeps nor crust nor crum,
+Fool:
+Weary of all, shall want some.
+Fool:
+Pointing to KING LEAR
+Fool:
+That's a shealed peascod.
+GONERIL:
+Not only, sir, this your all-licensed fool,
+GONERIL:
+But other of your insolent retinue
+GONERIL:
+Do hourly carp and quarrel, breaking forth
+GONERIL:
+In rank and not-to-be endured riots. Sir,
+GONERIL:
+I had thought, by making this well known unto you,
+GONERIL:
+To have found a safe redress, but now grow fearful,
+GONERIL:
+By what yourself too late have spoke and done.
+GONERIL:
+That you protect this course, and put it on
+GONERIL:
+By your allowance, which if you should, the fault
+GONERIL:
+Would not 'scape censure, nor the redresses sleep,
+GONERIL:
+Which, in the tender of a wholesome weal,
+GONERIL:
+Might in their working do you that offence,
+GONERIL:
+Which else were shame, that then necessity
+GONERIL:
+Will call discreet proceeding.
+Fool:
+For, you trow, nuncle,
+Fool:
+The hedge-sparrow fed the cuckoo so long,
+Fool:
+That it's had it head bit off by it young.
+Fool:
+So, out went the candle, and we were left darkling.
+KING LEAR:
+Are you our daughter?
+GONERIL:
+Come, sir,
+GONERIL:
+I would you would make use of that good wisdom,
+GONERIL:
+Whereof I know you are fraught, and put away
+GONERIL:
+These dispositions, that of late transform you
+GONERIL:
+From what you rightly are.
+Fool:
+May not an ass know when the cart
+Fool:
+draws the horse? Whoop, Jug! I love thee.
+KING LEAR:
+Doth any here know me? This is not Lear
+KING LEAR:
+Doth Lear walk thus? speak thus? Where are his eyes?
+KING LEAR:
+Either his notion weakens, his discernings
+KING LEAR:
+Are lethargied--Ha! waking? 'tis not so.
+KING LEAR:
+Who is it that can tell me who I am?
+Fool:
+Lear's shadow.
+KING LEAR:
+I would learn that, for, by the
+KING LEAR:
+marks of sovereignty, knowledge, and reason,
+KING LEAR:
+I should be false persuaded I had daughters.
+Fool:
+Which they will make an obedient father.
+KING LEAR:
+Your name, fair gentlewoman?
+GONERIL:
+This admiration, sir, is much o' the savour
+GONERIL:
+Of other your new pranks. I do beseech you
+GONERIL:
+To understand my purposes aright
+GONERIL:
+As you are old and reverend, you should be wise.
+GONERIL:
+Here do you keep a hundred knights and squires,
+GONERIL:
+Men so disorder'd, so debosh'd and bold,
+GONERIL:
+That this our court, infected with their manners,
+GONERIL:
+Shows like a riotous inn: epicurism and lust
+GONERIL:
+Make it more like a tavern or a brothel
+GONERIL:
+Than a graced palace. The shame itself doth speak
+GONERIL:
+For instant remedy: be then desired
+GONERIL:
+By her, that else will take the thing she begs,
+GONERIL:
+A little to disquantity your train,
+GONERIL:
+And the remainder, that shall still depend,
+GONERIL:
+To be such men as may besort your age,
+GONERIL:
+And know themselves and you.
+KING LEAR:
+Darkness and devils!
+KING LEAR:
+Saddle my horses, call my train together
+KING LEAR:
+Degenerate bastard! I'll not trouble thee.
+KING LEAR:
+Yet have I left a daughter.
+GONERIL:
+You strike my people, and your disorder'd rabble
+GONERIL:
+Make servants of their betters.
+GONERIL:
+Enter ALBANY
+KING LEAR:
+Woe, that too late repents,--
+KING LEAR:
+To ALBANY
+KING LEAR:
+O, sir, are you come?
+KING LEAR:
+Is it your will? Speak, sir. Prepare my horses.
+KING LEAR:
+Ingratitude, thou marble-hearted fiend,
+KING LEAR:
+More hideous when thou show'st thee in a child
+KING LEAR:
+Than the sea-monster!
+ALBANY:
+Pray, sir, be patient.
+KING LEAR:
+[To GONERIL]  Detested kite! thou liest.
+KING LEAR:
+My train are men of choice and rarest parts,
+KING LEAR:
+That all particulars of duty know,
+KING LEAR:
+And in the most exact regard support
+KING LEAR:
+The worships of their name. O most small fault,
+KING LEAR:
+How ugly didst thou in Cordelia show!
+KING LEAR:
+That, like an engine, wrench'd my frame of nature
+KING LEAR:
+From the fix'd place, drew from heart all love,
+KING LEAR:
+And added to the gall. O Lear, Lear, Lear!
+KING LEAR:
+Beat at this gate, that let thy folly in,
+KING LEAR:
+Striking his head
+KING LEAR:
+And thy dear judgment out! Go, go, my people.
+ALBANY:
+My lord, I am guiltless, as I am ignorant
+ALBANY:
+Of what hath moved you.
+KING LEAR:
+It may be so, my lord.
+KING LEAR:
+Hear, nature, hear, dear goddess, hear!
+KING LEAR:
+Suspend thy purpose, if thou didst intend
+KING LEAR:
+To make this creature fruitful!
+KING LEAR:
+Into her womb convey sterility!
+KING LEAR:
+Dry up in her the organs of increase,
+KING LEAR:
+And from her derogate body never spring
+KING LEAR:
+A babe to honour her! If she must teem,
+KING LEAR:
+Create her child of spleen, that it may live,
+KING LEAR:
+And be a thwart disnatured torment to her!
+KING LEAR:
+Let it stamp wrinkles in her brow of youth,
+KING LEAR:
+With cadent tears fret channels in her cheeks,
+KING LEAR:
+Turn all her mother's pains and benefits
+KING LEAR:
+To laughter and contempt, that she may feel
+KING LEAR:
+How sharper than a serpent's tooth it is
+KING LEAR:
+To have a thankless child! Away, away!
+KING LEAR:
+Exit
+ALBANY:
+Now, gods that we adore, whereof comes this?
+GONERIL:
+Never afflict yourself to know the cause,
+GONERIL:
+But let his disposition have that scope
+GONERIL:
+That dotage gives it.
+GONERIL:
+Re-enter KING LEAR
+KING LEAR:
+What, fifty of my followers at a clap!
+KING LEAR:
+Within a fortnight!
+ALBANY:
+What's the matter, sir?
+KING LEAR:
+I'll tell thee
+KING LEAR:
+To GONERIL
+KING LEAR:
+Life and death! I am ashamed
+KING LEAR:
+That thou hast power to shake my manhood thus,
+KING LEAR:
+That these hot tears, which break from me perforce,
+KING LEAR:
+Should make thee worth them. Blasts and fogs upon thee!
+KING LEAR:
+The untented woundings of a father's curse
+KING LEAR:
+Pierce every sense about thee! Old fond eyes,
+KING LEAR:
+Beweep this cause again, I'll pluck ye out,
+KING LEAR:
+And cast you, with the waters that you lose,
+KING LEAR:
+To temper clay. Yea, it is come to this?
+KING LEAR:
+Let is be so: yet have I left a daughter,
+KING LEAR:
+Who, I am sure, is kind and comfortable
+KING LEAR:
+When she shall hear this of thee, with her nails
+KING LEAR:
+She'll flay thy wolvish visage. Thou shalt find
+KING LEAR:
+That I'll resume the shape which thou dost think
+KING LEAR:
+I have cast off for ever: thou shalt,
+KING LEAR:
+I warrant thee.
+KING LEAR:
+Exeunt KING LEAR, KENT, and Attendants
+GONERIL:
+Do you mark that, my lord?
+ALBANY:
+I cannot be so partial, Goneril,
+ALBANY:
+To the great love I bear you,--
+GONERIL:
+Pray you, content. What, Oswald, ho!
+GONERIL:
+To the Fool
+GONERIL:
+You, sir, more knave than fool, after your master.
+Fool:
+Nuncle Lear, nuncle Lear, tarry and take the fool
+Fool:
+with thee.
+Fool:
+A fox, when one has caught her,
+Fool:
+And such a daughter,
+Fool:
+Should sure to the slaughter,
+Fool:
+If my cap would buy a halter
+Fool:
+So the fool follows after.
+Fool:
+Exit
+GONERIL:
+This man hath had good counsel:--a hundred knights!
+GONERIL:
+'Tis politic and safe to let him keep
+GONERIL:
+At point a hundred knights: yes, that, on every dream,
+GONERIL:
+Each buzz, each fancy, each complaint, dislike,
+GONERIL:
+He may enguard his dotage with their powers,
+GONERIL:
+And hold our lives in mercy. Oswald, I say!
+ALBANY:
+Well, you may fear too far.
+GONERIL:
+Safer than trust too far
+GONERIL:
+Let me still take away the harms I fear,
+GONERIL:
+Not fear still to be taken: I know his heart.
+GONERIL:
+What he hath utter'd I have writ my sister
+GONERIL:
+If she sustain him and his hundred knights
+GONERIL:
+When I have show'd the unfitness,--
+GONERIL:
+Re-enter OSWALD
+GONERIL:
+How now, Oswald!
+GONERIL:
+What, have you writ that letter to my sister?
+OSWALD:
+Yes, madam.
+GONERIL:
+Take you some company, and away to horse
+GONERIL:
+Inform her full of my particular fear,
+GONERIL:
+And thereto add such reasons of your own
+GONERIL:
+As may compact it more. Get you gone,
+GONERIL:
+And hasten your return.
+GONERIL:
+Exit OSWALD
+GONERIL:
+No, no, my lord,
+GONERIL:
+This milky gentleness and course of yours
+GONERIL:
+Though I condemn not, yet, under pardon,
+GONERIL:
+You are much more attask'd for want of wisdom
+GONERIL:
+Than praised for harmful mildness.
+ALBANY:
+How far your eyes may pierce I can not tell
+ALBANY:
+Striving to better, oft we mar what's well.
+GONERIL:
+Nay, then--
+ALBANY:
+Well, well, the event.
+ALBANY:
+Exeunt
+ALBANY:
+SCENE V. Court before the same.
+ALBANY:
+Enter KING LEAR, KENT, and Fool
+KING LEAR:
+Go you before to Gloucester with these letters.
+KING LEAR:
+Acquaint my daughter no further with any thing you
+KING LEAR:
+know than comes from her demand out of the letter.
+KING LEAR:
+If your diligence be not speedy, I shall be there afore you.
+KENT:
+I will not sleep, my lord, till I have delivered
+KENT:
+your letter.
+KENT:
+Exit
+Fool:
+If a man's brains were in's heels, were't not in
+Fool:
+danger of kibes?
+KING LEAR:
+Ay, boy.
+Fool:
+Then, I prithee, be merry, thy wit shall ne'er go
+Fool:
+slip-shod.
+KING LEAR:
+Ha, ha, ha!
+Fool:
+Shalt see thy other daughter will use thee kindly,
+Fool:
+for though she's as like this as a crab's like an
+Fool:
+apple, yet I can tell what I can tell.
+KING LEAR:
+Why, what canst thou tell, my boy?
+Fool:
+She will taste as like this as a crab does to a
+Fool:
+crab. Thou canst tell why one's nose stands i'
+Fool:
+the middle on's face?
+KING LEAR:
+No.
+Fool:
+Why, to keep one's eyes of either side's nose, that
+Fool:
+what a man cannot smell out, he may spy into.
+KING LEAR:
+I did her wrong--
+Fool:
+Canst tell how an oyster makes his shell?
+KING LEAR:
+No.
+Fool:
+Nor I neither, but I can tell why a snail has a house.
+KING LEAR:
+Why?
+Fool:
+Why, to put his head in, not to give it away to his
+Fool:
+daughters, and leave his horns without a case.
+KING LEAR:
+I will forget my nature. So kind a father! Be my
+KING LEAR:
+horses ready?
+Fool:
+Thy asses are gone about 'em. The reason why the
+Fool:
+seven stars are no more than seven is a pretty reason.
+KING LEAR:
+Because they are not eight?
+Fool:
+Yes, indeed: thou wouldst make a good fool.
+KING LEAR:
+To take 't again perforce! Monster ingratitude!
+Fool:
+If thou wert my fool, nuncle, I'ld have thee beaten
+Fool:
+for being old before thy time.
+KING LEAR:
+How's that?
+Fool:
+Thou shouldst not have been old till thou hadst
+Fool:
+been wise.
+KING LEAR:
+O, let me not be mad, not mad, sweet heaven
+KING LEAR:
+Keep me in temper: I would not be mad!
+KING LEAR:
+Enter Gentleman
+KING LEAR:
+How now! are the horses ready?
+Gentleman:
+Ready, my lord.
+KING LEAR:
+Come, boy.
+Fool:
+She that's a maid now, and laughs at my departure,
+Fool:
+Shall not be a maid long, unless things be cut shorter.
+Fool:
+Exeunt
+Fool:
+ACT II
+Fool:
+SCENE I. GLOUCESTER's castle.
+Fool:
+Enter EDMUND, and CURAN meets him
+EDMUND:
+Save thee, Curan.
+CURAN:
+And you, sir. I have been with your father, and
+CURAN:
+given him notice that the Duke of Cornwall and Regan
+CURAN:
+his duchess will be here with him this night.
+EDMUND:
+How comes that?
+CURAN:
+Nay, I know not. You have heard of the news abroad,
+CURAN:
+I mean the whispered ones, for they are yet but
+CURAN:
+ear-kissing arguments?
+EDMUND:
+Not I	pray you, what are they?
+CURAN:
+Have you heard of no likely wars toward, 'twixt the
+CURAN:
+Dukes of Cornwall and Albany?
+EDMUND:
+Not a word.
+CURAN:
+You may do, then, in time. Fare you well, sir.
+CURAN:
+Exit
+EDMUND:
+The duke be here to-night? The better! best!
+EDMUND:
+This weaves itself perforce into my business.
+EDMUND:
+My father hath set guard to take my brother,
+EDMUND:
+And I have one thing, of a queasy question,
+EDMUND:
+Which I must act: briefness and fortune, work!
+EDMUND:
+Brother, a word, descend: brother, I say!
+EDMUND:
+Enter EDGAR
+EDMUND:
+My father watches: O sir, fly this place,
+EDMUND:
+Intelligence is given where you are hid,
+EDMUND:
+You have now the good advantage of the night
+EDMUND:
+Have you not spoken 'gainst the Duke of Cornwall?
+EDMUND:
+He's coming hither: now, i' the night, i' the haste,
+EDMUND:
+And Regan with him: have you nothing said
+EDMUND:
+Upon his party 'gainst the Duke of Albany?
+EDMUND:
+Advise yourself.
+EDGAR:
+I am sure on't, not a word.
+EDMUND:
+I hear my father coming: pardon me
+EDMUND:
+In cunning I must draw my sword upon you
+EDMUND:
+Draw, seem to defend yourself, now quit you well.
+EDMUND:
+Yield: come before my father. Light, ho, here!
+EDMUND:
+Fly, brother. Torches, torches! So, farewell.
+EDMUND:
+Exit EDGAR
+EDMUND:
+Some blood drawn on me would beget opinion.
+EDMUND:
+Wounds his arm
+EDMUND:
+Of my more fierce endeavour: I have seen drunkards
+EDMUND:
+Do more than this in sport. Father, father!
+EDMUND:
+Stop, stop! No help?
+EDMUND:
+Enter GLOUCESTER, and Servants with torches
+GLOUCESTER:
+Now, Edmund, where's the villain?
+EDMUND:
+Here stood he in the dark, his sharp sword out,
+EDMUND:
+Mumbling of wicked charms, conjuring the moon
+EDMUND:
+To stand auspicious mistress,--
+GLOUCESTER:
+But where is he?
+EDMUND:
+Look, sir, I bleed.
+GLOUCESTER:
+Where is the villain, Edmund?
+EDMUND:
+Fled this way, sir. When by no means he could--
+GLOUCESTER:
+Pursue him, ho! Go after.
+GLOUCESTER:
+Exeunt some Servants
+GLOUCESTER:
+By no means what?
+EDMUND:
+Persuade me to the murder of your lordship,
+EDMUND:
+But that I told him, the revenging gods
+EDMUND:
+'Gainst parricides did all their thunders bend,
+EDMUND:
+Spoke, with how manifold and strong a bond
+EDMUND:
+The child was bound to the father, sir, in fine,
+EDMUND:
+Seeing how loathly opposite I stood
+EDMUND:
+To his unnatural purpose, in fell motion,
+EDMUND:
+With his prepared sword, he charges home
+EDMUND:
+My unprovided body, lanced mine arm
+EDMUND:
+But when he saw my best alarum'd spirits,
+EDMUND:
+Bold in the quarrel's right, roused to the encounter,
+EDMUND:
+Or whether gasted by the noise I made,
+EDMUND:
+Full suddenly he fled.
+GLOUCESTER:
+Let him fly far
+GLOUCESTER:
+Not in this land shall he remain uncaught,
+GLOUCESTER:
+And found--dispatch. The noble duke my master,
+GLOUCESTER:
+My worthy arch and patron, comes to-night
+GLOUCESTER:
+By his authority I will proclaim it,
+GLOUCESTER:
+That he which finds him shall deserve our thanks,
+GLOUCESTER:
+Bringing the murderous coward to the stake,
+GLOUCESTER:
+He that conceals him, death.
+EDMUND:
+When I dissuaded him from his intent,
+EDMUND:
+And found him pight to do it, with curst speech
+EDMUND:
+I threaten'd to discover him: he replied,
+EDMUND:
+'Thou unpossessing bastard! dost thou think,
+EDMUND:
+If I would stand against thee, would the reposal
+EDMUND:
+Of any trust, virtue, or worth in thee
+EDMUND:
+Make thy words faith'd? No: what I should deny,--
+EDMUND:
+As this I would: ay, though thou didst produce
+EDMUND:
+My very character,--I'ld turn it all
+EDMUND:
+To thy suggestion, plot, and damned practise
+EDMUND:
+And thou must make a dullard of the world,
+EDMUND:
+If they not thought the profits of my death
+EDMUND:
+Were very pregnant and potential spurs
+EDMUND:
+To make thee seek it.'
+GLOUCESTER:
+Strong and fasten'd villain
+GLOUCESTER:
+Would he deny his letter? I never got him.
+GLOUCESTER:
+Tucket within
+GLOUCESTER:
+Hark, the duke's trumpets! I know not why he comes.
+GLOUCESTER:
+All ports I'll bar, the villain shall not 'scape,
+GLOUCESTER:
+The duke must grant me that: besides, his picture
+GLOUCESTER:
+I will send far and near, that all the kingdom
+GLOUCESTER:
+May have the due note of him, and of my land,
+GLOUCESTER:
+Loyal and natural boy, I'll work the means
+GLOUCESTER:
+To make thee capable.
+GLOUCESTER:
+Enter CORNWALL, REGAN, and Attendants
+CORNWALL:
+How now, my noble friend! since I came hither,
+CORNWALL:
+Which I can call but now, I have heard strange news.
+REGAN:
+If it be true, all vengeance comes too short
+REGAN:
+Which can pursue the offender. How dost, my lord?
+GLOUCESTER:
+O, madam, my old heart is crack'd, it's crack'd!
+REGAN:
+What, did my father's godson seek your life?
+REGAN:
+He whom my father named? your Edgar?
+GLOUCESTER:
+O, lady, lady, shame would have it hid!
+REGAN:
+Was he not companion with the riotous knights
+REGAN:
+That tend upon my father?
+GLOUCESTER:
+I know not, madam: 'tis too bad, too bad.
+EDMUND:
+Yes, madam, he was of that consort.
+REGAN:
+No marvel, then, though he were ill affected
+REGAN:
+'Tis they have put him on the old man's death,
+REGAN:
+To have the expense and waste of his revenues.
+REGAN:
+I have this present evening from my sister
+REGAN:
+Been well inform'd of them, and with such cautions,
+REGAN:
+That if they come to sojourn at my house,
+REGAN:
+I'll not be there.
+CORNWALL:
+Nor I, assure thee, Regan.
+CORNWALL:
+Edmund, I hear that you have shown your father
+CORNWALL:
+A child-like office.
+EDMUND:
+'Twas my duty, sir.
+GLOUCESTER:
+He did bewray his practise, and received
+GLOUCESTER:
+This hurt you see, striving to apprehend him.
+CORNWALL:
+Is he pursued?
+GLOUCESTER:
+Ay, my good lord.
+CORNWALL:
+If he be taken, he shall never more
+CORNWALL:
+Be fear'd of doing harm: make your own purpose,
+CORNWALL:
+How in my strength you please. For you, Edmund,
+CORNWALL:
+Whose virtue and obedience doth this instant
+CORNWALL:
+So much commend itself, you shall be ours
+CORNWALL:
+Natures of such deep trust we shall much need,
+CORNWALL:
+You we first seize on.
+EDMUND:
+I shall serve you, sir,
+EDMUND:
+Truly, however else.
+GLOUCESTER:
+For him I thank your grace.
+CORNWALL:
+You know not why we came to visit you,--
+REGAN:
+Thus out of season, threading dark-eyed night
+REGAN:
+Occasions, noble Gloucester, of some poise,
+REGAN:
+Wherein we must have use of your advice
+REGAN:
+Our father he hath writ, so hath our sister,
+REGAN:
+Of differences, which I least thought it fit
+REGAN:
+To answer from our home, the several messengers
+REGAN:
+From hence attend dispatch. Our good old friend,
+REGAN:
+Lay comforts to your bosom, and bestow
+REGAN:
+Your needful counsel to our business,
+REGAN:
+Which craves the instant use.
+GLOUCESTER:
+I serve you, madam
+GLOUCESTER:
+Your graces are right welcome.
+GLOUCESTER:
+Exeunt
+GLOUCESTER:
+SCENE II. Before Gloucester's castle.
+GLOUCESTER:
+Enter KENT and OSWALD, severally
+OSWALD:
+Good dawning to thee, friend: art of this house?
+KENT:
+Ay.
+OSWALD:
+Where may we set our horses?
+KENT:
+I' the mire.
+OSWALD:
+Prithee, if thou lovest me, tell me.
+KENT:
+I love thee not.
+OSWALD:
+Why, then, I care not for thee.
+KENT:
+If I had thee in Lipsbury pinfold, I would make thee
+KENT:
+care for me.
+OSWALD:
+Why dost thou use me thus? I know thee not.
+KENT:
+Fellow, I know thee.
+OSWALD:
+What dost thou know me for?
+KENT:
+A knave, a rascal, an eater of broken meats, a
+KENT:
+base, proud, shallow, beggarly, three-suited,
+KENT:
+hundred-pound, filthy, worsted-stocking knave, a
+KENT:
+lily-livered, action-taking knave, a whoreson,
+KENT:
+glass-gazing, super-serviceable finical rogue,
+KENT:
+one-trunk-inheriting slave, one that wouldst be a
+KENT:
+bawd, in way of good service, and art nothing but
+KENT:
+the composition of a knave, beggar, coward, pandar,
+KENT:
+and the son and heir of a mongrel bitch: one whom I
+KENT:
+will beat into clamorous whining, if thou deniest
+KENT:
+the least syllable of thy addition.
+OSWALD:
+Why, what a monstrous fellow art thou, thus to rail
+OSWALD:
+on one that is neither known of thee nor knows thee!
+KENT:
+What a brazen-faced varlet art thou, to deny thou
+KENT:
+knowest me! Is it two days ago since I tripped up
+KENT:
+thy heels, and beat thee before the king? Draw, you
+KENT:
+rogue: for, though it be night, yet the moon
+KENT:
+shines, I'll make a sop o' the moonshine of you
+KENT:
+draw, you whoreson cullionly barber-monger, draw.
+KENT:
+Drawing his sword
+OSWALD:
+Away! I have nothing to do with thee.
+KENT:
+Draw, you rascal: you come with letters against the
+KENT:
+king, and take vanity the puppet's part against the
+KENT:
+royalty of her father: draw, you rogue, or I'll so
+KENT:
+carbonado your shanks: draw, you rascal, come your ways.
+OSWALD:
+Help, ho! murder! help!
+KENT:
+Strike, you slave, stand, rogue, stand, you neat
+KENT:
+slave, strike.
+KENT:
+Beating him
+OSWALD:
+Help, ho! murder! murder!
+OSWALD:
+Enter EDMUND, with his rapier drawn, CORNWALL, REGAN, GLOUCESTER, and Servants
+EDMUND:
+How now! What's the matter?
+KENT:
+With you, goodman boy, an you please: come, I'll
+KENT:
+flesh ye, come on, young master.
+GLOUCESTER:
+Weapons! arms! What 's the matter here?
+CORNWALL:
+Keep peace, upon your lives
+CORNWALL:
+He dies that strikes again. What is the matter?
+REGAN:
+The messengers from our sister and the king.
+CORNWALL:
+What is your difference? speak.
+OSWALD:
+I am scarce in breath, my lord.
+KENT:
+No marvel, you have so bestirred your valour. You
+KENT:
+cowardly rascal, nature disclaims in thee: a
+KENT:
+tailor made thee.
+CORNWALL:
+Thou art a strange fellow: a tailor make a man?
+KENT:
+Ay, a tailor, sir: a stone-cutter or painter could
+KENT:
+not have made him so ill, though he had been but two
+KENT:
+hours at the trade.
+CORNWALL:
+Speak yet, how grew your quarrel?
+OSWALD:
+This ancient ruffian, sir, whose life I have spared
+OSWALD:
+at suit of his gray beard,--
+KENT:
+Thou whoreson zed! thou unnecessary letter! My
+KENT:
+lord, if you will give me leave, I will tread this
+KENT:
+unbolted villain into mortar, and daub the wall of
+KENT:
+a jakes with him. Spare my gray beard, you wagtail?
+CORNWALL:
+Peace, sirrah!
+CORNWALL:
+You beastly knave, know you no reverence?
+KENT:
+Yes, sir, but anger hath a privilege.
+CORNWALL:
+Why art thou angry?
+KENT:
+That such a slave as this should wear a sword,
+KENT:
+Who wears no honesty. Such smiling rogues as these,
+KENT:
+Like rats, oft bite the holy cords a-twain
+KENT:
+Which are too intrinse t' unloose, smooth every passion
+KENT:
+That in the natures of their lords rebel,
+KENT:
+Bring oil to fire, snow to their colder moods,
+KENT:
+Renege, affirm, and turn their halcyon beaks
+KENT:
+With every gale and vary of their masters,
+KENT:
+Knowing nought, like dogs, but following.
+KENT:
+A plague upon your epileptic visage!
+KENT:
+Smile you my speeches, as I were a fool?
+KENT:
+Goose, if I had you upon Sarum plain,
+KENT:
+I'ld drive ye cackling home to Camelot.
+CORNWALL:
+Why, art thou mad, old fellow?
+GLOUCESTER:
+How fell you out? say that.
+KENT:
+No contraries hold more antipathy
+KENT:
+Than I and such a knave.
+CORNWALL:
+Why dost thou call him a knave?  What's his offence?
+KENT:
+His countenance likes me not.
+CORNWALL:
+No more, perchance, does mine, nor his, nor hers.
+KENT:
+Sir, 'tis my occupation to be plain
+KENT:
+I have seen better faces in my time
+KENT:
+Than stands on any shoulder that I see
+KENT:
+Before me at this instant.
+CORNWALL:
+This is some fellow,
+CORNWALL:
+Who, having been praised for bluntness, doth affect
+CORNWALL:
+A saucy roughness, and constrains the garb
+CORNWALL:
+Quite from his nature: he cannot flatter, he,
+CORNWALL:
+An honest mind and plain, he must speak truth!
+CORNWALL:
+An they will take it, so, if not, he's plain.
+CORNWALL:
+These kind of knaves I know, which in this plainness
+CORNWALL:
+Harbour more craft and more corrupter ends
+CORNWALL:
+Than twenty silly ducking observants
+CORNWALL:
+That stretch their duties nicely.
+KENT:
+Sir, in good sooth, in sincere verity,
+KENT:
+Under the allowance of your great aspect,
+KENT:
+Whose influence, like the wreath of radiant fire
+KENT:
+On flickering Phoebus' front,--
+CORNWALL:
+What mean'st by this?
+KENT:
+To go out of my dialect, which you
+KENT:
+discommend so much. I know, sir, I am no
+KENT:
+flatterer: he that beguiled you in a plain
+KENT:
+accent was a plain knave, which for my part
+KENT:
+I will not be, though I should win your displeasure
+KENT:
+to entreat me to 't.
+CORNWALL:
+What was the offence you gave him?
+OSWALD:
+I never gave him any
+OSWALD:
+It pleased the king his master very late
+OSWALD:
+To strike at me, upon his misconstruction,
+OSWALD:
+When he, conjunct and flattering his displeasure,
+OSWALD:
+Tripp'd me behind, being down, insulted, rail'd,
+OSWALD:
+And put upon him such a deal of man,
+OSWALD:
+That worthied him, got praises of the king
+OSWALD:
+For him attempting who was self-subdued,
+OSWALD:
+And, in the fleshment of this dread exploit,
+OSWALD:
+Drew on me here again.
+KENT:
+None of these rogues and cowards
+KENT:
+But Ajax is their fool.
+CORNWALL:
+Fetch forth the stocks!
+CORNWALL:
+You stubborn ancient knave, you reverend braggart,
+CORNWALL:
+We'll teach you--
+KENT:
+Sir, I am too old to learn
+KENT:
+Call not your stocks for me: I serve the king,
+KENT:
+On whose employment I was sent to you
+KENT:
+You shall do small respect, show too bold malice
+KENT:
+Against the grace and person of my master,
+KENT:
+Stocking his messenger.
+CORNWALL:
+Fetch forth the stocks! As I have life and honour,
+CORNWALL:
+There shall he sit till noon.
+REGAN:
+Till noon! till night, my lord, and all night too.
+KENT:
+Why, madam, if I were your father's dog,
+KENT:
+You should not use me so.
+REGAN:
+Sir, being his knave, I will.
+CORNWALL:
+This is a fellow of the self-same colour
+CORNWALL:
+Our sister speaks of. Come, bring away the stocks!
+CORNWALL:
+Stocks brought out
+GLOUCESTER:
+Let me beseech your grace not to do so
+GLOUCESTER:
+His fault is much, and the good king his master
+GLOUCESTER:
+Will cheque him for 't: your purposed low correction
+GLOUCESTER:
+Is such as basest and contemned'st wretches
+GLOUCESTER:
+For pilferings and most common trespasses
+GLOUCESTER:
+Are punish'd with: the king must take it ill,
+GLOUCESTER:
+That he's so slightly valued in his messenger,
+GLOUCESTER:
+Should have him thus restrain'd.
+CORNWALL:
+I'll answer that.
+REGAN:
+My sister may receive it much more worse,
+REGAN:
+To have her gentleman abused, assaulted,
+REGAN:
+For following her affairs. Put in his legs.
+REGAN:
+KENT is put in the stocks
+REGAN:
+Come, my good lord, away.
+REGAN:
+Exeunt all but GLOUCESTER and KENT
+GLOUCESTER:
+I am sorry for thee, friend, 'tis the duke's pleasure,
+GLOUCESTER:
+Whose disposition, all the world well knows,
+GLOUCESTER:
+Will not be rubb'd nor stopp'd: I'll entreat for thee.
+KENT:
+Pray, do not, sir: I have watched and travell'd hard,
+KENT:
+Some time I shall sleep out, the rest I'll whistle.
+KENT:
+A good man's fortune may grow out at heels
+KENT:
+Give you good morrow!
+GLOUCESTER:
+The duke's to blame in this, 'twill be ill taken.
+GLOUCESTER:
+Exit
+KENT:
+Good king, that must approve the common saw,
+KENT:
+Thou out of heaven's benediction comest
+KENT:
+To the warm sun!
+KENT:
+Approach, thou beacon to this under globe,
+KENT:
+That by thy comfortable beams I may
+KENT:
+Peruse this letter! Nothing almost sees miracles
+KENT:
+But misery: I know 'tis from Cordelia,
+KENT:
+Who hath most fortunately been inform'd
+KENT:
+Of my obscured course, and shall find time
+KENT:
+From this enormous state, seeking to give
+KENT:
+Losses their remedies. All weary and o'erwatch'd,
+KENT:
+Take vantage, heavy eyes, not to behold
+KENT:
+This shameful lodging.
+KENT:
+Fortune, good night: smile once more: turn thy wheel!
+KENT:
+Sleeps
+KENT:
+SCENE III. A wood.
+KENT:
+Enter EDGAR
+EDGAR:
+I heard myself proclaim'd,
+EDGAR:
+And by the happy hollow of a tree
+EDGAR:
+Escaped the hunt. No port is free, no place,
+EDGAR:
+That guard, and most unusual vigilance,
+EDGAR:
+Does not attend my taking. Whiles I may 'scape,
+EDGAR:
+I will preserve myself: and am bethought
+EDGAR:
+To take the basest and most poorest shape
+EDGAR:
+That ever penury, in contempt of man,
+EDGAR:
+Brought near to beast: my face I'll grime with filth,
+EDGAR:
+Blanket my loins: elf all my hair in knots,
+EDGAR:
+And with presented nakedness out-face
+EDGAR:
+The winds and persecutions of the sky.
+EDGAR:
+The country gives me proof and precedent
+EDGAR:
+Of Bedlam beggars, who, with roaring voices,
+EDGAR:
+Strike in their numb'd and mortified bare arms
+EDGAR:
+Pins, wooden pricks, nails, sprigs of rosemary,
+EDGAR:
+And with this horrible object, from low farms,
+EDGAR:
+Poor pelting villages, sheep-cotes, and mills,
+EDGAR:
+Sometime with lunatic bans, sometime with prayers,
+EDGAR:
+Enforce their charity. Poor Turlygod! poor Tom!
+EDGAR:
+That's something yet: Edgar I nothing am.
+EDGAR:
+Exit
+EDGAR:
+SCENE IV. Before GLOUCESTER's castle. KENT in the stocks.
+EDGAR:
+Enter KING LEAR, Fool, and Gentleman
+KING LEAR:
+'Tis strange that they should so depart from home,
+KING LEAR:
+And not send back my messenger.
+Gentleman:
+As I learn'd,
+Gentleman:
+The night before there was no purpose in them
+Gentleman:
+Of this remove.
+KENT:
+Hail to thee, noble master!
+KING LEAR:
+Ha!
+KING LEAR:
+Makest thou this shame thy pastime?
+KENT:
+No, my lord.
+Fool:
+Ha, ha! he wears cruel garters. Horses are tied
+Fool:
+by the heads, dogs and bears by the neck, monkeys by
+Fool:
+the loins, and men by the legs: when a man's
+Fool:
+over-lusty at legs, then he wears wooden
+Fool:
+nether-stocks.
+KING LEAR:
+What's he that hath so much thy place mistook
+KING LEAR:
+To set thee here?
+KENT:
+It is both he and she,
+KENT:
+Your son and daughter.
+KING LEAR:
+No.
+KENT:
+Yes.
+KING LEAR:
+No, I say.
+KENT:
+I say, yea.
+KING LEAR:
+No, no, they would not.
+KENT:
+Yes, they have.
+KING LEAR:
+By Jupiter, I swear, no.
+KENT:
+By Juno, I swear, ay.
+KING LEAR:
+They durst not do 't,
+KING LEAR:
+They could not, would not do 't, 'tis worse than murder,
+KING LEAR:
+To do upon respect such violent outrage
+KING LEAR:
+Resolve me, with all modest haste, which way
+KING LEAR:
+Thou mightst deserve, or they impose, this usage,
+KING LEAR:
+Coming from us.
+KENT:
+My lord, when at their home
+KENT:
+I did commend your highness' letters to them,
+KENT:
+Ere I was risen from the place that show'd
+KENT:
+My duty kneeling, came there a reeking post,
+KENT:
+Stew'd in his haste, half breathless, panting forth
+KENT:
+From Goneril his mistress salutations,
+KENT:
+Deliver'd letters, spite of intermission,
+KENT:
+Which presently they read: on whose contents,
+KENT:
+They summon'd up their meiny, straight took horse,
+KENT:
+Commanded me to follow, and attend
+KENT:
+The leisure of their answer, gave me cold looks
+KENT:
+And meeting here the other messenger,
+KENT:
+Whose welcome, I perceived, had poison'd mine,--
+KENT:
+Being the very fellow that of late
+KENT:
+Display'd so saucily against your highness,--
+KENT:
+Having more man than wit about me, drew
+KENT:
+He raised the house with loud and coward cries.
+KENT:
+Your son and daughter found this trespass worth
+KENT:
+The shame which here it suffers.
+Fool:
+Winter's not gone yet, if the wild-geese fly that way.
+Fool:
+Fathers that wear rags
+Fool:
+Do make their children blind,
+Fool:
+But fathers that bear bags
+Fool:
+Shall see their children kind.
+Fool:
+Fortune, that arrant whore,
+Fool:
+Ne'er turns the key to the poor.
+Fool:
+But, for all this, thou shalt have as many dolours
+Fool:
+for thy daughters as thou canst tell in a year.
+KING LEAR:
+O, how this mother swells up toward my heart!
+KING LEAR:
+Hysterica passio, down, thou climbing sorrow,
+KING LEAR:
+Thy element's below! Where is this daughter?
+KENT:
+With the earl, sir, here within.
+KING LEAR:
+Follow me not,
+KING LEAR:
+Stay here.
+KING LEAR:
+Exit
+Gentleman:
+Made you no more offence but what you speak of?
+KENT:
+None.
+KENT:
+How chance the king comes with so small a train?
+Fool:
+And thou hadst been set i' the stocks for that
+Fool:
+question, thou hadst well deserved it.
+KENT:
+Why, fool?
+Fool:
+We'll set thee to school to an ant, to teach thee
+Fool:
+there's no labouring i' the winter. All that follow
+Fool:
+their noses are led by their eyes but blind men, and
+Fool:
+there's not a nose among twenty but can smell him
+Fool:
+that's stinking. Let go thy hold when a great wheel
+Fool:
+runs down a hill, lest it break thy neck with
+Fool:
+following it: but the great one that goes up the
+Fool:
+hill, let him draw thee after. When a wise man
+Fool:
+gives thee better counsel, give me mine again: I
+Fool:
+would have none but knaves follow it, since a fool gives it.
+Fool:
+That sir which serves and seeks for gain,
+Fool:
+And follows but for form,
+Fool:
+Will pack when it begins to rain,
+Fool:
+And leave thee in the storm,
+Fool:
+But I will tarry, the fool will stay,
+Fool:
+And let the wise man fly
+Fool:
+The knave turns fool that runs away,
+Fool:
+The fool no knave, perdy.
+KENT:
+Where learned you this, fool?
+Fool:
+Not i' the stocks, fool.
+Fool:
+Re-enter KING LEAR with GLOUCESTER
+KING LEAR:
+Deny to speak with me? They are sick? they are weary?
+KING LEAR:
+They have travell'd all the night? Mere fetches,
+KING LEAR:
+The images of revolt and flying off.
+KING LEAR:
+Fetch me a better answer.
+GLOUCESTER:
+My dear lord,
+GLOUCESTER:
+You know the fiery quality of the duke,
+GLOUCESTER:
+How unremoveable and fix'd he is
+GLOUCESTER:
+In his own course.
+KING LEAR:
+Vengeance! plague! death! confusion!
+KING LEAR:
+Fiery? what quality? Why, Gloucester, Gloucester,
+KING LEAR:
+I'ld speak with the Duke of Cornwall and his wife.
+GLOUCESTER:
+Well, my good lord, I have inform'd them so.
+KING LEAR:
+Inform'd them! Dost thou understand me, man?
+GLOUCESTER:
+Ay, my good lord.
+KING LEAR:
+The king would speak with Cornwall, the dear father
+KING LEAR:
+Would with his daughter speak, commands her service
+KING LEAR:
+Are they inform'd of this? My breath and blood!
+KING LEAR:
+Fiery? the fiery duke? Tell the hot duke that--
+KING LEAR:
+No, but not yet: may be he is not well
+KING LEAR:
+Infirmity doth still neglect all office
+KING LEAR:
+Whereto our health is bound, we are not ourselves
+KING LEAR:
+When nature, being oppress'd, commands the mind
+KING LEAR:
+To suffer with the body: I'll forbear,
+KING LEAR:
+And am fall'n out with my more headier will,
+KING LEAR:
+To take the indisposed and sickly fit
+KING LEAR:
+For the sound man. Death on my state! wherefore
+KING LEAR:
+Looking on KENT
+KING LEAR:
+Should he sit here? This act persuades me
+KING LEAR:
+That this remotion of the duke and her
+KING LEAR:
+Is practise only. Give me my servant forth.
+KING LEAR:
+Go tell the duke and 's wife I'ld speak with them,
+KING LEAR:
+Now, presently: bid them come forth and hear me,
+KING LEAR:
+Or at their chamber-door I'll beat the drum
+KING LEAR:
+Till it cry sleep to death.
+GLOUCESTER:
+I would have all well betwixt you.
+GLOUCESTER:
+Exit
+KING LEAR:
+O me, my heart, my rising heart! but, down!
+Fool:
+Cry to it, nuncle, as the cockney did to the eels
+Fool:
+when she put 'em i' the paste alive, she knapped 'em
+Fool:
+o' the coxcombs with a stick, and cried 'Down,
+Fool:
+wantons, down!' 'Twas her brother that, in pure
+Fool:
+kindness to his horse, buttered his hay.
+Fool:
+Enter CORNWALL, REGAN, GLOUCESTER, and Servants
+KING LEAR:
+Good morrow to you both.
+CORNWALL:
+Hail to your grace!
+CORNWALL:
+KENT is set at liberty
+REGAN:
+I am glad to see your highness.
+KING LEAR:
+Regan, I think you are, I know what reason
+KING LEAR:
+I have to think so: if thou shouldst not be glad,
+KING LEAR:
+I would divorce me from thy mother's tomb,
+KING LEAR:
+Sepulchring an adultress.
+KING LEAR:
+To KENT
+KING LEAR:
+O, are you free?
+KING LEAR:
+Some other time for that. Beloved Regan,
+KING LEAR:
+Thy sister's naught: O Regan, she hath tied
+KING LEAR:
+Sharp-tooth'd unkindness, like a vulture, here
+KING LEAR:
+Points to his heart
+KING LEAR:
+I can scarce speak to thee, thou'lt not believe
+KING LEAR:
+With how depraved a quality--O Regan!
+REGAN:
+I pray you, sir, take patience: I have hope.
+REGAN:
+You less know how to value her desert
+REGAN:
+Than she to scant her duty.
+KING LEAR:
+Say, how is that?
+REGAN:
+I cannot think my sister in the least
+REGAN:
+Would fail her obligation: if, sir, perchance
+REGAN:
+She have restrain'd the riots of your followers,
+REGAN:
+'Tis on such ground, and to such wholesome end,
+REGAN:
+As clears her from all blame.
+KING LEAR:
+My curses on her!
+REGAN:
+O, sir, you are old.
+REGAN:
+Nature in you stands on the very verge
+REGAN:
+Of her confine: you should be ruled and led
+REGAN:
+By some discretion, that discerns your state
+REGAN:
+Better than you yourself. Therefore, I pray you,
+REGAN:
+That to our sister you do make return,
+REGAN:
+Say you have wrong'd her, sir.
+KING LEAR:
+Ask her forgiveness?
+KING LEAR:
+Do you but mark how this becomes the house
+KING LEAR:
+'Dear daughter, I confess that I am old,
+KING LEAR:
+Kneeling
+KING LEAR:
+Age is unnecessary: on my knees I beg
+KING LEAR:
+That you'll vouchsafe me raiment, bed, and food.'
+REGAN:
+Good sir, no more, these are unsightly tricks
+REGAN:
+Return you to my sister.
+KING LEAR:
+[Rising]  Never, Regan
+KING LEAR:
+She hath abated me of half my train,
+KING LEAR:
+Look'd black upon me, struck me with her tongue,
+KING LEAR:
+Most serpent-like, upon the very heart
+KING LEAR:
+All the stored vengeances of heaven fall
+KING LEAR:
+On her ingrateful top! Strike her young bones,
+KING LEAR:
+You taking airs, with lameness!
+CORNWALL:
+Fie, sir, fie!
+KING LEAR:
+You nimble lightnings, dart your blinding flames
+KING LEAR:
+Into her scornful eyes! Infect her beauty,
+KING LEAR:
+You fen-suck'd fogs, drawn by the powerful sun,
+KING LEAR:
+To fall and blast her pride!
+REGAN:
+O the blest gods! so will you wish on me,
+REGAN:
+When the rash mood is on.
+KING LEAR:
+No, Regan, thou shalt never have my curse
+KING LEAR:
+Thy tender-hefted nature shall not give
+KING LEAR:
+Thee o'er to harshness: her eyes are fierce, but thine
+KING LEAR:
+Do comfort and not burn. 'Tis not in thee
+KING LEAR:
+To grudge my pleasures, to cut off my train,
+KING LEAR:
+To bandy hasty words, to scant my sizes,
+KING LEAR:
+And in conclusion to oppose the bolt
+KING LEAR:
+Against my coming in: thou better know'st
+KING LEAR:
+The offices of nature, bond of childhood,
+KING LEAR:
+Effects of courtesy, dues of gratitude,
+KING LEAR:
+Thy half o' the kingdom hast thou not forgot,
+KING LEAR:
+Wherein I thee endow'd.
+REGAN:
+Good sir, to the purpose.
+KING LEAR:
+Who put my man i' the stocks?
+KING LEAR:
+Tucket within
+CORNWALL:
+What trumpet's that?
+REGAN:
+I know't, my sister's: this approves her letter,
+REGAN:
+That she would soon be here.
+REGAN:
+Enter OSWALD
+REGAN:
+Is your lady come?
+KING LEAR:
+This is a slave, whose easy-borrow'd pride
+KING LEAR:
+Dwells in the fickle grace of her he follows.
+KING LEAR:
+Out, varlet, from my sight!
+CORNWALL:
+What means your grace?
+KING LEAR:
+Who stock'd my servant? Regan, I have good hope
+KING LEAR:
+Thou didst not know on't. Who comes here? O heavens,
+KING LEAR:
+Enter GONERIL
+KING LEAR:
+If you do love old men, if your sweet sway
+KING LEAR:
+Allow obedience, if yourselves are old,
+KING LEAR:
+Make it your cause, send down, and take my part!
+KING LEAR:
+To GONERIL
+KING LEAR:
+Art not ashamed to look upon this beard?
+KING LEAR:
+O Regan, wilt thou take her by the hand?
+GONERIL:
+Why not by the hand, sir? How have I offended?
+GONERIL:
+All's not offence that indiscretion finds
+GONERIL:
+And dotage terms so.
+KING LEAR:
+O sides, you are too tough,
+KING LEAR:
+Will you yet hold? How came my man i' the stocks?
+CORNWALL:
+I set him there, sir: but his own disorders
+CORNWALL:
+Deserved much less advancement.
+KING LEAR:
+You! did you?
+REGAN:
+I pray you, father, being weak, seem so.
+REGAN:
+If, till the expiration of your month,
+REGAN:
+You will return and sojourn with my sister,
+REGAN:
+Dismissing half your train, come then to me
+REGAN:
+I am now from home, and out of that provision
+REGAN:
+Which shall be needful for your entertainment.
+KING LEAR:
+Return to her, and fifty men dismiss'd?
+KING LEAR:
+No, rather I abjure all roofs, and choose
+KING LEAR:
+To wage against the enmity o' the air,
+KING LEAR:
+To be a comrade with the wolf and owl,--
+KING LEAR:
+Necessity's sharp pinch! Return with her?
+KING LEAR:
+Why, the hot-blooded France, that dowerless took
+KING LEAR:
+Our youngest born, I could as well be brought
+KING LEAR:
+To knee his throne, and, squire-like, pension beg
+KING LEAR:
+To keep base life afoot. Return with her?
+KING LEAR:
+Persuade me rather to be slave and sumpter
+KING LEAR:
+To this detested groom.
+KING LEAR:
+Pointing at OSWALD
+GONERIL:
+At your choice, sir.
+KING LEAR:
+I prithee, daughter, do not make me mad
+KING LEAR:
+I will not trouble thee, my child, farewell
+KING LEAR:
+We'll no more meet, no more see one another
+KING LEAR:
+But yet thou art my flesh, my blood, my daughter,
+KING LEAR:
+Or rather a disease that's in my flesh,
+KING LEAR:
+Which I must needs call mine: thou art a boil,
+KING LEAR:
+A plague-sore, an embossed carbuncle,
+KING LEAR:
+In my corrupted blood. But I'll not chide thee,
+KING LEAR:
+Let shame come when it will, I do not call it
+KING LEAR:
+I do not bid the thunder-bearer shoot,
+KING LEAR:
+Nor tell tales of thee to high-judging Jove
+KING LEAR:
+Mend when thou canst, be better at thy leisure
+KING LEAR:
+I can be patient, I can stay with Regan,
+KING LEAR:
+I and my hundred knights.
+REGAN:
+Not altogether so
+REGAN:
+I look'd not for you yet, nor am provided
+REGAN:
+For your fit welcome. Give ear, sir, to my sister,
+REGAN:
+For those that mingle reason with your passion
+REGAN:
+Must be content to think you old, and so--
+REGAN:
+But she knows what she does.
+KING LEAR:
+Is this well spoken?
+REGAN:
+I dare avouch it, sir: what, fifty followers?
+REGAN:
+Is it not well? What should you need of more?
+REGAN:
+Yea, or so many, sith that both charge and danger
+REGAN:
+Speak 'gainst so great a number? How, in one house,
+REGAN:
+Should many people, under two commands,
+REGAN:
+Hold amity? 'Tis hard, almost impossible.
+GONERIL:
+Why might not you, my lord, receive attendance
+GONERIL:
+From those that she calls servants or from mine?
+REGAN:
+Why not, my lord? If then they chanced to slack you,
+REGAN:
+We could control them. If you will come to me,--
+REGAN:
+For now I spy a danger,--I entreat you
+REGAN:
+To bring but five and twenty: to no more
+REGAN:
+Will I give place or notice.
+KING LEAR:
+I gave you all--
+REGAN:
+And in good time you gave it.
+KING LEAR:
+Made you my guardians, my depositaries,
+KING LEAR:
+But kept a reservation to be follow'd
+KING LEAR:
+With such a number. What, must I come to you
+KING LEAR:
+With five and twenty, Regan? said you so?
+REGAN:
+And speak't again, my lord, no more with me.
+KING LEAR:
+Those wicked creatures yet do look well-favour'd,
+KING LEAR:
+When others are more wicked: not being the worst
+KING LEAR:
+Stands in some rank of praise.
+KING LEAR:
+To GONERIL
+KING LEAR:
+I'll go with thee
+KING LEAR:
+Thy fifty yet doth double five and twenty,
+KING LEAR:
+And thou art twice her love.
+GONERIL:
+Hear me, my lord,
+GONERIL:
+What need you five and twenty, ten, or five,
+GONERIL:
+To follow in a house where twice so many
+GONERIL:
+Have a command to tend you?
+REGAN:
+What need one?
+KING LEAR:
+O, reason not the need: our basest beggars
+KING LEAR:
+Are in the poorest thing superfluous
+KING LEAR:
+Allow not nature more than nature needs,
+KING LEAR:
+Man's life's as cheap as beast's: thou art a lady,
+KING LEAR:
+If only to go warm were gorgeous,
+KING LEAR:
+Why, nature needs not what thou gorgeous wear'st,
+KING LEAR:
+Which scarcely keeps thee warm. But, for true need,--
+KING LEAR:
+You heavens, give me that patience, patience I need!
+KING LEAR:
+You see me here, you gods, a poor old man,
+KING LEAR:
+As full of grief as age, wretched in both!
+KING LEAR:
+If it be you that stir these daughters' hearts
+KING LEAR:
+Against their father, fool me not so much
+KING LEAR:
+To bear it tamely, touch me with noble anger,
+KING LEAR:
+And let not women's weapons, water-drops,
+KING LEAR:
+Stain my man's cheeks! No, you unnatural hags,
+KING LEAR:
+I will have such revenges on you both,
+KING LEAR:
+That all the world shall--I will do such things,--
+KING LEAR:
+What they are, yet I know not: but they shall be
+KING LEAR:
+The terrors of the earth. You think I'll weep
+KING LEAR:
+No, I'll not weep
+KING LEAR:
+I have full cause of weeping, but this heart
+KING LEAR:
+Shall break into a hundred thousand flaws,
+KING LEAR:
+Or ere I'll weep. O fool, I shall go mad!
+KING LEAR:
+Exeunt KING LEAR, GLOUCESTER, KENT, and Fool
+KING LEAR:
+Storm and tempest
+CORNWALL:
+Let us withdraw, 'twill be a storm.
+REGAN:
+This house is little: the old man and his people
+REGAN:
+Cannot be well bestow'd.
+GONERIL:
+'Tis his own blame, hath put himself from rest,
+GONERIL:
+And must needs taste his folly.
+REGAN:
+For his particular, I'll receive him gladly,
+REGAN:
+But not one follower.
+GONERIL:
+So am I purposed.
+GONERIL:
+Where is my lord of Gloucester?
+CORNWALL:
+Follow'd the old man forth: he is return'd.
+CORNWALL:
+Re-enter GLOUCESTER
+GLOUCESTER:
+The king is in high rage.
+CORNWALL:
+Whither is he going?
+GLOUCESTER:
+He calls to horse, but will I know not whither.
+CORNWALL:
+'Tis best to give him way, he leads himself.
+GONERIL:
+My lord, entreat him by no means to stay.
+GLOUCESTER:
+Alack, the night comes on, and the bleak winds
+GLOUCESTER:
+Do sorely ruffle, for many miles a bout
+GLOUCESTER:
+There's scarce a bush.
+REGAN:
+O, sir, to wilful men,
+REGAN:
+The injuries that they themselves procure
+REGAN:
+Must be their schoolmasters. Shut up your doors
+REGAN:
+He is attended with a desperate train,
+REGAN:
+And what they may incense him to, being apt
+REGAN:
+To have his ear abused, wisdom bids fear.
+CORNWALL:
+Shut up your doors, my lord, 'tis a wild night
+CORNWALL:
+My Regan counsels well, come out o' the storm.
+CORNWALL:
+Exeunt
+CORNWALL:
+ACT III
+CORNWALL:
+SCENE I. A heath.
+CORNWALL:
+Storm still. Enter KENT and a Gentleman, meeting
+KENT:
+Who's there, besides foul weather?
+Gentleman:
+One minded like the weather, most unquietly.
+KENT:
+I know you. Where's the king?
+Gentleman:
+Contending with the fretful element
+Gentleman:
+Bids the winds blow the earth into the sea,
+Gentleman:
+Or swell the curled water 'bove the main,
+Gentleman:
+That things might change or cease, tears his white hair,
+Gentleman:
+Which the impetuous blasts, with eyeless rage,
+Gentleman:
+Catch in their fury, and make nothing of,
+Gentleman:
+Strives in his little world of man to out-scorn
+Gentleman:
+The to-and-fro-conflicting wind and rain.
+Gentleman:
+This night, wherein the cub-drawn bear would couch,
+Gentleman:
+The lion and the belly-pinched wolf
+Gentleman:
+Keep their fur dry, unbonneted he runs,
+Gentleman:
+And bids what will take all.
+KENT:
+But who is with him?
+Gentleman:
+None but the fool, who labours to out-jest
+Gentleman:
+His heart-struck injuries.
+KENT:
+Sir, I do know you,
+KENT:
+And dare, upon the warrant of my note,
+KENT:
+Commend a dear thing to you. There is division,
+KENT:
+Although as yet the face of it be cover'd
+KENT:
+With mutual cunning, 'twixt Albany and Cornwall,
+KENT:
+Who have--as who have not, that their great stars
+KENT:
+Throned and set high?--servants, who seem no less,
+KENT:
+Which are to France the spies and speculations
+KENT:
+Intelligent of our state, what hath been seen,
+KENT:
+Either in snuffs and packings of the dukes,
+KENT:
+Or the hard rein which both of them have borne
+KENT:
+Against the old kind king, or something deeper,
+KENT:
+Whereof perchance these are but furnishings,
+KENT:
+But, true it is, from France there comes a power
+KENT:
+Into this scatter'd kingdom, who already,
+KENT:
+Wise in our negligence, have secret feet
+KENT:
+In some of our best ports, and are at point
+KENT:
+To show their open banner. Now to you
+KENT:
+If on my credit you dare build so far
+KENT:
+To make your speed to Dover, you shall find
+KENT:
+Some that will thank you, making just report
+KENT:
+Of how unnatural and bemadding sorrow
+KENT:
+The king hath cause to plain.
+KENT:
+I am a gentleman of blood and breeding,
+KENT:
+And, from some knowledge and assurance, offer
+KENT:
+This office to you.
+Gentleman:
+I will talk further with you.
+KENT:
+No, do not.
+KENT:
+For confirmation that I am much more
+KENT:
+Than my out-wall, open this purse, and take
+KENT:
+What it contains. If you shall see Cordelia,--
+KENT:
+As fear not but you shall,--show her this ring,
+KENT:
+And she will tell you who your fellow is
+KENT:
+That yet you do not know. Fie on this storm!
+KENT:
+I will go seek the king.
+Gentleman:
+Give me your hand: have you no more to say?
+KENT:
+Few words, but, to effect, more than all yet,
+KENT:
+That, when we have found the king,--in which your pain
+KENT:
+That way, I'll this,--he that first lights on him
+KENT:
+Holla the other.
+KENT:
+Exeunt severally
+KENT:
+SCENE II. Another part of the heath. Storm still.
+KENT:
+Enter KING LEAR and Fool
+KING LEAR:
+Blow, winds, and crack your cheeks! rage! blow!
+KING LEAR:
+You cataracts and hurricanoes, spout
+KING LEAR:
+Till you have drench'd our steeples, drown'd the cocks!
+KING LEAR:
+You sulphurous and thought-executing fires,
+KING LEAR:
+Vaunt-couriers to oak-cleaving thunderbolts,
+KING LEAR:
+Singe my white head! And thou, all-shaking thunder,
+KING LEAR:
+Smite flat the thick rotundity o' the world!
+KING LEAR:
+Crack nature's moulds, an germens spill at once,
+KING LEAR:
+That make ingrateful man!
+Fool:
+O nuncle, court holy-water in a dry
+Fool:
+house is better than this rain-water out o' door.
+Fool:
+Good nuncle, in, and ask thy daughters' blessing
+Fool:
+here's a night pities neither wise man nor fool.
+KING LEAR:
+Rumble thy bellyful! Spit, fire! spout, rain!
+KING LEAR:
+Nor rain, wind, thunder, fire, are my daughters
+KING LEAR:
+I tax not you, you elements, with unkindness,
+KING LEAR:
+I never gave you kingdom, call'd you children,
+KING LEAR:
+You owe me no subscription: then let fall
+KING LEAR:
+Your horrible pleasure: here I stand, your slave,
+KING LEAR:
+A poor, infirm, weak, and despised old man
+KING LEAR:
+But yet I call you servile ministers,
+KING LEAR:
+That have with two pernicious daughters join'd
+KING LEAR:
+Your high engender'd battles 'gainst a head
+KING LEAR:
+So old and white as this. O! O! 'tis foul!
+Fool:
+He that has a house to put's head in has a good
+Fool:
+head-piece.
+Fool:
+The cod-piece that will house
+Fool:
+Before the head has any,
+Fool:
+The head and he shall louse,
+Fool:
+So beggars marry many.
+Fool:
+The man that makes his toe
+Fool:
+What he his heart should make
+Fool:
+Shall of a corn cry woe,
+Fool:
+And turn his sleep to wake.
+Fool:
+For there was never yet fair woman but she made
+Fool:
+mouths in a glass.
+KING LEAR:
+No, I will be the pattern of all patience,
+KING LEAR:
+I will say nothing.
+KING LEAR:
+Enter KENT
+KENT:
+Who's there?
+Fool:
+Marry, here's grace and a cod-piece, that's a wise
+Fool:
+man and a fool.
+KENT:
+Alas, sir, are you here? things that love night
+KENT:
+Love not such nights as these, the wrathful skies
+KENT:
+Gallow the very wanderers of the dark,
+KENT:
+And make them keep their caves: since I was man,
+KENT:
+Such sheets of fire, such bursts of horrid thunder,
+KENT:
+Such groans of roaring wind and rain, I never
+KENT:
+Remember to have heard: man's nature cannot carry
+KENT:
+The affliction nor the fear.
+KING LEAR:
+Let the great gods,
+KING LEAR:
+That keep this dreadful pother o'er our heads,
+KING LEAR:
+Find out their enemies now. Tremble, thou wretch,
+KING LEAR:
+That hast within thee undivulged crimes,
+KING LEAR:
+Unwhipp'd of justice: hide thee, thou bloody hand,
+KING LEAR:
+Thou perjured, and thou simular man of virtue
+KING LEAR:
+That art incestuous: caitiff, to pieces shake,
+KING LEAR:
+That under covert and convenient seeming
+KING LEAR:
+Hast practised on man's life: close pent-up guilts,
+KING LEAR:
+Rive your concealing continents, and cry
+KING LEAR:
+These dreadful summoners grace. I am a man
+KING LEAR:
+More sinn'd against than sinning.
+KENT:
+Alack, bare-headed!
+KENT:
+Gracious my lord, hard by here is a hovel,
+KENT:
+Some friendship will it lend you 'gainst the tempest
+KENT:
+Repose you there, while I to this hard house--
+KENT:
+More harder than the stones whereof 'tis raised,
+KENT:
+Which even but now, demanding after you,
+KENT:
+Denied me to come in--return, and force
+KENT:
+Their scanted courtesy.
+KING LEAR:
+My wits begin to turn.
+KING LEAR:
+Come on, my boy: how dost, my boy? art cold?
+KING LEAR:
+I am cold myself. Where is this straw, my fellow?
+KING LEAR:
+The art of our necessities is strange,
+KING LEAR:
+That can make vile things precious. Come,
+KING LEAR:
+your hovel.
+KING LEAR:
+Poor fool and knave, I have one part in my heart
+KING LEAR:
+That's sorry yet for thee.
+Fool:
+[Singing]
+Fool:
+He that has and a little tiny wit--
+Fool:
+With hey, ho, the wind and the rain,--
+Fool:
+Must make content with his fortunes fit,
+Fool:
+For the rain it raineth every day.
+KING LEAR:
+True, my good boy. Come, bring us to this hovel.
+KING LEAR:
+Exeunt KING LEAR and KENT
+Fool:
+This is a brave night to cool a courtezan.
+Fool:
+I'll speak a prophecy ere I go
+Fool:
+When priests are more in word than matter,
+Fool:
+When brewers mar their malt with water,
+Fool:
+When nobles are their tailors' tutors,
+Fool:
+No heretics burn'd, but wenches' suitors,
+Fool:
+When every case in law is right,
+Fool:
+No squire in debt, nor no poor knight,
+Fool:
+When slanders do not live in tongues,
+Fool:
+Nor cutpurses come not to throngs,
+Fool:
+When usurers tell their gold i' the field,
+Fool:
+And bawds and whores do churches build,
+Fool:
+Then shall the realm of Albion
+Fool:
+Come to great confusion
+Fool:
+Then comes the time, who lives to see't,
+Fool:
+That going shall be used with feet.
+Fool:
+This prophecy Merlin shall make, for I live before his time.
+Fool:
+Exit
+Fool:
+SCENE III. Gloucester's castle.
+Fool:
+Enter GLOUCESTER and EDMUND
+GLOUCESTER:
+Alack, alack, Edmund, I like not this unnatural
+GLOUCESTER:
+dealing. When I desire their leave that I might
+GLOUCESTER:
+pity him, they took from me the use of mine own
+GLOUCESTER:
+house, charged me, on pain of their perpetual
+GLOUCESTER:
+displeasure, neither to speak of him, entreat for
+GLOUCESTER:
+him, nor any way sustain him.
+EDMUND:
+Most savage and unnatural!
+GLOUCESTER:
+Go to, say you nothing. There's a division betwixt
+GLOUCESTER:
+the dukes, and a worse matter than that: I have
+GLOUCESTER:
+received a letter this night, 'tis dangerous to be
+GLOUCESTER:
+spoken, I have locked the letter in my closet
+GLOUCESTER:
+these injuries the king now bears will be revenged
+GLOUCESTER:
+home, there's part of a power already footed: we
+GLOUCESTER:
+must incline to the king. I will seek him, and
+GLOUCESTER:
+privily relieve him: go you and maintain talk with
+GLOUCESTER:
+the duke, that my charity be not of him perceived
+GLOUCESTER:
+if he ask for me. I am ill, and gone to bed.
+GLOUCESTER:
+Though I die for it, as no less is threatened me,
+GLOUCESTER:
+the king my old master must be relieved. There is
+GLOUCESTER:
+some strange thing toward, Edmund, pray you, be careful.
+GLOUCESTER:
+Exit
+EDMUND:
+This courtesy, forbid thee, shall the duke
+EDMUND:
+Instantly know, and of that letter too
+EDMUND:
+This seems a fair deserving, and must draw me
+EDMUND:
+That which my father loses, no less than all
+EDMUND:
+The younger rises when the old doth fall.
+EDMUND:
+Exit
+EDMUND:
+SCENE IV. The heath. Before a hovel.
+EDMUND:
+Enter KING LEAR, KENT, and Fool
+KENT:
+Here is the place, my lord, good my lord, enter
+KENT:
+The tyranny of the open night's too rough
+KENT:
+For nature to endure.
+KENT:
+Storm still
+KING LEAR:
+Let me alone.
+KENT:
+Good my lord, enter here.
+KING LEAR:
+Wilt break my heart?
+KENT:
+I had rather break mine own. Good my lord, enter.
+KING LEAR:
+Thou think'st 'tis much that this contentious storm
+KING LEAR:
+Invades us to the skin: so 'tis to thee,
+KING LEAR:
+But where the greater malady is fix'd,
+KING LEAR:
+The lesser is scarce felt. Thou'ldst shun a bear,
+KING LEAR:
+But if thy flight lay toward the raging sea,
+KING LEAR:
+Thou'ldst meet the bear i' the mouth. When the
+KING LEAR:
+mind's free,
+KING LEAR:
+The body's delicate: the tempest in my mind
+KING LEAR:
+Doth from my senses take all feeling else
+KING LEAR:
+Save what beats there. Filial ingratitude!
+KING LEAR:
+Is it not as this mouth should tear this hand
+KING LEAR:
+For lifting food to't? But I will punish home
+KING LEAR:
+No, I will weep no more. In such a night
+KING LEAR:
+To shut me out! Pour on, I will endure.
+KING LEAR:
+In such a night as this! O Regan, Goneril!
+KING LEAR:
+Your old kind father, whose frank heart gave all,--
+KING LEAR:
+O, that way madness lies, let me shun that,
+KING LEAR:
+No more of that.
+KENT:
+Good my lord, enter here.
+KING LEAR:
+Prithee, go in thyself: seek thine own ease
+KING LEAR:
+This tempest will not give me leave to ponder
+KING LEAR:
+On things would hurt me more. But I'll go in.
+KING LEAR:
+To the Fool
+KING LEAR:
+In, boy, go first. You houseless poverty,--
+KING LEAR:
+Nay, get thee in. I'll pray, and then I'll sleep.
+KING LEAR:
+Fool goes in
+KING LEAR:
+Poor naked wretches, whereso'er you are,
+KING LEAR:
+That bide the pelting of this pitiless storm,
+KING LEAR:
+How shall your houseless heads and unfed sides,
+KING LEAR:
+Your loop'd and window'd raggedness, defend you
+KING LEAR:
+From seasons such as these? O, I have ta'en
+KING LEAR:
+Too little care of this! Take physic, pomp,
+KING LEAR:
+Expose thyself to feel what wretches feel,
+KING LEAR:
+That thou mayst shake the superflux to them,
+KING LEAR:
+And show the heavens more just.
+EDGAR:
+[Within]  Fathom and half, fathom and half! Poor Tom!
+EDGAR:
+The Fool runs out from the hovel
+Fool:
+Come not in here, nuncle, here's a spirit
+Fool:
+Help me, help me!
+KENT:
+Give me thy hand. Who's there?
+Fool:
+A spirit, a spirit: he says his name's poor Tom.
+KENT:
+What art thou that dost grumble there i' the straw?
+KENT:
+Come forth.
+KENT:
+Enter EDGAR disguised as a mad man
+EDGAR:
+Away! the foul fiend follows me!
+EDGAR:
+Through the sharp hawthorn blows the cold wind.
+EDGAR:
+Hum! go to thy cold bed, and warm thee.
+KING LEAR:
+Hast thou given all to thy two daughters?
+KING LEAR:
+And art thou come to this?
+EDGAR:
+Who gives any thing to poor Tom? whom the foul
+EDGAR:
+fiend hath led through fire and through flame, and
+EDGAR:
+through ford and whirlipool e'er bog and quagmire,
+EDGAR:
+that hath laid knives under his pillow, and halters
+EDGAR:
+in his pew, set ratsbane by his porridge, made film
+EDGAR:
+proud of heart, to ride on a bay trotting-horse over
+EDGAR:
+four-inched bridges, to course his own shadow for a
+EDGAR:
+traitor. Bless thy five wits! Tom's a-cold,--O, do
+EDGAR:
+de, do de, do de. Bless thee from whirlwinds,
+EDGAR:
+star-blasting, and taking! Do poor Tom some
+EDGAR:
+charity, whom the foul fiend vexes: there could I
+EDGAR:
+have him now,--and there,--and there again, and there.
+EDGAR:
+Storm still
+KING LEAR:
+What, have his daughters brought him to this pass?
+KING LEAR:
+Couldst thou save nothing? Didst thou give them all?
+Fool:
+Nay, he reserved a blanket, else we had been all shamed.
+KING LEAR:
+Now, all the plagues that in the pendulous air
+KING LEAR:
+Hang fated o'er men's faults light on thy daughters!
+KENT:
+He hath no daughters, sir.
+KING LEAR:
+Death, traitor! nothing could have subdued nature
+KING LEAR:
+To such a lowness but his unkind daughters.
+KING LEAR:
+Is it the fashion, that discarded fathers
+KING LEAR:
+Should have thus little mercy on their flesh?
+KING LEAR:
+Judicious punishment! 'twas this flesh begot
+KING LEAR:
+Those pelican daughters.
+EDGAR:
+Pillicock sat on Pillicock-hill
+EDGAR:
+Halloo, halloo, loo, loo!
+Fool:
+This cold night will turn us all to fools and madmen.
+EDGAR:
+Take heed o' the foul fiend: obey thy parents,
+EDGAR:
+keep thy word justly, swear not, commit not with
+EDGAR:
+man's sworn spouse, set not thy sweet heart on proud
+EDGAR:
+array. Tom's a-cold.
+KING LEAR:
+What hast thou been?
+EDGAR:
+A serving-man, proud in heart and mind, that curled
+EDGAR:
+my hair, wore gloves in my cap, served the lust of
+EDGAR:
+my mistress' heart, and did the act of darkness with
+EDGAR:
+her, swore as many oaths as I spake words, and
+EDGAR:
+broke them in the sweet face of heaven: one that
+EDGAR:
+slept in the contriving of lust, and waked to do it
+EDGAR:
+wine loved I deeply, dice dearly: and in woman
+EDGAR:
+out-paramoured the Turk: false of heart, light of
+EDGAR:
+ear, bloody of hand, hog in sloth, fox in stealth,
+EDGAR:
+wolf in greediness, dog in madness, lion in prey.
+EDGAR:
+Let not the creaking of shoes nor the rustling of
+EDGAR:
+silks betray thy poor heart to woman: keep thy foot
+EDGAR:
+out of brothels, thy hand out of plackets, thy pen
+EDGAR:
+from lenders' books, and defy the foul fiend.
+EDGAR:
+Still through the hawthorn blows the cold wind
+EDGAR:
+Says suum, mun, ha, no, nonny.
+EDGAR:
+Dolphin my boy, my boy, sessa! let him trot by.
+EDGAR:
+Storm still
+KING LEAR:
+Why, thou wert better in thy grave than to answer
+KING LEAR:
+with thy uncovered body this extremity of the skies.
+KING LEAR:
+Is man no more than this? Consider him well. Thou
+KING LEAR:
+owest the worm no silk, the beast no hide, the sheep
+KING LEAR:
+no wool, the cat no perfume. Ha! here's three on
+KING LEAR:
+'s are sophisticated! Thou art the thing itself
+KING LEAR:
+unaccommodated man is no more but such a poor bare,
+KING LEAR:
+forked animal as thou art. Off, off, you lendings!
+KING LEAR:
+come unbutton here.
+KING LEAR:
+Tearing off his clothes
+Fool:
+Prithee, nuncle, be contented, 'tis a naughty night
+Fool:
+to swim in. Now a little fire in a wild field were
+Fool:
+like an old lecher's heart, a small spark, all the
+Fool:
+rest on's body cold. Look, here comes a walking fire.
+Fool:
+Enter GLOUCESTER, with a torch
+EDGAR:
+This is the foul fiend Flibbertigibbet: he begins
+EDGAR:
+at curfew, and walks till the first cock, he gives
+EDGAR:
+the web and the pin, squints the eye, and makes the
+EDGAR:
+hare-lip, mildews the white wheat, and hurts the
+EDGAR:
+poor creature of earth.
+EDGAR:
+S. Withold footed thrice the old,
+EDGAR:
+He met the night-mare, and her nine-fold,
+EDGAR:
+Bid her alight,
+EDGAR:
+And her troth plight,
+EDGAR:
+And, aroint thee, witch, aroint thee!
+KENT:
+How fares your grace?
+KING LEAR:
+What's he?
+KENT:
+Who's there? What is't you seek?
+GLOUCESTER:
+What are you there? Your names?
+EDGAR:
+Poor Tom, that eats the swimming frog, the toad,
+EDGAR:
+the tadpole, the wall-newt and the water, that in
+EDGAR:
+the fury of his heart, when the foul fiend rages,
+EDGAR:
+eats cow-dung for sallets, swallows the old rat and
+EDGAR:
+the ditch-dog, drinks the green mantle of the
+EDGAR:
+standing pool, who is whipped from tithing to
+EDGAR:
+tithing, and stock- punished, and imprisoned, who
+EDGAR:
+hath had three suits to his back, six shirts to his
+EDGAR:
+body, horse to ride, and weapon to wear,
+EDGAR:
+But mice and rats, and such small deer,
+EDGAR:
+Have been Tom's food for seven long year.
+EDGAR:
+Beware my follower. Peace, Smulkin, peace, thou fiend!
+GLOUCESTER:
+What, hath your grace no better company?
+EDGAR:
+The prince of darkness is a gentleman
+EDGAR:
+Modo he's call'd, and Mahu.
+GLOUCESTER:
+Our flesh and blood is grown so vile, my lord,
+GLOUCESTER:
+That it doth hate what gets it.
+EDGAR:
+Poor Tom's a-cold.
+GLOUCESTER:
+Go in with me: my duty cannot suffer
+GLOUCESTER:
+To obey in all your daughters' hard commands
+GLOUCESTER:
+Though their injunction be to bar my doors,
+GLOUCESTER:
+And let this tyrannous night take hold upon you,
+GLOUCESTER:
+Yet have I ventured to come seek you out,
+GLOUCESTER:
+And bring you where both fire and food is ready.
+KING LEAR:
+First let me talk with this philosopher.
+KING LEAR:
+What is the cause of thunder?
+KENT:
+Good my lord, take his offer, go into the house.
+KING LEAR:
+I'll talk a word with this same learned Theban.
+KING LEAR:
+What is your study?
+EDGAR:
+How to prevent the fiend, and to kill vermin.
+KING LEAR:
+Let me ask you one word in private.
+KENT:
+Importune him once more to go, my lord,
+KENT:
+His wits begin to unsettle.
+GLOUCESTER:
+Canst thou blame him?
+GLOUCESTER:
+Storm still
+GLOUCESTER:
+His daughters seek his death: ah, that good Kent!
+GLOUCESTER:
+He said it would be thus, poor banish'd man!
+GLOUCESTER:
+Thou say'st the king grows mad, I'll tell thee, friend,
+GLOUCESTER:
+I am almost mad myself: I had a son,
+GLOUCESTER:
+Now outlaw'd from my blood, he sought my life,
+GLOUCESTER:
+But lately, very late: I loved him, friend,
+GLOUCESTER:
+No father his son dearer: truth to tell thee,
+GLOUCESTER:
+The grief hath crazed my wits. What a night's this!
+GLOUCESTER:
+I do beseech your grace,--
+KING LEAR:
+O, cry your mercy, sir.
+KING LEAR:
+Noble philosopher, your company.
+EDGAR:
+Tom's a-cold.
+GLOUCESTER:
+In, fellow, there, into the hovel: keep thee warm.
+KING LEAR:
+Come let's in all.
+KENT:
+This way, my lord.
+KING LEAR:
+With him,
+KING LEAR:
+I will keep still with my philosopher.
+KENT:
+Good my lord, soothe him, let him take the fellow.
+GLOUCESTER:
+Take him you on.
+KENT:
+Sirrah, come on, go along with us.
+KING LEAR:
+Come, good Athenian.
+GLOUCESTER:
+No words, no words: hush.
+EDGAR:
+Child Rowland to the dark tower came,
+EDGAR:
+His word was still,--Fie, foh, and fum,
+EDGAR:
+I smell the blood of a British man.
+EDGAR:
+Exeunt
+EDGAR:
+SCENE V. Gloucester's castle.
+EDGAR:
+Enter CORNWALL and EDMUND
+CORNWALL:
+I will have my revenge ere I depart his house.
+EDMUND:
+How, my lord, I may be censured, that nature thus
+EDMUND:
+gives way to loyalty, something fears me to think
+EDMUND:
+of.
+CORNWALL:
+I now perceive, it was not altogether your
+CORNWALL:
+brother's evil disposition made him seek his death,
+CORNWALL:
+but a provoking merit, set a-work by a reprovable
+CORNWALL:
+badness in himself.
+EDMUND:
+How malicious is my fortune, that I must repent to
+EDMUND:
+be just! This is the letter he spoke of, which
+EDMUND:
+approves him an intelligent party to the advantages
+EDMUND:
+of France: O heavens! that this treason were not,
+EDMUND:
+or not I the detector!
+CORNWALL:
+o with me to the duchess.
+EDMUND:
+If the matter of this paper be certain, you have
+EDMUND:
+mighty business in hand.
+CORNWALL:
+True or false, it hath made thee earl of
+CORNWALL:
+Gloucester. Seek out where thy father is, that he
+CORNWALL:
+may be ready for our apprehension.
+EDMUND:
+[Aside]  If I find him comforting the king, it will
+EDMUND:
+stuff his suspicion more fully.--I will persevere in
+EDMUND:
+my course of loyalty, though the conflict be sore
+EDMUND:
+between that and my blood.
+CORNWALL:
+I will lay trust upon thee, and thou shalt find a
+CORNWALL:
+dearer father in my love.
+CORNWALL:
+Exeunt
+CORNWALL:
+SCENE VI. A chamber in a farmhouse adjoining the castle.
+CORNWALL:
+Enter GLOUCESTER, KING LEAR, KENT, Fool, and EDGAR
+GLOUCESTER:
+Here is better than the open air, take it
+GLOUCESTER:
+thankfully. I will piece out the comfort with what
+GLOUCESTER:
+addition I can: I will not be long from you.
+KENT:
+All the power of his wits have given way to his
+KENT:
+impatience: the gods reward your kindness!
+KENT:
+Exit GLOUCESTER
+EDGAR:
+Frateretto calls me, and tells me
+EDGAR:
+Nero is an angler in the lake of darkness.
+EDGAR:
+Pray, innocent, and beware the foul fiend.
+Fool:
+Prithee, nuncle, tell me whether a madman be a
+Fool:
+gentleman or a yeoman?
+KING LEAR:
+A king, a king!
+Fool:
+No, he's a yeoman that has a gentleman to his son,
+Fool:
+for he's a mad yeoman that sees his son a gentleman
+Fool:
+before him.
+KING LEAR:
+To have a thousand with red burning spits
+KING LEAR:
+Come hissing in upon 'em,--
+EDGAR:
+The foul fiend bites my back.
+Fool:
+He's mad that trusts in the tameness of a wolf, a
+Fool:
+horse's health, a boy's love, or a whore's oath.
+KING LEAR:
+It shall be done, I will arraign them straight.
+KING LEAR:
+To EDGAR
+KING LEAR:
+Come, sit thou here, most learned justicer,
+KING LEAR:
+To the Fool
+KING LEAR:
+Thou, sapient sir, sit here. Now, you she foxes!
+EDGAR:
+Look, where he stands and glares!
+EDGAR:
+Wantest thou eyes at trial, madam?
+EDGAR:
+Come o'er the bourn, Bessy, to me,--
+Fool:
+Her boat hath a leak,
+Fool:
+And she must not speak
+Fool:
+Why she dares not come over to thee.
+EDGAR:
+The foul fiend haunts poor Tom in the voice of a
+EDGAR:
+nightingale. Hopdance cries in Tom's belly for two
+EDGAR:
+white herring. Croak not, black angel, I have no
+EDGAR:
+food for thee.
+KENT:
+How do you, sir? Stand you not so amazed
+KENT:
+Will you lie down and rest upon the cushions?
+KING LEAR:
+I'll see their trial first. Bring in the evidence.
+KING LEAR:
+To EDGAR
+KING LEAR:
+Thou robed man of justice, take thy place,
+KING LEAR:
+To the Fool
+KING LEAR:
+And thou, his yoke-fellow of equity,
+KING LEAR:
+Bench by his side
+KING LEAR:
+To KENT
+KING LEAR:
+you are o' the commission,
+KING LEAR:
+Sit you too.
+EDGAR:
+Let us deal justly.
+EDGAR:
+Sleepest or wakest thou, jolly shepherd?
+EDGAR:
+Thy sheep be in the corn,
+EDGAR:
+And for one blast of thy minikin mouth,
+EDGAR:
+Thy sheep shall take no harm.
+EDGAR:
+Pur! the cat is gray.
+KING LEAR:
+Arraign her first, 'tis Goneril. I here take my
+KING LEAR:
+oath before this honourable assembly, she kicked the
+KING LEAR:
+poor king her father.
+Fool:
+Come hither, mistress. Is your name Goneril?
+KING LEAR:
+She cannot deny it.
+Fool:
+Cry you mercy, I took you for a joint-stool.
+KING LEAR:
+And here's another, whose warp'd looks proclaim
+KING LEAR:
+What store her heart is made on. Stop her there!
+KING LEAR:
+Arms, arms, sword, fire! Corruption in the place!
+KING LEAR:
+False justicer, why hast thou let her 'scape?
+EDGAR:
+Bless thy five wits!
+KENT:
+O pity! Sir, where is the patience now,
+KENT:
+That thou so oft have boasted to retain?
+EDGAR:
+[Aside]  My tears begin to take his part so much,
+EDGAR:
+They'll mar my counterfeiting.
+KING LEAR:
+The little dogs and all, Tray, Blanch, and
+KING LEAR:
+Sweet-heart, see, they bark at me.
+EDGAR:
+Tom will throw his head at them. Avaunt, you curs!
+EDGAR:
+Be thy mouth or black or white,
+EDGAR:
+Tooth that poisons if it bite,
+EDGAR:
+Mastiff, grey-hound, mongrel grim,
+EDGAR:
+Hound or spaniel, brach or lym,
+EDGAR:
+Or bobtail tike or trundle-tail,
+EDGAR:
+Tom will make them weep and wail
+EDGAR:
+For, with throwing thus my head,
+EDGAR:
+Dogs leap the hatch, and all are fled.
+EDGAR:
+Do de, de, de. Sessa! Come, march to wakes and
+EDGAR:
+fairs and market-towns. Poor Tom, thy horn is dry.
+KING LEAR:
+Then let them anatomize Regan, see what breeds
+KING LEAR:
+about her heart. Is there any cause in nature that
+KING LEAR:
+makes these hard hearts?
+KING LEAR:
+To EDGAR
+KING LEAR:
+You, sir, I entertain for one of my hundred, only I
+KING LEAR:
+do not like the fashion of your garments: you will
+KING LEAR:
+say they are Persian attire: but let them be changed.
+KENT:
+Now, good my lord, lie here and rest awhile.
+KING LEAR:
+Make no noise, make no noise, draw the curtains
+KING LEAR:
+so, so, so. We'll go to supper i' he morning. So, so, so.
+Fool:
+And I'll go to bed at noon.
+Fool:
+Re-enter GLOUCESTER
+GLOUCESTER:
+Come hither, friend: where is the king my master?
+KENT:
+Here, sir, but trouble him not, his wits are gone.
+GLOUCESTER:
+Good friend, I prithee, take him in thy arms,
+GLOUCESTER:
+I have o'erheard a plot of death upon him
+GLOUCESTER:
+There is a litter ready, lay him in 't,
+GLOUCESTER:
+And drive towards Dover, friend, where thou shalt meet
+GLOUCESTER:
+Both welcome and protection. Take up thy master
+GLOUCESTER:
+If thou shouldst dally half an hour, his life,
+GLOUCESTER:
+With thine, and all that offer to defend him,
+GLOUCESTER:
+Stand in assured loss: take up, take up,
+GLOUCESTER:
+And follow me, that will to some provision
+GLOUCESTER:
+Give thee quick conduct.
+KENT:
+Oppressed nature sleeps
+KENT:
+This rest might yet have balm'd thy broken senses,
+KENT:
+Which, if convenience will not allow,
+KENT:
+Stand in hard cure.
+KENT:
+To the Fool
+KENT:
+Come, help to bear thy master,
+KENT:
+Thou must not stay behind.
+GLOUCESTER:
+Come, come, away.
+GLOUCESTER:
+Exeunt all but EDGAR
+EDGAR:
+When we our betters see bearing our woes,
+EDGAR:
+We scarcely think our miseries our foes.
+EDGAR:
+Who alone suffers suffers most i' the mind,
+EDGAR:
+Leaving free things and happy shows behind
+EDGAR:
+But then the mind much sufferance doth o'er skip,
+EDGAR:
+When grief hath mates, and bearing fellowship.
+EDGAR:
+How light and portable my pain seems now,
+EDGAR:
+When that which makes me bend makes the king bow,
+EDGAR:
+He childed as I father'd! Tom, away!
+EDGAR:
+Mark the high noises, and thyself bewray,
+EDGAR:
+When false opinion, whose wrong thought defiles thee,
+EDGAR:
+In thy just proof, repeals and reconciles thee.
+EDGAR:
+What will hap more to-night, safe 'scape the king!
+EDGAR:
+Lurk, lurk.
+EDGAR:
+Exit
+EDGAR:
+SCENE VII. Gloucester's castle.
+EDGAR:
+Enter CORNWALL, REGAN, GONERIL, EDMUND, and Servants
+CORNWALL:
+Post speedily to my lord your husband, show him
+CORNWALL:
+this letter: the army of France is landed. Seek
+CORNWALL:
+out the villain Gloucester.
+CORNWALL:
+Exeunt some of the Servants
+REGAN:
+Hang him instantly.
+GONERIL:
+Pluck out his eyes.
+CORNWALL:
+Leave him to my displeasure. Edmund, keep you our
+CORNWALL:
+sister company: the revenges we are bound to take
+CORNWALL:
+upon your traitorous father are not fit for your
+CORNWALL:
+beholding. Advise the duke, where you are going, to
+CORNWALL:
+a most festinate preparation: we are bound to the
+CORNWALL:
+like. Our posts shall be swift and intelligent
+CORNWALL:
+betwixt us. Farewell, dear sister: farewell, my
+CORNWALL:
+lord of Gloucester.
+CORNWALL:
+Enter OSWALD
+CORNWALL:
+How now! where's the king?
+OSWALD:
+My lord of Gloucester hath convey'd him hence
+OSWALD:
+Some five or six and thirty of his knights,
+OSWALD:
+Hot questrists after him, met him at gate,
+OSWALD:
+Who, with some other of the lords dependants,
+OSWALD:
+Are gone with him towards Dover, where they boast
+OSWALD:
+To have well-armed friends.
+CORNWALL:
+Get horses for your mistress.
+GONERIL:
+Farewell, sweet lord, and sister.
+CORNWALL:
+Edmund, farewell.
+CORNWALL:
+Exeunt GONERIL, EDMUND, and OSWALD
+CORNWALL:
+Go seek the traitor Gloucester,
+CORNWALL:
+Pinion him like a thief, bring him before us.
+CORNWALL:
+Exeunt other Servants
+CORNWALL:
+Though well we may not pass upon his life
+CORNWALL:
+Without the form of justice, yet our power
+CORNWALL:
+Shall do a courtesy to our wrath, which men
+CORNWALL:
+May blame, but not control. Who's there? the traitor?
+CORNWALL:
+Enter GLOUCESTER, brought in by two or three
+REGAN:
+Ingrateful fox! 'tis he.
+CORNWALL:
+Bind fast his corky arms.
+GLOUCESTER:
+What mean your graces? Good my friends, consider
+GLOUCESTER:
+You are my guests: do me no foul play, friends.
+CORNWALL:
+Bind him, I say.
+CORNWALL:
+Servants bind him
+REGAN:
+Hard, hard. O filthy traitor!
+GLOUCESTER:
+Unmerciful lady as you are, I'm none.
+CORNWALL:
+To this chair bind him. Villain, thou shalt find--
+CORNWALL:
+REGAN plucks his beard
+GLOUCESTER:
+By the kind gods, 'tis most ignobly done
+GLOUCESTER:
+To pluck me by the beard.
+REGAN:
+So white, and such a traitor!
+GLOUCESTER:
+Naughty lady,
+GLOUCESTER:
+These hairs, which thou dost ravish from my chin,
+GLOUCESTER:
+Will quicken, and accuse thee: I am your host
+GLOUCESTER:
+With robbers' hands my hospitable favours
+GLOUCESTER:
+You should not ruffle thus. What will you do?
+CORNWALL:
+Come, sir, what letters had you late from France?
+REGAN:
+Be simple answerer, for we know the truth.
+CORNWALL:
+And what confederacy have you with the traitors
+CORNWALL:
+Late footed in the kingdom?
+REGAN:
+To whose hands have you sent the lunatic king? Speak.
+GLOUCESTER:
+I have a letter guessingly set down,
+GLOUCESTER:
+Which came from one that's of a neutral heart,
+GLOUCESTER:
+And not from one opposed.
+CORNWALL:
+Cunning.
+REGAN:
+And false.
+CORNWALL:
+Where hast thou sent the king?
+GLOUCESTER:
+To Dover.
+REGAN:
+Wherefore to Dover? Wast thou not charged at peril--
+CORNWALL:
+Wherefore to Dover? Let him first answer that.
+GLOUCESTER:
+I am tied to the stake, and I must stand the course.
+REGAN:
+Wherefore to Dover, sir?
+GLOUCESTER:
+Because I would not see thy cruel nails
+GLOUCESTER:
+Pluck out his poor old eyes, nor thy fierce sister
+GLOUCESTER:
+In his anointed flesh stick boarish fangs.
+GLOUCESTER:
+The sea, with such a storm as his bare head
+GLOUCESTER:
+In hell-black night endured, would have buoy'd up,
+GLOUCESTER:
+And quench'd the stelled fires
+GLOUCESTER:
+Yet, poor old heart, he holp the heavens to rain.
+GLOUCESTER:
+If wolves had at thy gate howl'd that stern time,
+GLOUCESTER:
+Thou shouldst have said 'Good porter, turn the key,'
+GLOUCESTER:
+All cruels else subscribed: but I shall see
+GLOUCESTER:
+The winged vengeance overtake such children.
+CORNWALL:
+See't shalt thou never. Fellows, hold the chair.
+CORNWALL:
+Upon these eyes of thine I'll set my foot.
+GLOUCESTER:
+He that will think to live till he be old,
+GLOUCESTER:
+Give me some help! O cruel! O you gods!
+REGAN:
+One side will mock another, the other too.
+CORNWALL:
+If you see vengeance,--
+First Servant:
+Hold your hand, my lord
+First Servant:
+I have served you ever since I was a child,
+First Servant:
+But better service have I never done you
+First Servant:
+Than now to bid you hold.
+REGAN:
+How now, you dog!
+First Servant:
+If you did wear a beard upon your chin,
+First Servant:
+I'd shake it on this quarrel. What do you mean?
+CORNWALL:
+My villain!
+CORNWALL:
+They draw and fight
+First Servant:
+Nay, then, come on, and take the chance of anger.
+REGAN:
+Give me thy sword. A peasant stand up thus!
+REGAN:
+Takes a sword, and runs at him behind
+First Servant:
+O, I am slain! My lord, you have one eye left
+First Servant:
+To see some mischief on him. O!
+First Servant:
+Dies
+CORNWALL:
+Lest it see more, prevent it. Out, vile jelly!
+CORNWALL:
+Where is thy lustre now?
+GLOUCESTER:
+All dark and comfortless. Where's my son Edmund?
+GLOUCESTER:
+Edmund, enkindle all the sparks of nature,
+GLOUCESTER:
+To quit this horrid act.
+REGAN:
+Out, treacherous villain!
+REGAN:
+Thou call'st on him that hates thee: it was he
+REGAN:
+That made the overture of thy treasons to us,
+REGAN:
+Who is too good to pity thee.
+GLOUCESTER:
+O my follies! then Edgar was abused.
+GLOUCESTER:
+Kind gods, forgive me that, and prosper him!
+REGAN:
+Go thrust him out at gates, and let him smell
+REGAN:
+His way to Dover.
+REGAN:
+Exit one with GLOUCESTER
+REGAN:
+How is't, my lord? how look you?
+CORNWALL:
+I have received a hurt: follow me, lady.
+CORNWALL:
+Turn out that eyeless villain, throw this slave
+CORNWALL:
+Upon the dunghill. Regan, I bleed apace
+CORNWALL:
+Untimely comes this hurt: give me your arm.
+CORNWALL:
+Exit CORNWALL, led by REGAN
+Second Servant:
+I'll never care what wickedness I do,
+Second Servant:
+If this man come to good.
+Third Servant:
+If she live long,
+Third Servant:
+And in the end meet the old course of death,
+Third Servant:
+Women will all turn monsters.
+Second Servant:
+Let's follow the old earl, and get the Bedlam
+Second Servant:
+To lead him where he would: his roguish madness
+Second Servant:
+Allows itself to any thing.
+Third Servant:
+Go thou: I'll fetch some flax and whites of eggs
+Third Servant:
+To apply to his bleeding face. Now, heaven help him!
+Third Servant:
+Exeunt severally
+Third Servant:
+ACT IV
+Third Servant:
+SCENE I. The heath.
+Third Servant:
+Enter EDGAR
+EDGAR:
+Yet better thus, and known to be contemn'd,
+EDGAR:
+Than still contemn'd and flatter'd. To be worst,
+EDGAR:
+The lowest and most dejected thing of fortune,
+EDGAR:
+Stands still in esperance, lives not in fear
+EDGAR:
+The lamentable change is from the best,
+EDGAR:
+The worst returns to laughter. Welcome, then,
+EDGAR:
+Thou unsubstantial air that I embrace!
+EDGAR:
+The wretch that thou hast blown unto the worst
+EDGAR:
+Owes nothing to thy blasts. But who comes here?
+EDGAR:
+Enter GLOUCESTER, led by an Old Man
+EDGAR:
+My father, poorly led? World, world, O world!
+EDGAR:
+But that thy strange mutations make us hate thee,
+EDGAR:
+Lie would not yield to age.
+Old Man:
+O, my good lord, I have been your tenant, and
+Old Man:
+your father's tenant, these fourscore years.
+GLOUCESTER:
+Away, get thee away, good friend, be gone
+GLOUCESTER:
+Thy comforts can do me no good at all,
+GLOUCESTER:
+Thee they may hurt.
+Old Man:
+Alack, sir, you cannot see your way.
+GLOUCESTER:
+I have no way, and therefore want no eyes,
+GLOUCESTER:
+I stumbled when I saw: full oft 'tis seen,
+GLOUCESTER:
+Our means secure us, and our mere defects
+GLOUCESTER:
+Prove our commodities. O dear son Edgar,
+GLOUCESTER:
+The food of thy abused father's wrath!
+GLOUCESTER:
+Might I but live to see thee in my touch,
+GLOUCESTER:
+I'ld say I had eyes again!
+Old Man:
+How now! Who's there?
+EDGAR:
+[Aside]  O gods! Who is't can say 'I am at
+EDGAR:
+the worst'?
+EDGAR:
+I am worse than e'er I was.
+Old Man:
+'Tis poor mad Tom.
+EDGAR:
+[Aside]  And worse I may be yet: the worst is not
+EDGAR:
+So long as we can say  'This is the worst.'
+Old Man:
+Fellow, where goest?
+GLOUCESTER:
+Is it a beggar-man?
+Old Man:
+Madman and beggar too.
+GLOUCESTER:
+He has some reason, else he could not beg.
+GLOUCESTER:
+I' the last night's storm I such a fellow saw,
+GLOUCESTER:
+Which made me think a man a worm: my son
+GLOUCESTER:
+Came then into my mind, and yet my mind
+GLOUCESTER:
+Was then scarce friends with him: I have heard
+GLOUCESTER:
+more since.
+GLOUCESTER:
+As flies to wanton boys, are we to the gods.
+GLOUCESTER:
+They kill us for their sport.
+EDGAR:
+[Aside]	How should this be?
+EDGAR:
+Bad is the trade that must play fool to sorrow,
+EDGAR:
+Angering itself and others.--Bless thee, master!
+GLOUCESTER:
+Is that the naked fellow?
+Old Man:
+Ay, my lord.
+GLOUCESTER:
+Then, prithee, get thee gone: if, for my sake,
+GLOUCESTER:
+Thou wilt o'ertake us, hence a mile or twain,
+GLOUCESTER:
+I' the way toward Dover, do it for ancient love,
+GLOUCESTER:
+And bring some covering for this naked soul,
+GLOUCESTER:
+Who I'll entreat to lead me.
+Old Man:
+Alack, sir, he is mad.
+GLOUCESTER:
+'Tis the times' plague, when madmen lead the blind.
+GLOUCESTER:
+Do as I bid thee, or rather do thy pleasure,
+GLOUCESTER:
+Above the rest, be gone.
+Old Man:
+I'll bring him the best 'parel that I have,
+Old Man:
+Come on't what will.
+Old Man:
+Exit
+GLOUCESTER:
+Sirrah, naked fellow,--
+EDGAR:
+Poor Tom's a-cold.
+EDGAR:
+Aside
+EDGAR:
+I cannot daub it further.
+GLOUCESTER:
+Come hither, fellow.
+EDGAR:
+[Aside]  And yet I must.--Bless thy sweet eyes, they bleed.
+GLOUCESTER:
+Know'st thou the way to Dover?
+EDGAR:
+Both stile and gate, horse-way and foot-path. Poor
+EDGAR:
+Tom hath been scared out of his good wits: bless
+EDGAR:
+thee, good man's son, from the foul fiend! five
+EDGAR:
+fiends have been in poor Tom at once, of lust, as
+EDGAR:
+Obidicut, Hobbididence, prince of dumbness, Mahu, of
+EDGAR:
+stealing, Modo, of murder, Flibbertigibbet, of
+EDGAR:
+mopping and mowing, who since possesses chambermaids
+EDGAR:
+and waiting-women. So, bless thee, master!
+GLOUCESTER:
+Here, take this purse, thou whom the heavens' plagues
+GLOUCESTER:
+Have humbled to all strokes: that I am wretched
+GLOUCESTER:
+Makes thee the happier: heavens, deal so still!
+GLOUCESTER:
+Let the superfluous and lust-dieted man,
+GLOUCESTER:
+That slaves your ordinance, that will not see
+GLOUCESTER:
+Because he doth not feel, feel your power quickly,
+GLOUCESTER:
+So distribution should undo excess,
+GLOUCESTER:
+And each man have enough. Dost thou know Dover?
+EDGAR:
+Ay, master.
+GLOUCESTER:
+There is a cliff, whose high and bending head
+GLOUCESTER:
+Looks fearfully in the confined deep
+GLOUCESTER:
+Bring me but to the very brim of it,
+GLOUCESTER:
+And I'll repair the misery thou dost bear
+GLOUCESTER:
+With something rich about me: from that place
+GLOUCESTER:
+I shall no leading need.
+EDGAR:
+Give me thy arm
+EDGAR:
+Poor Tom shall lead thee.
+EDGAR:
+Exeunt
+EDGAR:
+SCENE II. Before ALBANY's palace.
+EDGAR:
+Enter GONERIL and EDMUND
+GONERIL:
+Welcome, my lord: I marvel our mild husband
+GONERIL:
+Not met us on the way.
+GONERIL:
+Enter OSWALD
+GONERIL:
+Now, where's your master'?
+OSWALD:
+Madam, within, but never man so changed.
+OSWALD:
+I told him of the army that was landed,
+OSWALD:
+He smiled at it: I told him you were coming
+OSWALD:
+His answer was 'The worse:' of Gloucester's treachery,
+OSWALD:
+And of the loyal service of his son,
+OSWALD:
+When I inform'd him, then he call'd me sot,
+OSWALD:
+And told me I had turn'd the wrong side out
+OSWALD:
+What most he should dislike seems pleasant to him,
+OSWALD:
+What like, offensive.
+GONERIL:
+[To EDMUND]  Then shall you go no further.
+GONERIL:
+It is the cowish terror of his spirit,
+GONERIL:
+That dares not undertake: he'll not feel wrongs
+GONERIL:
+Which tie him to an answer. Our wishes on the way
+GONERIL:
+May prove effects. Back, Edmund, to my brother,
+GONERIL:
+Hasten his musters and conduct his powers
+GONERIL:
+I must change arms at home, and give the distaff
+GONERIL:
+Into my husband's hands. This trusty servant
+GONERIL:
+Shall pass between us: ere long you are like to hear,
+GONERIL:
+If you dare venture in your own behalf,
+GONERIL:
+A mistress's command. Wear this, spare speech,
+GONERIL:
+Giving a favour
+GONERIL:
+Decline your head: this kiss, if it durst speak,
+GONERIL:
+Would stretch thy spirits up into the air
+GONERIL:
+Conceive, and fare thee well.
+EDMUND:
+Yours in the ranks of death.
+GONERIL:
+My most dear Gloucester!
+GONERIL:
+Exit EDMUND
+GONERIL:
+O, the difference of man and man!
+GONERIL:
+To thee a woman's services are due
+GONERIL:
+My fool usurps my body.
+OSWALD:
+Madam, here comes my lord.
+OSWALD:
+Exit
+OSWALD:
+Enter ALBANY
+GONERIL:
+I have been worth the whistle.
+ALBANY:
+O Goneril!
+ALBANY:
+You are not worth the dust which the rude wind
+ALBANY:
+Blows in your face. I fear your disposition
+ALBANY:
+That nature, which contemns its origin,
+ALBANY:
+Cannot be border'd certain in itself,
+ALBANY:
+She that herself will sliver and disbranch
+ALBANY:
+From her material sap, perforce must wither
+ALBANY:
+And come to deadly use.
+GONERIL:
+No more, the text is foolish.
+ALBANY:
+Wisdom and goodness to the vile seem vile
+ALBANY:
+Filths savour but themselves. What have you done?
+ALBANY:
+Tigers, not daughters, what have you perform'd?
+ALBANY:
+A father, and a gracious aged man,
+ALBANY:
+Whose reverence even the head-lugg'd bear would lick,
+ALBANY:
+Most barbarous, most degenerate! have you madded.
+ALBANY:
+Could my good brother suffer you to do it?
+ALBANY:
+A man, a prince, by him so benefited!
+ALBANY:
+If that the heavens do not their visible spirits
+ALBANY:
+Send quickly down to tame these vile offences,
+ALBANY:
+It will come,
+ALBANY:
+Humanity must perforce prey on itself,
+ALBANY:
+Like monsters of the deep.
+GONERIL:
+Milk-liver'd man!
+GONERIL:
+That bear'st a cheek for blows, a head for wrongs,
+GONERIL:
+Who hast not in thy brows an eye discerning
+GONERIL:
+Thine honour from thy suffering, that not know'st
+GONERIL:
+Fools do those villains pity who are punish'd
+GONERIL:
+Ere they have done their mischief. Where's thy drum?
+GONERIL:
+France spreads his banners in our noiseless land,
+GONERIL:
+With plumed helm thy slayer begins threats,
+GONERIL:
+Whiles thou, a moral fool, sit'st still, and criest
+GONERIL:
+'Alack, why does he so?'
+ALBANY:
+See thyself, devil!
+ALBANY:
+Proper deformity seems not in the fiend
+ALBANY:
+So horrid as in woman.
+GONERIL:
+O vain fool!
+ALBANY:
+Thou changed and self-cover'd thing, for shame,
+ALBANY:
+Be-monster not thy feature. Were't my fitness
+ALBANY:
+To let these hands obey my blood,
+ALBANY:
+They are apt enough to dislocate and tear
+ALBANY:
+Thy flesh and bones: howe'er thou art a fiend,
+ALBANY:
+A woman's shape doth shield thee.
+GONERIL:
+Marry, your manhood now--
+GONERIL:
+Enter a Messenger
+ALBANY:
+What news?
+Messenger:
+O, my good lord, the Duke of Cornwall's dead
+Messenger:
+Slain by his servant, going to put out
+Messenger:
+The other eye of Gloucester.
+ALBANY:
+Gloucester's eye!
+Messenger:
+A servant that he bred, thrill'd with remorse,
+Messenger:
+Opposed against the act, bending his sword
+Messenger:
+To his great master, who, thereat enraged,
+Messenger:
+Flew on him, and amongst them fell'd him dead,
+Messenger:
+But not without that harmful stroke, which since
+Messenger:
+Hath pluck'd him after.
+ALBANY:
+This shows you are above,
+ALBANY:
+You justicers, that these our nether crimes
+ALBANY:
+So speedily can venge! But, O poor Gloucester!
+ALBANY:
+Lost he his other eye?
+Messenger:
+Both, both, my lord.
+Messenger:
+This letter, madam, craves a speedy answer,
+Messenger:
+'Tis from your sister.
+GONERIL:
+[Aside]              One way I like this well,
+GONERIL:
+But being widow, and my Gloucester with her,
+GONERIL:
+May all the building in my fancy pluck
+GONERIL:
+Upon my hateful life: another way,
+GONERIL:
+The news is not so tart.--I'll read, and answer.
+GONERIL:
+Exit
+ALBANY:
+Where was his son when they did take his eyes?
+Messenger:
+Come with my lady hither.
+ALBANY:
+He is not here.
+Messenger:
+No, my good lord, I met him back again.
+ALBANY:
+Knows he the wickedness?
+Messenger:
+Ay, my good lord, 'twas he inform'd against him,
+Messenger:
+And quit the house on purpose, that their punishment
+Messenger:
+Might have the freer course.
+ALBANY:
+Gloucester, I live
+ALBANY:
+To thank thee for the love thou show'dst the king,
+ALBANY:
+And to revenge thine eyes. Come hither, friend
+ALBANY:
+Tell me what more thou know'st.
+ALBANY:
+Exeunt
+ALBANY:
+SCENE III. The French camp near Dover.
+ALBANY:
+Enter KENT and a Gentleman
+KENT:
+Why the King of France is so suddenly gone back
+KENT:
+know you the reason?
+Gentleman:
+Something he left imperfect in the
+Gentleman:
+state, which since his coming forth is thought
+Gentleman:
+of, which imports to the kingdom so much
+Gentleman:
+fear and danger, that his personal return was
+Gentleman:
+most required and necessary.
+KENT:
+Who hath he left behind him general?
+Gentleman:
+The Marshal of France, Monsieur La Far.
+KENT:
+Did your letters pierce the queen to any
+KENT:
+demonstration of grief?
+Gentleman:
+Ay, sir, she took them, read them in my presence,
+Gentleman:
+And now and then an ample tear trill'd down
+Gentleman:
+Her delicate cheek: it seem'd she was a queen
+Gentleman:
+Over her passion, who, most rebel-like,
+Gentleman:
+Sought to be king o'er her.
+KENT:
+O, then it moved her.
+Gentleman:
+Not to a rage: patience and sorrow strove
+Gentleman:
+Who should express her goodliest. You have seen
+Gentleman:
+Sunshine and rain at once: her smiles and tears
+Gentleman:
+Were like a better way: those happy smilets,
+Gentleman:
+That play'd on her ripe lip, seem'd not to know
+Gentleman:
+What guests were in her eyes, which parted thence,
+Gentleman:
+As pearls from diamonds dropp'd. In brief,
+Gentleman:
+Sorrow would be a rarity most beloved,
+Gentleman:
+If all could so become it.
+KENT:
+Made she no verbal question?
+Gentleman:
+'Faith, once or twice she heaved the name of 'father'
+Gentleman:
+Pantingly forth, as if it press'd her heart
+Gentleman:
+Cried 'Sisters! sisters! Shame of ladies! sisters!
+Gentleman:
+Kent! father! sisters! What, i' the storm? i' the night?
+Gentleman:
+Let pity not be believed!' There she shook
+Gentleman:
+The holy water from her heavenly eyes,
+Gentleman:
+And clamour moisten'd: then away she started
+Gentleman:
+To deal with grief alone.
+KENT:
+It is the stars,
+KENT:
+The stars above us, govern our conditions,
+KENT:
+Else one self mate and mate could not beget
+KENT:
+Such different issues. You spoke not with her since?
+Gentleman:
+No.
+KENT:
+Was this before the king return'd?
+Gentleman:
+No, since.
+KENT:
+Well, sir, the poor distressed Lear's i' the town,
+KENT:
+Who sometime, in his better tune, remembers
+KENT:
+What we are come about, and by no means
+KENT:
+Will yield to see his daughter.
+Gentleman:
+Why, good sir?
+KENT:
+A sovereign shame so elbows him: his own unkindness,
+KENT:
+That stripp'd her from his benediction, turn'd her
+KENT:
+To foreign casualties, gave her dear rights
+KENT:
+To his dog-hearted daughters, these things sting
+KENT:
+His mind so venomously, that burning shame
+KENT:
+Detains him from Cordelia.
+Gentleman:
+Alack, poor gentleman!
+KENT:
+Of Albany's and Cornwall's powers you heard not?
+Gentleman:
+'Tis so, they are afoot.
+KENT:
+Well, sir, I'll bring you to our master Lear,
+KENT:
+And leave you to attend him: some dear cause
+KENT:
+Will in concealment wrap me up awhile,
+KENT:
+When I am known aright, you shall not grieve
+KENT:
+Lending me this acquaintance. I pray you, go
+KENT:
+Along with me.
+KENT:
+Exeunt
+KENT:
+SCENE IV. The same. A tent.
+KENT:
+Enter, with drum and colours, CORDELIA, Doctor, and Soldiers
+CORDELIA:
+Alack, 'tis he: why, he was met even now
+CORDELIA:
+As mad as the vex'd sea, singing aloud,
+CORDELIA:
+Crown'd with rank fumiter and furrow-weeds,
+CORDELIA:
+With bur-docks, hemlock, nettles, cuckoo-flowers,
+CORDELIA:
+Darnel, and all the idle weeds that grow
+CORDELIA:
+In our sustaining corn. A century send forth,
+CORDELIA:
+Search every acre in the high-grown field,
+CORDELIA:
+And bring him to our eye.
+CORDELIA:
+Exit an Officer
+CORDELIA:
+What can man's wisdom
+CORDELIA:
+In the restoring his bereaved sense?
+CORDELIA:
+He that helps him take all my outward worth.
+Doctor:
+There is means, madam
+Doctor:
+Our foster-nurse of nature is repose,
+Doctor:
+The which he lacks, that to provoke in him,
+Doctor:
+Are many simples operative, whose power
+Doctor:
+Will close the eye of anguish.
+CORDELIA:
+All blest secrets,
+CORDELIA:
+All you unpublish'd virtues of the earth,
+CORDELIA:
+Spring with my tears! be aidant and remediate
+CORDELIA:
+In the good man's distress! Seek, seek for him,
+CORDELIA:
+Lest his ungovern'd rage dissolve the life
+CORDELIA:
+That wants the means to lead it.
+CORDELIA:
+Enter a Messenger
+Messenger:
+News, madam,
+Messenger:
+The British powers are marching hitherward.
+CORDELIA:
+'Tis known before, our preparation stands
+CORDELIA:
+In expectation of them. O dear father,
+CORDELIA:
+It is thy business that I go about,
+CORDELIA:
+Therefore great France
+CORDELIA:
+My mourning and important tears hath pitied.
+CORDELIA:
+No blown ambition doth our arms incite,
+CORDELIA:
+But love, dear love, and our aged father's right
+CORDELIA:
+Soon may I hear and see him!
+CORDELIA:
+Exeunt
+CORDELIA:
+SCENE V. Gloucester's castle.
+CORDELIA:
+Enter REGAN and OSWALD
+REGAN:
+But are my brother's powers set forth?
+OSWALD:
+Ay, madam.
+REGAN:
+Himself in person there?
+OSWALD:
+Madam, with much ado
+OSWALD:
+Your sister is the better soldier.
+REGAN:
+Lord Edmund spake not with your lord at home?
+OSWALD:
+No, madam.
+REGAN:
+What might import my sister's letter to him?
+OSWALD:
+I know not, lady.
+REGAN:
+'Faith, he is posted hence on serious matter.
+REGAN:
+It was great ignorance, Gloucester's eyes being out,
+REGAN:
+To let him live: where he arrives he moves
+REGAN:
+All hearts against us: Edmund, I think, is gone,
+REGAN:
+In pity of his misery, to dispatch
+REGAN:
+His nighted life: moreover, to descry
+REGAN:
+The strength o' the enemy.
+OSWALD:
+I must needs after him, madam, with my letter.
+REGAN:
+Our troops set forth to-morrow: stay with us,
+REGAN:
+The ways are dangerous.
+OSWALD:
+I may not, madam
+OSWALD:
+My lady charged my duty in this business.
+REGAN:
+Why should she write to Edmund? Might not you
+REGAN:
+Transport her purposes by word? Belike,
+REGAN:
+Something--I know not what: I'll love thee much,
+REGAN:
+Let me unseal the letter.
+OSWALD:
+Madam, I had rather--
+REGAN:
+I know your lady does not love her husband,
+REGAN:
+I am sure of that: and at her late being here
+REGAN:
+She gave strange oeillades and most speaking looks
+REGAN:
+To noble Edmund. I know you are of her bosom.
+OSWALD:
+I, madam?
+REGAN:
+I speak in understanding, you are, I know't
+REGAN:
+Therefore I do advise you, take this note
+REGAN:
+My lord is dead, Edmund and I have talk'd,
+REGAN:
+And more convenient is he for my hand
+REGAN:
+Than for your lady's: you may gather more.
+REGAN:
+If you do find him, pray you, give him this,
+REGAN:
+And when your mistress hears thus much from you,
+REGAN:
+I pray, desire her call her wisdom to her.
+REGAN:
+So, fare you well.
+REGAN:
+If you do chance to hear of that blind traitor,
+REGAN:
+Preferment falls on him that cuts him off.
+OSWALD:
+Would I could meet him, madam! I should show
+OSWALD:
+What party I do follow.
+REGAN:
+Fare thee well.
+REGAN:
+Exeunt
+REGAN:
+SCENE VI. Fields near Dover.
+REGAN:
+Enter GLOUCESTER, and EDGAR dressed like a peasant
+GLOUCESTER:
+When shall we come to the top of that same hill?
+EDGAR:
+You do climb up it now: look, how we labour.
+GLOUCESTER:
+Methinks the ground is even.
+EDGAR:
+Horrible steep.
+EDGAR:
+Hark, do you hear the sea?
+GLOUCESTER:
+No, truly.
+EDGAR:
+Why, then, your other senses grow imperfect
+EDGAR:
+By your eyes' anguish.
+GLOUCESTER:
+So may it be, indeed
+GLOUCESTER:
+Methinks thy voice is alter'd, and thou speak'st
+GLOUCESTER:
+In better phrase and matter than thou didst.
+EDGAR:
+You're much deceived: in nothing am I changed
+EDGAR:
+But in my garments.
+GLOUCESTER:
+Methinks you're better spoken.
+EDGAR:
+Come on, sir, here's the place: stand still. How fearful
+EDGAR:
+And dizzy 'tis, to cast one's eyes so low!
+EDGAR:
+The crows and choughs that wing the midway air
+EDGAR:
+Show scarce so gross as beetles: half way down
+EDGAR:
+Hangs one that gathers samphire, dreadful trade!
+EDGAR:
+Methinks he seems no bigger than his head
+EDGAR:
+The fishermen, that walk upon the beach,
+EDGAR:
+Appear like mice, and yond tall anchoring bark,
+EDGAR:
+Diminish'd to her cock, her cock, a buoy
+EDGAR:
+Almost too small for sight: the murmuring surge,
+EDGAR:
+That on the unnumber'd idle pebbles chafes,
+EDGAR:
+Cannot be heard so high. I'll look no more,
+EDGAR:
+Lest my brain turn, and the deficient sight
+EDGAR:
+Topple down headlong.
+GLOUCESTER:
+Set me where you stand.
+EDGAR:
+Give me your hand: you are now within a foot
+EDGAR:
+Of the extreme verge: for all beneath the moon
+EDGAR:
+Would I not leap upright.
+GLOUCESTER:
+Let go my hand.
+GLOUCESTER:
+Here, friend, 's another purse, in it a jewel
+GLOUCESTER:
+Well worth a poor man's taking: fairies and gods
+GLOUCESTER:
+Prosper it with thee! Go thou farther off,
+GLOUCESTER:
+Bid me farewell, and let me hear thee going.
+EDGAR:
+Now fare you well, good sir.
+GLOUCESTER:
+With all my heart.
+EDGAR:
+Why I do trifle thus with his despair
+EDGAR:
+Is done to cure it.
+GLOUCESTER:
+[Kneeling]  O you mighty gods!
+GLOUCESTER:
+This world I do renounce, and, in your sights,
+GLOUCESTER:
+Shake patiently my great affliction off
+GLOUCESTER:
+If I could bear it longer, and not fall
+GLOUCESTER:
+To quarrel with your great opposeless wills,
+GLOUCESTER:
+My snuff and loathed part of nature should
+GLOUCESTER:
+Burn itself out. If Edgar live, O, bless him!
+GLOUCESTER:
+Now, fellow, fare thee well.
+GLOUCESTER:
+He falls forward
+EDGAR:
+Gone, sir: farewell.
+EDGAR:
+And yet I know not how conceit may rob
+EDGAR:
+The treasury of life, when life itself
+EDGAR:
+Yields to the theft: had he been where he thought,
+EDGAR:
+By this, had thought been past. Alive or dead?
+EDGAR:
+Ho, you sir! friend! Hear you, sir! speak!
+EDGAR:
+Thus might he pass indeed: yet he revives.
+EDGAR:
+What are you, sir?
+GLOUCESTER:
+Away, and let me die.
+EDGAR:
+Hadst thou been aught but gossamer, feathers, air,
+EDGAR:
+So many fathom down precipitating,
+EDGAR:
+Thou'dst shiver'd like an egg: but thou dost breathe,
+EDGAR:
+Hast heavy substance, bleed'st not, speak'st, art sound.
+EDGAR:
+Ten masts at each make not the altitude
+EDGAR:
+Which thou hast perpendicularly fell
+EDGAR:
+Thy life's a miracle. Speak yet again.
+GLOUCESTER:
+But have I fall'n, or no?
+EDGAR:
+From the dread summit of this chalky bourn.
+EDGAR:
+Look up a-height, the shrill-gorged lark so far
+EDGAR:
+Cannot be seen or heard: do but look up.
+GLOUCESTER:
+Alack, I have no eyes.
+GLOUCESTER:
+Is wretchedness deprived that benefit,
+GLOUCESTER:
+To end itself by death? 'Twas yet some comfort,
+GLOUCESTER:
+When misery could beguile the tyrant's rage,
+GLOUCESTER:
+And frustrate his proud will.
+EDGAR:
+Give me your arm
+EDGAR:
+Up: so. How is 't? Feel you your legs? You stand.
+GLOUCESTER:
+Too well, too well.
+EDGAR:
+This is above all strangeness.
+EDGAR:
+Upon the crown o' the cliff, what thing was that
+EDGAR:
+Which parted from you?
+GLOUCESTER:
+A poor unfortunate beggar.
+EDGAR:
+As I stood here below, methought his eyes
+EDGAR:
+Were two full moons, he had a thousand noses,
+EDGAR:
+Horns whelk'd and waved like the enridged sea
+EDGAR:
+It was some fiend, therefore, thou happy father,
+EDGAR:
+Think that the clearest gods, who make them honours
+EDGAR:
+Of men's impossibilities, have preserved thee.
+GLOUCESTER:
+I do remember now: henceforth I'll bear
+GLOUCESTER:
+Affliction till it do cry out itself
+GLOUCESTER:
+'Enough, enough,' and die. That thing you speak of,
+GLOUCESTER:
+I took it for a man, often 'twould say
+GLOUCESTER:
+'The fiend, the fiend:' he led me to that place.
+EDGAR:
+Bear free and patient thoughts. But who comes here?
+EDGAR:
+Enter KING LEAR, fantastically dressed with wild flowers
+EDGAR:
+The safer sense will ne'er accommodate
+EDGAR:
+His master thus.
+KING LEAR:
+No, they cannot touch me for coining, I am the
+KING LEAR:
+king himself.
+EDGAR:
+O thou side-piercing sight!
+KING LEAR:
+Nature's above art in that respect. There's your
+KING LEAR:
+press-money. That fellow handles his bow like a
+KING LEAR:
+crow-keeper: draw me a clothier's yard. Look,
+KING LEAR:
+look, a mouse! Peace, peace, this piece of toasted
+KING LEAR:
+cheese will do 't. There's my gauntlet, I'll prove
+KING LEAR:
+it on a giant. Bring up the brown bills. O, well
+KING LEAR:
+flown, bird! i' the clout, i' the clout: hewgh!
+KING LEAR:
+Give the word.
+EDGAR:
+Sweet marjoram.
+KING LEAR:
+Pass.
+GLOUCESTER:
+I know that voice.
+KING LEAR:
+Ha! Goneril, with a white beard! They flattered
+KING LEAR:
+me like a dog, and told me I had white hairs in my
+KING LEAR:
+beard ere the black ones were there. To say 'ay'
+KING LEAR:
+and 'no' to every thing that I said!--'Ay' and 'no'
+KING LEAR:
+too was no good divinity. When the rain came to
+KING LEAR:
+wet me once, and the wind to make me chatter, when
+KING LEAR:
+the thunder would not peace at my bidding, there I
+KING LEAR:
+found 'em, there I smelt 'em out. Go to, they are
+KING LEAR:
+not men o' their words: they told me I was every
+KING LEAR:
+thing, 'tis a lie, I am not ague-proof.
+GLOUCESTER:
+The trick of that voice I do well remember
+GLOUCESTER:
+Is 't not the king?
+KING LEAR:
+Ay, every inch a king
+KING LEAR:
+When I do stare, see how the subject quakes.
+KING LEAR:
+I pardon that man's life. What was thy cause? Adultery?
+KING LEAR:
+Thou shalt not die: die for adultery! No
+KING LEAR:
+The wren goes to 't, and the small gilded fly
+KING LEAR:
+Does lecher in my sight.
+KING LEAR:
+Let copulation thrive, for Gloucester's bastard son
+KING LEAR:
+Was kinder to his father than my daughters
+KING LEAR:
+Got 'tween the lawful sheets.
+KING LEAR:
+To 't, luxury, pell-mell! for I lack soldiers.
+KING LEAR:
+Behold yond simpering dame,
+KING LEAR:
+Whose face between her forks presages snow,
+KING LEAR:
+That minces virtue, and does shake the head
+KING LEAR:
+To hear of pleasure's name,
+KING LEAR:
+The fitchew, nor the soiled horse, goes to 't
+KING LEAR:
+With a more riotous appetite.
+KING LEAR:
+Down from the waist they are Centaurs,
+KING LEAR:
+Though women all above
+KING LEAR:
+But to the girdle do the gods inherit,
+KING LEAR:
+Beneath is all the fiends',
+KING LEAR:
+There's hell, there's darkness, there's the
+KING LEAR:
+sulphurous pit,
+KING LEAR:
+Burning, scalding, stench, consumption, fie,
+KING LEAR:
+fie, fie! pah, pah! Give me an ounce of civet,
+KING LEAR:
+good apothecary, to sweeten my imagination
+KING LEAR:
+there's money for thee.
+GLOUCESTER:
+O, let me kiss that hand!
+KING LEAR:
+Let me wipe it first, it smells of mortality.
+GLOUCESTER:
+O ruin'd piece of nature! This great world
+GLOUCESTER:
+Shall so wear out to nought. Dost thou know me?
+KING LEAR:
+I remember thine eyes well enough. Dost thou squiny
+KING LEAR:
+at me? No, do thy worst, blind Cupid! I'll not
+KING LEAR:
+love. Read thou this challenge, mark but the
+KING LEAR:
+penning of it.
+GLOUCESTER:
+Were all the letters suns, I could not see one.
+EDGAR:
+I would not take this from report, it is,
+EDGAR:
+And my heart breaks at it.
+KING LEAR:
+Read.
+GLOUCESTER:
+What, with the case of eyes?
+KING LEAR:
+O, ho, are you there with me? No eyes in your
+KING LEAR:
+head, nor no money in your purse? Your eyes are in
+KING LEAR:
+a heavy case, your purse in a light, yet you see how
+KING LEAR:
+this world goes.
+GLOUCESTER:
+I see it feelingly.
+KING LEAR:
+What, art mad? A man may see how this world goes
+KING LEAR:
+with no eyes. Look with thine ears: see how yond
+KING LEAR:
+justice rails upon yond simple thief. Hark, in
+KING LEAR:
+thine ear: change places, and, handy-dandy, which
+KING LEAR:
+is the justice, which is the thief? Thou hast seen
+KING LEAR:
+a farmer's dog bark at a beggar?
+GLOUCESTER:
+Ay, sir.
+KING LEAR:
+And the creature run from the cur? There thou
+KING LEAR:
+mightst behold the great image of authority: a
+KING LEAR:
+dog's obeyed in office.
+KING LEAR:
+Thou rascal beadle, hold thy bloody hand!
+KING LEAR:
+Why dost thou lash that whore? Strip thine own back,
+KING LEAR:
+Thou hotly lust'st to use her in that kind
+KING LEAR:
+For which thou whipp'st her. The usurer hangs the cozener.
+KING LEAR:
+Through tatter'd clothes small vices do appear,
+KING LEAR:
+Robes and furr'd gowns hide all. Plate sin with gold,
+KING LEAR:
+And the strong lance of justice hurtless breaks
+KING LEAR:
+Arm it in rags, a pigmy's straw does pierce it.
+KING LEAR:
+None does offend, none, I say, none, I'll able 'em
+KING LEAR:
+Take that of me, my friend, who have the power
+KING LEAR:
+To seal the accuser's lips. Get thee glass eyes,
+KING LEAR:
+And like a scurvy politician, seem
+KING LEAR:
+To see the things thou dost not. Now, now, now, now
+KING LEAR:
+Pull off my boots: harder, harder: so.
+EDGAR:
+O, matter and impertinency mix'd! Reason in madness!
+KING LEAR:
+If thou wilt weep my fortunes, take my eyes.
+KING LEAR:
+I know thee well enough, thy name is Gloucester
+KING LEAR:
+Thou must be patient, we came crying hither
+KING LEAR:
+Thou know'st, the first time that we smell the air,
+KING LEAR:
+We wawl and cry. I will preach to thee: mark.
+GLOUCESTER:
+Alack, alack the day!
+KING LEAR:
+When we are born, we cry that we are come
+KING LEAR:
+To this great stage of fools: this a good block,
+KING LEAR:
+It were a delicate stratagem, to shoe
+KING LEAR:
+A troop of horse with felt: I'll put 't in proof,
+KING LEAR:
+And when I have stol'n upon these sons-in-law,
+KING LEAR:
+Then, kill, kill, kill, kill, kill, kill!
+KING LEAR:
+Enter a Gentleman, with Attendants
+Gentleman:
+O, here he is: lay hand upon him. Sir,
+Gentleman:
+Your most dear daughter--
+KING LEAR:
+No rescue? What, a prisoner? I am even
+KING LEAR:
+The natural fool of fortune. Use me well,
+KING LEAR:
+You shall have ransom. Let me have surgeons,
+KING LEAR:
+I am cut to the brains.
+Gentleman:
+You shall have any thing.
+KING LEAR:
+No seconds? all myself?
+KING LEAR:
+Why, this would make a man a man of salt,
+KING LEAR:
+To use his eyes for garden water-pots,
+KING LEAR:
+Ay, and laying autumn's dust.
+Gentleman:
+Good sir,--
+KING LEAR:
+I will die bravely, like a bridegroom. What!
+KING LEAR:
+I will be jovial: come, come, I am a king,
+KING LEAR:
+My masters, know you that.
+Gentleman:
+You are a royal one, and we obey you.
+KING LEAR:
+Then there's life in't. Nay, if you get it, you
+KING LEAR:
+shall get it with running. Sa, sa, sa, sa.
+KING LEAR:
+Exit running, Attendants follow
+Gentleman:
+A sight most pitiful in the meanest wretch,
+Gentleman:
+Past speaking of in a king! Thou hast one daughter,
+Gentleman:
+Who redeems nature from the general curse
+Gentleman:
+Which twain have brought her to.
+EDGAR:
+Hail, gentle sir.
+Gentleman:
+Sir, speed you: what's your will?
+EDGAR:
+Do you hear aught, sir, of a battle toward?
+Gentleman:
+Most sure and vulgar: every one hears that,
+Gentleman:
+Which can distinguish sound.
+EDGAR:
+But, by your favour,
+EDGAR:
+How near's the other army?
+Gentleman:
+Near and on speedy foot, the main descry
+Gentleman:
+Stands on the hourly thought.
+EDGAR:
+I thank you, sir: that's all.
+Gentleman:
+Though that the queen on special cause is here,
+Gentleman:
+Her army is moved on.
+EDGAR:
+I thank you, sir.
+EDGAR:
+Exit Gentleman
+GLOUCESTER:
+You ever-gentle gods, take my breath from me
+GLOUCESTER:
+Let not my worser spirit tempt me again
+GLOUCESTER:
+To die before you please!
+EDGAR:
+Well pray you, father.
+GLOUCESTER:
+Now, good sir, what are you?
+EDGAR:
+A most poor man, made tame to fortune's blows,
+EDGAR:
+Who, by the art of known and feeling sorrows,
+EDGAR:
+Am pregnant to good pity. Give me your hand,
+EDGAR:
+I'll lead you to some biding.
+GLOUCESTER:
+Hearty thanks
+GLOUCESTER:
+The bounty and the benison of heaven
+GLOUCESTER:
+To boot, and boot!
+GLOUCESTER:
+Enter OSWALD
+OSWALD:
+A proclaim'd prize! Most happy!
+OSWALD:
+That eyeless head of thine was first framed flesh
+OSWALD:
+To raise my fortunes. Thou old unhappy traitor,
+OSWALD:
+Briefly thyself remember: the sword is out
+OSWALD:
+That must destroy thee.
+GLOUCESTER:
+Now let thy friendly hand
+GLOUCESTER:
+Put strength enough to't.
+GLOUCESTER:
+EDGAR interposes
+OSWALD:
+Wherefore, bold peasant,
+OSWALD:
+Darest thou support a publish'd traitor? Hence,
+OSWALD:
+Lest that the infection of his fortune take
+OSWALD:
+Like hold on thee. Let go his arm.
+EDGAR:
+Ch'ill not let go, zir, without vurther 'casion.
+OSWALD:
+Let go, slave, or thou diest!
+EDGAR:
+Good gentleman, go your gait, and let poor volk
+EDGAR:
+pass. An chud ha' bin zwaggered out of my life,
+EDGAR:
+'twould not ha' bin zo long as 'tis by a vortnight.
+EDGAR:
+Nay, come not near th' old man, keep out, che vor
+EDGAR:
+ye, or ise try whether your costard or my ballow be
+EDGAR:
+the harder: ch'ill be plain with you.
+OSWALD:
+Out, dunghill!
+EDGAR:
+Ch'ill pick your teeth, zir: come, no matter vor
+EDGAR:
+your foins.
+EDGAR:
+They fight, and EDGAR knocks him down
+OSWALD:
+Slave, thou hast slain me: villain, take my purse
+OSWALD:
+If ever thou wilt thrive, bury my body,
+OSWALD:
+And give the letters which thou find'st about me
+OSWALD:
+To Edmund earl of Gloucester, seek him out
+OSWALD:
+Upon the British party: O, untimely death!
+OSWALD:
+Dies
+EDGAR:
+I know thee well: a serviceable villain,
+EDGAR:
+As duteous to the vices of thy mistress
+EDGAR:
+As badness would desire.
+GLOUCESTER:
+What, is he dead?
+EDGAR:
+Sit you down, father, rest you
+EDGAR:
+Let's see these pockets: the letters that he speaks of
+EDGAR:
+May be my friends. He's dead, I am only sorry
+EDGAR:
+He had no other death's-man. Let us see
+EDGAR:
+Leave, gentle wax, and, manners, blame us not
+EDGAR:
+To know our enemies' minds, we'ld rip their hearts,
+EDGAR:
+Their papers, is more lawful.
+EDGAR:
+Reads
+EDGAR:
+'Let our reciprocal vows be remembered. You have
+EDGAR:
+many opportunities to cut him off: if your will
+EDGAR:
+want not, time and place will be fruitfully offered.
+EDGAR:
+There is nothing done, if he return the conqueror
+EDGAR:
+then am I the prisoner, and his bed my goal, from
+EDGAR:
+the loathed warmth whereof deliver me, and supply
+EDGAR:
+the place for your labour.
+EDGAR:
+'Your--wife, so I would say--
+EDGAR:
+'Affectionate servant,
+EDGAR:
+'GONERIL.'
+EDGAR:
+O undistinguish'd space of woman's will!
+EDGAR:
+A plot upon her virtuous husband's life,
+EDGAR:
+And the exchange my brother! Here, in the sands,
+EDGAR:
+Thee I'll rake up, the post unsanctified
+EDGAR:
+Of murderous lechers: and in the mature time
+EDGAR:
+With this ungracious paper strike the sight
+EDGAR:
+Of the death practised duke: for him 'tis well
+EDGAR:
+That of thy death and business I can tell.
+GLOUCESTER:
+The king is mad: how stiff is my vile sense,
+GLOUCESTER:
+That I stand up, and have ingenious feeling
+GLOUCESTER:
+Of my huge sorrows! Better I were distract
+GLOUCESTER:
+So should my thoughts be sever'd from my griefs,
+GLOUCESTER:
+And woes by wrong imaginations lose
+GLOUCESTER:
+The knowledge of themselves.
+EDGAR:
+Give me your hand
+EDGAR:
+Drum afar off
+EDGAR:
+Far off, methinks, I hear the beaten drum
+EDGAR:
+Come, father, I'll bestow you with a friend.
+EDGAR:
+Exeunt
+EDGAR:
+SCENE VII. A tent in the French camp. LEAR on a bed asleep,
+EDGAR:
+soft music playing, Gentleman, and others attending.
+EDGAR:
+Enter CORDELIA, KENT, and Doctor
+CORDELIA:
+O thou good Kent, how shall I live and work,
+CORDELIA:
+To match thy goodness? My life will be too short,
+CORDELIA:
+And every measure fail me.
+KENT:
+To be acknowledged, madam, is o'erpaid.
+KENT:
+All my reports go with the modest truth,
+KENT:
+Nor more nor clipp'd, but so.
+CORDELIA:
+Be better suited
+CORDELIA:
+These weeds are memories of those worser hours
+CORDELIA:
+I prithee, put them off.
+KENT:
+Pardon me, dear madam,
+KENT:
+Yet to be known shortens my made intent
+KENT:
+My boon I make it, that you know me not
+KENT:
+Till time and I think meet.
+CORDELIA:
+Then be't so, my good lord.
+CORDELIA:
+To the Doctor
+CORDELIA:
+How does the king?
+Doctor:
+Madam, sleeps still.
+CORDELIA:
+O you kind gods,
+CORDELIA:
+Cure this great breach in his abused nature!
+CORDELIA:
+The untuned and jarring senses, O, wind up
+CORDELIA:
+Of this child-changed father!
+Doctor:
+So please your majesty
+Doctor:
+That we may wake the king: he hath slept long.
+CORDELIA:
+Be govern'd by your knowledge, and proceed
+CORDELIA:
+I' the sway of your own will. Is he array'd?
+Gentleman:
+Ay, madam, in the heaviness of his sleep
+Gentleman:
+We put fresh garments on him.
+Doctor:
+Be by, good madam, when we do awake him,
+Doctor:
+I doubt not of his temperance.
+CORDELIA:
+Very well.
+Doctor:
+Please you, draw near. Louder the music there!
+CORDELIA:
+O my dear father! Restoration hang
+CORDELIA:
+Thy medicine on my lips, and let this kiss
+CORDELIA:
+Repair those violent harms that my two sisters
+CORDELIA:
+Have in thy reverence made!
+KENT:
+Kind and dear princess!
+CORDELIA:
+Had you not been their father, these white flakes
+CORDELIA:
+Had challenged pity of them. Was this a face
+CORDELIA:
+To be opposed against the warring winds?
+CORDELIA:
+To stand against the deep dread-bolted thunder?
+CORDELIA:
+In the most terrible and nimble stroke
+CORDELIA:
+Of quick, cross lightning? to watch--poor perdu!--
+CORDELIA:
+With this thin helm? Mine enemy's dog,
+CORDELIA:
+Though he had bit me, should have stood that night
+CORDELIA:
+Against my fire, and wast thou fain, poor father,
+CORDELIA:
+To hovel thee with swine, and rogues forlorn,
+CORDELIA:
+In short and musty straw? Alack, alack!
+CORDELIA:
+'Tis wonder that thy life and wits at once
+CORDELIA:
+Had not concluded all. He wakes, speak to him.
+Doctor:
+Madam, do you, 'tis fittest.
+CORDELIA:
+How does my royal lord? How fares your majesty?
+KING LEAR:
+You do me wrong to take me out o' the grave
+KING LEAR:
+Thou art a soul in bliss, but I am bound
+KING LEAR:
+Upon a wheel of fire, that mine own tears
+KING LEAR:
+Do scald like moulten lead.
+CORDELIA:
+Sir, do you know me?
+KING LEAR:
+You are a spirit, I know: when did you die?
+CORDELIA:
+Still, still, far wide!
+Doctor:
+He's scarce awake: let him alone awhile.
+KING LEAR:
+Where have I been? Where am I? Fair daylight?
+KING LEAR:
+I am mightily abused. I should e'en die with pity,
+KING LEAR:
+To see another thus. I know not what to say.
+KING LEAR:
+I will not swear these are my hands: let's see,
+KING LEAR:
+I feel this pin prick. Would I were assured
+KING LEAR:
+Of my condition!
+CORDELIA:
+O, look upon me, sir,
+CORDELIA:
+And hold your hands in benediction o'er me
+CORDELIA:
+No, sir, you must not kneel.
+KING LEAR:
+Pray, do not mock me
+KING LEAR:
+I am a very foolish fond old man,
+KING LEAR:
+Fourscore and upward, not an hour more nor less,
+KING LEAR:
+And, to deal plainly,
+KING LEAR:
+I fear I am not in my perfect mind.
+KING LEAR:
+Methinks I should know you, and know this man,
+KING LEAR:
+Yet I am doubtful for I am mainly ignorant
+KING LEAR:
+What place this is, and all the skill I have
+KING LEAR:
+Remembers not these garments, nor I know not
+KING LEAR:
+Where I did lodge last night. Do not laugh at me,
+KING LEAR:
+For, as I am a man, I think this lady
+KING LEAR:
+To be my child Cordelia.
+CORDELIA:
+And so I am, I am.
+KING LEAR:
+Be your tears wet? yes, 'faith. I pray, weep not
+KING LEAR:
+If you have poison for me, I will drink it.
+KING LEAR:
+I know you do not love me, for your sisters
+KING LEAR:
+Have, as I do remember, done me wrong
+KING LEAR:
+You have some cause, they have not.
+CORDELIA:
+No cause, no cause.
+KING LEAR:
+Am I in France?
+KENT:
+In your own kingdom, sir.
+KING LEAR:
+Do not abuse me.
+Doctor:
+Be comforted, good madam: the great rage,
+Doctor:
+You see, is kill'd in him: and yet it is danger
+Doctor:
+To make him even o'er the time he has lost.
+Doctor:
+Desire him to go in, trouble him no more
+Doctor:
+Till further settling.
+CORDELIA:
+Will't please your highness walk?
+KING LEAR:
+You must bear with me
+KING LEAR:
+Pray you now, forget and forgive: I am old and foolish.
+KING LEAR:
+Exeunt all but KENT and Gentleman
+Gentleman:
+Holds it true, sir, that the Duke of Cornwall was so slain?
+KENT:
+Most certain, sir.
+Gentleman:
+Who is conductor of his people?
+KENT:
+As 'tis said, the bastard son of Gloucester.
+Gentleman:
+They say Edgar, his banished son, is with the Earl
+Gentleman:
+of Kent in Germany.
+KENT:
+Report is changeable. 'Tis time to look about, the
+KENT:
+powers of the kingdom approach apace.
+Gentleman:
+The arbitrement is like to be bloody. Fare you
+Gentleman:
+well, sir.
+Gentleman:
+Exit
+KENT:
+My point and period will be throughly wrought,
+KENT:
+Or well or ill, as this day's battle's fought.
+KENT:
+Exit
+KENT:
+ACT V
+KENT:
+SCENE I. The British camp, near Dover.
+KENT:
+Enter, with drum and colours, EDMUND, REGAN, Gentlemen, and Soldiers.
+EDMUND:
+Know of the duke if his last purpose hold,
+EDMUND:
+Or whether since he is advised by aught
+EDMUND:
+To change the course: he's full of alteration
+EDMUND:
+And self-reproving: bring his constant pleasure.
+EDMUND:
+To a Gentleman, who goes out
+REGAN:
+Our sister's man is certainly miscarried.
+EDMUND:
+'Tis to be doubted, madam.
+REGAN:
+Now, sweet lord,
+REGAN:
+You know the goodness I intend upon you
+REGAN:
+Tell me--but truly--but then speak the truth,
+REGAN:
+Do you not love my sister?
+EDMUND:
+In honour'd love.
+REGAN:
+But have you never found my brother's way
+REGAN:
+To the forfended place?
+EDMUND:
+That thought abuses you.
+REGAN:
+I am doubtful that you have been conjunct
+REGAN:
+And bosom'd with her, as far as we call hers.
+EDMUND:
+No, by mine honour, madam.
+REGAN:
+I never shall endure her: dear my lord,
+REGAN:
+Be not familiar with her.
+EDMUND:
+Fear me not
+EDMUND:
+She and the duke her husband!
+EDMUND:
+Enter, with drum and colours, ALBANY, GONERIL, and Soldiers
+GONERIL:
+[Aside]  I had rather lose the battle than that sister
+GONERIL:
+Should loosen him and me.
+ALBANY:
+Our very loving sister, well be-met.
+ALBANY:
+Sir, this I hear, the king is come to his daughter,
+ALBANY:
+With others whom the rigor of our state
+ALBANY:
+Forced to cry out. Where I could not be honest,
+ALBANY:
+I never yet was valiant: for this business,
+ALBANY:
+It toucheth us, as France invades our land,
+ALBANY:
+Not bolds the king, with others, whom, I fear,
+ALBANY:
+Most just and heavy causes make oppose.
+EDMUND:
+Sir, you speak nobly.
+REGAN:
+Why is this reason'd?
+GONERIL:
+Combine together 'gainst the enemy,
+GONERIL:
+For these domestic and particular broils
+GONERIL:
+Are not the question here.
+ALBANY:
+Let's then determine
+ALBANY:
+With the ancient of war on our proceedings.
+EDMUND:
+I shall attend you presently at your tent.
+REGAN:
+Sister, you'll go with us?
+GONERIL:
+No.
+REGAN:
+'Tis most convenient, pray you, go with us.
+GONERIL:
+[Aside]  O, ho, I know the riddle.--I will go.
+GONERIL:
+As they are going out, enter EDGAR disguised
+EDGAR:
+If e'er your grace had speech with man so poor,
+EDGAR:
+Hear me one word.
+ALBANY:
+I'll overtake you. Speak.
+ALBANY:
+Exeunt all but ALBANY and EDGAR
+EDGAR:
+Before you fight the battle, ope this letter.
+EDGAR:
+If you have victory, let the trumpet sound
+EDGAR:
+For him that brought it: wretched though I seem,
+EDGAR:
+I can produce a champion that will prove
+EDGAR:
+What is avouched there. If you miscarry,
+EDGAR:
+Your business of the world hath so an end,
+EDGAR:
+And machination ceases. Fortune love you.
+ALBANY:
+Stay till I have read the letter.
+EDGAR:
+I was forbid it.
+EDGAR:
+When time shall serve, let but the herald cry,
+EDGAR:
+And I'll appear again.
+ALBANY:
+Why, fare thee well: I will o'erlook thy paper.
+ALBANY:
+Exit EDGAR
+ALBANY:
+Re-enter EDMUND
+EDMUND:
+The enemy's in view, draw up your powers.
+EDMUND:
+Here is the guess of their true strength and forces
+EDMUND:
+By diligent discovery, but your haste
+EDMUND:
+Is now urged on you.
+ALBANY:
+We will greet the time.
+ALBANY:
+Exit
+EDMUND:
+To both these sisters have I sworn my love,
+EDMUND:
+Each jealous of the other, as the stung
+EDMUND:
+Are of the adder. Which of them shall I take?
+EDMUND:
+Both? one? or neither? Neither can be enjoy'd,
+EDMUND:
+If both remain alive: to take the widow
+EDMUND:
+Exasperates, makes mad her sister Goneril,
+EDMUND:
+And hardly shall I carry out my side,
+EDMUND:
+Her husband being alive. Now then we'll use
+EDMUND:
+His countenance for the battle, which being done,
+EDMUND:
+Let her who would be rid of him devise
+EDMUND:
+His speedy taking off. As for the mercy
+EDMUND:
+Which he intends to Lear and to Cordelia,
+EDMUND:
+The battle done, and they within our power,
+EDMUND:
+Shall never see his pardon, for my state
+EDMUND:
+Stands on me to defend, not to debate.
+EDMUND:
+Exit
+EDMUND:
+SCENE II. A field between the two camps.
+EDMUND:
+Alarum within. Enter, with drum and colours,  KING LEAR, CORDELIA, and Soldiers, over the stage, and exeunt
+EDMUND:
+Enter EDGAR and GLOUCESTER
+EDGAR:
+Here, father, take the shadow of this tree
+EDGAR:
+For your good host, pray that the right may thrive
+EDGAR:
+If ever I return to you again,
+EDGAR:
+I'll bring you comfort.
+GLOUCESTER:
+Grace go with you, sir!
+GLOUCESTER:
+Exit EDGAR
+GLOUCESTER:
+Alarum and retreat within. Re-enter EDGAR
+EDGAR:
+Away, old man, give me thy hand, away!
+EDGAR:
+King Lear hath lost, he and his daughter ta'en
+EDGAR:
+Give me thy hand, come on.
+GLOUCESTER:
+No farther, sir, a man may rot even here.
+EDGAR:
+What, in ill thoughts again? Men must endure
+EDGAR:
+Their going hence, even as their coming hither,
+EDGAR:
+Ripeness is all: come on.
+GLOUCESTER:
+And that's true too.
+GLOUCESTER:
+Exeunt
+GLOUCESTER:
+SCENE III. The British camp near Dover.
+GLOUCESTER:
+Enter, in conquest, with drum and colours, EDMUND,  KING LEAR and CORDELIA, prisoners, Captain, Soldiers,  and c
+EDMUND:
+Some officers take them away: good guard,
+EDMUND:
+Until their greater pleasures first be known
+EDMUND:
+That are to censure them.
+CORDELIA:
+We are not the first
+CORDELIA:
+Who, with best meaning, have incurr'd the worst.
+CORDELIA:
+For thee, oppressed king, am I cast down,
+CORDELIA:
+Myself could else out-frown false fortune's frown.
+CORDELIA:
+Shall we not see these daughters and these sisters?
+KING LEAR:
+No, no, no, no! Come, let's away to prison
+KING LEAR:
+We two alone will sing like birds i' the cage
+KING LEAR:
+When thou dost ask me blessing, I'll kneel down,
+KING LEAR:
+And ask of thee forgiveness: so we'll live,
+KING LEAR:
+And pray, and sing, and tell old tales, and laugh
+KING LEAR:
+At gilded butterflies, and hear poor rogues
+KING LEAR:
+Talk of court news, and we'll talk with them too,
+KING LEAR:
+Who loses and who wins, who's in, who's out,
+KING LEAR:
+And take upon's the mystery of things,
+KING LEAR:
+As if we were God's spies: and we'll wear out,
+KING LEAR:
+In a wall'd prison, packs and sects of great ones,
+KING LEAR:
+That ebb and flow by the moon.
+EDMUND:
+Take them away.
+KING LEAR:
+Upon such sacrifices, my Cordelia,
+KING LEAR:
+The gods themselves throw incense. Have I caught thee?
+KING LEAR:
+He that parts us shall bring a brand from heaven,
+KING LEAR:
+And fire us hence like foxes. Wipe thine eyes,
+KING LEAR:
+The good-years shall devour them, flesh and fell,
+KING LEAR:
+Ere they shall make us weep: we'll see 'em starve
+KING LEAR:
+first. Come.
+KING LEAR:
+Exeunt KING LEAR and CORDELIA, guarded
+EDMUND:
+Come hither, captain, hark.
+EDMUND:
+Take thou this note,
+EDMUND:
+Giving a paper
+EDMUND:
+go follow them to prison
+EDMUND:
+One step I have advanced thee, if thou dost
+EDMUND:
+As this instructs thee, thou dost make thy way
+EDMUND:
+To noble fortunes: know thou this, that men
+EDMUND:
+Are as the time is: to be tender-minded
+EDMUND:
+Does not become a sword: thy great employment
+EDMUND:
+Will not bear question, either say thou'lt do 't,
+EDMUND:
+Or thrive by other means.
+Captain:
+I'll do 't, my lord.
+EDMUND:
+About it, and write happy when thou hast done.
+EDMUND:
+Mark, I say, instantly, and carry it so
+EDMUND:
+As I have set it down.
+Captain:
+I cannot draw a cart, nor eat dried oats,
+Captain:
+If it be man's work, I'll do 't.
+Captain:
+Exit
+Captain:
+Flourish. Enter ALBANY, GONERIL, REGAN, another Captain, and Soldiers
+ALBANY:
+Sir, you have shown to-day your valiant strain,
+ALBANY:
+And fortune led you well: you have the captives
+ALBANY:
+That were the opposites of this day's strife
+ALBANY:
+We do require them of you, so to use them
+ALBANY:
+As we shall find their merits and our safety
+ALBANY:
+May equally determine.
+EDMUND:
+Sir, I thought it fit
+EDMUND:
+To send the old and miserable king
+EDMUND:
+To some retention and appointed guard,
+EDMUND:
+Whose age has charms in it, whose title more,
+EDMUND:
+To pluck the common bosom on his side,
+EDMUND:
+An turn our impress'd lances in our eyes
+EDMUND:
+Which do command them. With him I sent the queen,
+EDMUND:
+My reason all the same, and they are ready
+EDMUND:
+To-morrow, or at further space, to appear
+EDMUND:
+Where you shall hold your session. At this time
+EDMUND:
+We sweat and bleed: the friend hath lost his friend,
+EDMUND:
+And the best quarrels, in the heat, are cursed
+EDMUND:
+By those that feel their sharpness
+EDMUND:
+The question of Cordelia and her father
+EDMUND:
+Requires a fitter place.
+ALBANY:
+Sir, by your patience,
+ALBANY:
+I hold you but a subject of this war,
+ALBANY:
+Not as a brother.
+REGAN:
+That's as we list to grace him.
+REGAN:
+Methinks our pleasure might have been demanded,
+REGAN:
+Ere you had spoke so far. He led our powers,
+REGAN:
+Bore the commission of my place and person,
+REGAN:
+The which immediacy may well stand up,
+REGAN:
+And call itself your brother.
+GONERIL:
+Not so hot
+GONERIL:
+In his own grace he doth exalt himself,
+GONERIL:
+More than in your addition.
+REGAN:
+In my rights,
+REGAN:
+By me invested, he compeers the best.
+GONERIL:
+That were the most, if he should husband you.
+REGAN:
+Jesters do oft prove prophets.
+GONERIL:
+Holla, holla!
+GONERIL:
+That eye that told you so look'd but a-squint.
+REGAN:
+Lady, I am not well, else I should answer
+REGAN:
+From a full-flowing stomach. General,
+REGAN:
+Take thou my soldiers, prisoners, patrimony,
+REGAN:
+Dispose of them, of me, the walls are thine
+REGAN:
+Witness the world, that I create thee here
+REGAN:
+My lord and master.
+GONERIL:
+Mean you to enjoy him?
+ALBANY:
+The let-alone lies not in your good will.
+EDMUND:
+Nor in thine, lord.
+ALBANY:
+Half-blooded fellow, yes.
+REGAN:
+[To EDMUND]  Let the drum strike, and prove my title thine.
+ALBANY:
+Stay yet, hear reason. Edmund, I arrest thee
+ALBANY:
+On capital treason, and, in thine attaint,
+ALBANY:
+This gilded serpent
+ALBANY:
+Pointing to Goneril
+ALBANY:
+For your claim, fair sister,
+ALBANY:
+I bar it in the interest of my wife
+ALBANY:
+'Tis she is sub-contracted to this lord,
+ALBANY:
+And I, her husband, contradict your bans.
+ALBANY:
+If you will marry, make your loves to me,
+ALBANY:
+My lady is bespoke.
+GONERIL:
+An interlude!
+ALBANY:
+Thou art arm'd, Gloucester: let the trumpet sound
+ALBANY:
+If none appear to prove upon thy head
+ALBANY:
+Thy heinous, manifest, and many treasons,
+ALBANY:
+There is my pledge,
+ALBANY:
+Throwing down a glove
+ALBANY:
+I'll prove it on thy heart,
+ALBANY:
+Ere I taste bread, thou art in nothing less
+ALBANY:
+Than I have here proclaim'd thee.
+REGAN:
+Sick, O, sick!
+GONERIL:
+[Aside]  If not, I'll ne'er trust medicine.
+EDMUND:
+There's my exchange
+EDMUND:
+Throwing down a glove
+EDMUND:
+what in the world he is
+EDMUND:
+That names me traitor, villain-like he lies
+EDMUND:
+Call by thy trumpet: he that dares approach,
+EDMUND:
+On him, on you, who not? I will maintain
+EDMUND:
+My truth and honour firmly.
+ALBANY:
+A herald, ho!
+EDMUND:
+A herald, ho, a herald!
+ALBANY:
+Trust to thy single virtue, for thy soldiers,
+ALBANY:
+All levied in my name, have in my name
+ALBANY:
+Took their discharge.
+REGAN:
+My sickness grows upon me.
+ALBANY:
+She is not well, convey her to  my tent.
+ALBANY:
+Exit Regan, led
+ALBANY:
+Enter a Herald
+ALBANY:
+Come hither, herald,--Let the trumpet sound,
+ALBANY:
+And read out this.
+Captain:
+Sound, trumpet!
+Captain:
+A trumpet sounds
+Herald:
+[Reads]  'If any man of quality or degree within
+Herald:
+the lists of the army will maintain upon Edmund,
+Herald:
+supposed Earl of Gloucester, that he is a manifold
+Herald:
+traitor, let him appear by the third sound of the
+Herald:
+trumpet: he is bold in his defence.'
+EDMUND:
+Sound!
+EDMUND:
+First trumpet
+Herald:
+Again!
+Herald:
+Second trumpet
+Herald:
+Again!
+Herald:
+Third trumpet
+Herald:
+Trumpet answers within
+Herald:
+Enter EDGAR, at the third sound, armed, with a trumpet before him
+ALBANY:
+Ask him his purposes, why he appears
+ALBANY:
+Upon this call o' the trumpet.
+Herald:
+What are you?
+Herald:
+Your name, your quality? and why you answer
+Herald:
+This present summons?
+EDGAR:
+Know, my name is lost,
+EDGAR:
+By treason's tooth bare-gnawn and canker-bit
+EDGAR:
+Yet am I noble as the adversary
+EDGAR:
+I come to cope.
+ALBANY:
+Which is that adversary?
+EDGAR:
+What's he that speaks for Edmund Earl of Gloucester?
+EDMUND:
+Himself: what say'st thou to him?
+EDGAR:
+Draw thy sword,
+EDGAR:
+That, if my speech offend a noble heart,
+EDGAR:
+Thy arm may do thee justice: here is mine.
+EDGAR:
+Behold, it is the privilege of mine honours,
+EDGAR:
+My oath, and my profession: I protest,
+EDGAR:
+Maugre thy strength, youth, place, and eminence,
+EDGAR:
+Despite thy victor sword and fire-new fortune,
+EDGAR:
+Thy valour and thy heart, thou art a traitor,
+EDGAR:
+False to thy gods, thy brother, and thy father,
+EDGAR:
+Conspirant 'gainst this high-illustrious prince,
+EDGAR:
+And, from the extremest upward of thy head
+EDGAR:
+To the descent and dust below thy foot,
+EDGAR:
+A most toad-spotted traitor. Say thou 'No,'
+EDGAR:
+This sword, this arm, and my best spirits, are bent
+EDGAR:
+To prove upon thy heart, whereto I speak,
+EDGAR:
+Thou liest.
+EDMUND:
+In wisdom I should ask thy name,
+EDMUND:
+But, since thy outside looks so fair and warlike,
+EDMUND:
+And that thy tongue some say of breeding breathes,
+EDMUND:
+What safe and nicely I might well delay
+EDMUND:
+By rule of knighthood, I disdain and spurn
+EDMUND:
+Back do I toss these treasons to thy head,
+EDMUND:
+With the hell-hated lie o'erwhelm thy heart,
+EDMUND:
+Which, for they yet glance by and scarcely bruise,
+EDMUND:
+This sword of mine shall give them instant way,
+EDMUND:
+Where they shall rest for ever. Trumpets, speak!
+EDMUND:
+Alarums. They fight. EDMUND falls
+ALBANY:
+Save him, save him!
+GONERIL:
+This is practise, Gloucester
+GONERIL:
+By the law of arms thou wast not bound to answer
+GONERIL:
+An unknown opposite, thou art not vanquish'd,
+GONERIL:
+But cozen'd and beguiled.
+ALBANY:
+Shut your mouth, dame,
+ALBANY:
+Or with this paper shall I stop it: Hold, sir
+ALBANY:
+Thou worse than any name, read thine own evil
+ALBANY:
+No tearing, lady: I perceive you know it.
+ALBANY:
+Gives the letter to EDMUND
+GONERIL:
+Say, if I do, the laws are mine, not thine
+GONERIL:
+Who can arraign me for't.
+ALBANY:
+Most monstrous! oh!
+ALBANY:
+Know'st thou this paper?
+GONERIL:
+Ask me not what I know.
+GONERIL:
+Exit
+ALBANY:
+Go after her: she's desperate, govern her.
+EDMUND:
+What you have charged me with, that have I done,
+EDMUND:
+And more, much more, the time will bring it out
+EDMUND:
+'Tis past, and so am I. But what art thou
+EDMUND:
+That hast this fortune on me? If thou'rt noble,
+EDMUND:
+I do forgive thee.
+EDGAR:
+Let's exchange charity.
+EDGAR:
+I am no less in blood than thou art, Edmund,
+EDGAR:
+If more, the more thou hast wrong'd me.
+EDGAR:
+My name is Edgar, and thy father's son.
+EDGAR:
+The gods are just, and of our pleasant vices
+EDGAR:
+Make instruments to plague us
+EDGAR:
+The dark and vicious place where thee he got
+EDGAR:
+Cost him his eyes.
+EDMUND:
+Thou hast spoken right, 'tis true,
+EDMUND:
+The wheel is come full circle: I am here.
+ALBANY:
+Methought thy very gait did prophesy
+ALBANY:
+A royal nobleness: I must embrace thee
+ALBANY:
+Let sorrow split my heart, if ever I
+ALBANY:
+Did hate thee or thy father!
+EDGAR:
+Worthy prince, I know't.
+ALBANY:
+Where have you hid yourself?
+ALBANY:
+How have you known the miseries of your father?
+EDGAR:
+By nursing them, my lord. List a brief tale,
+EDGAR:
+And when 'tis told, O, that my heart would burst!
+EDGAR:
+The bloody proclamation to escape,
+EDGAR:
+That follow'd me so near,--O, our lives' sweetness!
+EDGAR:
+That we the pain of death would hourly die
+EDGAR:
+Rather than die at once!--taught me to shift
+EDGAR:
+Into a madman's rags, to assume a semblance
+EDGAR:
+That very dogs disdain'd: and in this habit
+EDGAR:
+Met I my father with his bleeding rings,
+EDGAR:
+Their precious stones new lost: became his guide,
+EDGAR:
+Led him, begg'd for him, saved him from despair,
+EDGAR:
+Never,--O fault!--reveal'd myself unto him,
+EDGAR:
+Until some half-hour past, when I was arm'd
+EDGAR:
+Not sure, though hoping, of this good success,
+EDGAR:
+I ask'd his blessing, and from first to last
+EDGAR:
+Told him my pilgrimage: but his flaw'd heart,
+EDGAR:
+Alack, too weak the conflict to support!
+EDGAR:
+'Twixt two extremes of passion, joy and grief,
+EDGAR:
+Burst smilingly.
+EDMUND:
+This speech of yours hath moved me,
+EDMUND:
+And shall perchance do good: but speak you on,
+EDMUND:
+You look as you had something more to say.
+ALBANY:
+If there be more, more woeful, hold it in,
+ALBANY:
+For I am almost ready to dissolve,
+ALBANY:
+Hearing of this.
+EDGAR:
+This would have seem'd a period
+EDGAR:
+To such as love not sorrow, but another,
+EDGAR:
+To amplify too much, would make much more,
+EDGAR:
+And top extremity.
+EDGAR:
+Whilst I was big in clamour came there in a man,
+EDGAR:
+Who, having seen me in my worst estate,
+EDGAR:
+Shunn'd my abhorr'd society, but then, finding
+EDGAR:
+Who 'twas that so endured, with his strong arms
+EDGAR:
+He fastened on my neck, and bellow'd out
+EDGAR:
+As he'ld burst heaven, threw him on my father,
+EDGAR:
+Told the most piteous tale of Lear and him
+EDGAR:
+That ever ear received: which in recounting
+EDGAR:
+His grief grew puissant and the strings of life
+EDGAR:
+Began to crack: twice then the trumpets sounded,
+EDGAR:
+And there I left him tranced.
+ALBANY:
+But who was this?
+EDGAR:
+Kent, sir, the banish'd Kent, who in disguise
+EDGAR:
+Follow'd his enemy king, and did him service
+EDGAR:
+Improper for a slave.
+EDGAR:
+Enter a Gentleman, with a bloody knife
+Gentleman:
+Help, help, O, help!
+EDGAR:
+What kind of help?
+ALBANY:
+Speak, man.
+EDGAR:
+What means that bloody knife?
+Gentleman:
+'Tis hot, it smokes,
+Gentleman:
+It came even from the heart of--O, she's dead!
+ALBANY:
+Who dead? speak, man.
+Gentleman:
+Your lady, sir, your lady: and her sister
+Gentleman:
+By her is poisoned, she hath confess'd it.
+EDMUND:
+I was contracted to them both: all three
+EDMUND:
+Now marry in an instant.
+EDGAR:
+Here comes Kent.
+ALBANY:
+Produce their bodies, be they alive or dead
+ALBANY:
+This judgment of the heavens, that makes us tremble,
+ALBANY:
+Touches us not with pity.
+ALBANY:
+Exit Gentleman
+ALBANY:
+Enter KENT
+ALBANY:
+O, is this he?
+ALBANY:
+The time will not allow the compliment
+ALBANY:
+Which very manners urges.
+KENT:
+I am come
+KENT:
+To bid my king and master aye good night
+KENT:
+Is he not here?
+ALBANY:
+Great thing of us forgot!
+ALBANY:
+Speak, Edmund, where's the king? and where's Cordelia?
+ALBANY:
+See'st thou this object, Kent?
+ALBANY:
+The bodies of GONERIL and REGAN are brought in
+KENT:
+Alack, why thus?
+EDMUND:
+Yet Edmund was beloved
+EDMUND:
+The one the other poison'd for my sake,
+EDMUND:
+And after slew herself.
+ALBANY:
+Even so. Cover their faces.
+EDMUND:
+I pant for life: some good I mean to do,
+EDMUND:
+Despite of mine own nature. Quickly send,
+EDMUND:
+Be brief in it, to the castle, for my writ
+EDMUND:
+Is on the life of Lear and on Cordelia
+EDMUND:
+Nay, send in time.
+ALBANY:
+Run, run, O, run!
+EDGAR:
+To who, my lord? Who hath the office? send
+EDGAR:
+Thy token of reprieve.
+EDMUND:
+Well thought on: take my sword,
+EDMUND:
+Give it the captain.
+ALBANY:
+Haste thee, for thy life.
+ALBANY:
+Exit EDGAR
+EDMUND:
+He hath commission from thy wife and me
+EDMUND:
+To hang Cordelia in the prison, and
+EDMUND:
+To lay the blame upon her own despair,
+EDMUND:
+That she fordid herself.
+ALBANY:
+The gods defend her! Bear him hence awhile.
+ALBANY:
+EDMUND is borne off
+ALBANY:
+Re-enter KING LEAR, with CORDELIA dead in his arms, EDGAR, Captain, and others following
+KING LEAR:
+Howl, howl, howl, howl! O, you are men of stones
+KING LEAR:
+Had I your tongues and eyes, I'ld use them so
+KING LEAR:
+That heaven's vault should crack. She's gone for ever!
+KING LEAR:
+I know when one is dead, and when one lives,
+KING LEAR:
+She's dead as earth. Lend me a looking-glass,
+KING LEAR:
+If that her breath will mist or stain the stone,
+KING LEAR:
+Why, then she lives.
+KENT:
+Is this the promised end
+EDGAR:
+Or image of that horror?
+ALBANY:
+Fall, and cease!
+KING LEAR:
+This feather stirs, she lives! if it be so,
+KING LEAR:
+It is a chance which does redeem all sorrows
+KING LEAR:
+That ever I have felt.
+KENT:
+[Kneeling]  O my good master!
+KING LEAR:
+Prithee, away.
+EDGAR:
+'Tis noble Kent, your friend.
+KING LEAR:
+A plague upon you, murderers, traitors all!
+KING LEAR:
+I might have saved her, now she's gone for ever!
+KING LEAR:
+Cordelia, Cordelia! stay a little. Ha!
+KING LEAR:
+What is't thou say'st? Her voice was ever soft,
+KING LEAR:
+Gentle, and low, an excellent thing in woman.
+KING LEAR:
+I kill'd the slave that was a-hanging thee.
+Captain:
+'Tis true, my lords, he did.
+KING LEAR:
+Did I not, fellow?
+KING LEAR:
+I have seen the day, with my good biting falchion
+KING LEAR:
+I would have made them skip: I am old now,
+KING LEAR:
+And these same crosses spoil me. Who are you?
+KING LEAR:
+Mine eyes are not o' the best: I'll tell you straight.
+KENT:
+If fortune brag of two she loved and hated,
+KENT:
+One of them we behold.
+KING LEAR:
+This is a dull sight. Are you not Kent?
+KENT:
+The same,
+KENT:
+Your servant Kent: Where is your servant Caius?
+KING LEAR:
+He's a good fellow, I can tell you that,
+KING LEAR:
+He'll strike, and quickly too: he's dead and rotten.
+KENT:
+No, my good lord, I am the very man,--
+KING LEAR:
+I'll see that straight.
+KENT:
+That, from your first of difference and decay,
+KENT:
+Have follow'd your sad steps.
+KING LEAR:
+You are welcome hither.
+KENT:
+Nor no man else: all's cheerless, dark, and deadly.
+KENT:
+Your eldest daughters have fordone them selves,
+KENT:
+And desperately are dead.
+KING LEAR:
+Ay, so I think.
+ALBANY:
+He knows not what he says: and vain it is
+ALBANY:
+That we present us to him.
+EDGAR:
+Very bootless.
+EDGAR:
+Enter a Captain
+Captain:
+Edmund is dead, my lord.
+ALBANY:
+That's but a trifle here.
+ALBANY:
+You lords and noble friends, know our intent.
+ALBANY:
+What comfort to this great decay may come
+ALBANY:
+Shall be applied: for us we will resign,
+ALBANY:
+During the life of this old majesty,
+ALBANY:
+To him our absolute power
+ALBANY:
+To EDGAR and KENT
+ALBANY:
+you, to your rights
+ALBANY:
+With boot, and such addition as your honours
+ALBANY:
+Have more than merited. All friends shall taste
+ALBANY:
+The wages of their virtue, and all foes
+ALBANY:
+The cup of their deservings. O, see, see!
+KING LEAR:
+And my poor fool is hang'd! No, no, no life!
+KING LEAR:
+Why should a dog, a horse, a rat, have life,
+KING LEAR:
+And thou no breath at all? Thou'lt come no more,
+KING LEAR:
+Never, never, never, never, never!
+KING LEAR:
+Pray you, undo this button: thank you, sir.
+KING LEAR:
+Do you see this? Look on her, look, her lips,
+KING LEAR:
+Look there, look there!
+KING LEAR:
+Dies
+EDGAR:
+He faints! My lord, my lord!
+KENT:
+Break, heart, I prithee, break!
+EDGAR:
+Look up, my lord.
+KENT:
+Vex not his ghost: O, let him pass! he hates him much
+KENT:
+That would upon the rack of this tough world
+KENT:
+Stretch him out longer.
+EDGAR:
+He is gone, indeed.
+KENT:
+The wonder is, he hath endured so long
+KENT:
+He but usurp'd his life.
+ALBANY:
+Bear them from hence. Our present business
+ALBANY:
+Is general woe.
+ALBANY:
+To KENT and EDGAR
+ALBANY:
+Friends of my soul, you twain
+ALBANY:
+Rule in this realm, and the gored state sustain.
+KENT:
+I have a journey, sir, shortly to go,
+KENT:
+My master calls me, I must not say no.
+ALBANY:
+The weight of this sad time we must obey,
+ALBANY:
+Speak what we feel, not what we ought to say.
+ALBANY:
+The oldest hath borne most: we that are young
+ALBANY:
+Shall never see so much, nor live so long.
+ALBANY:
+Exeunt, with a dead march
