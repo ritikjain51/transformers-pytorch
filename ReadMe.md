@@ -1,31 +1,28 @@
-# 💫 About Me:
-AI scientist with 4 years of experience in different domains. Currently, Understanding business requirements and building scalable data-driven systems at Crux. I have worked on automated time-series forecasting, IRS, OCR, and Video verification. <br><br>I have built deep tech solutions like Automated Timeseries forecaster for solving domain-agnostic forecasting problems using advanced statistics and machine learning models, OCR (optical character recognition) using semantic segmentation and deep learning for digitising identity proof. IRS (Information Retrieval System) is a domain-specific question-answering system using a siamese network based language model. Used computer vision techniques to build image and video verification solutions for Online-VKYC. <br><br>I am a big fan of the open-source community and love to contribute to open-source problems, involved in renowned open-source contributions on GitHub. <br><br>GitHub: https://github.com/ritikjain51<br>Medium: https://medium.com/@ritikjain51
+# Transformer using PyTorch
 
+This project is an experiment in text generation using PyTorch. The initial development of a simple bigram model with an embedding layer progressed to creating a complete transformer decoder model using character generation. The dataset used is Shakespeare's scripts. Individual components of the transformer were developed in different notebook files. 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ritikjain51) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ritikjain51) 
+## Project URL
+The code for this project can be found on [GitHub](https://github.com/ritikjain51/transformers-pytorch).
 
-# 💻 Tech Stack:
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ritikjain51&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ritikjain51&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikjain51&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Files
+- `bigram_model.ipynb`: Jupyter notebook containing the code for the simple bigram model
+- `transformer_decoder.ipynb`: Jupyter notebook containing the code for the transformer decoder model using character generation
+- `components/`: Directory containing Jupyter notebooks for individual components of the transformer
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ritikjain51&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Dataset
+The dataset used in this project is Shakespeare's scripts, which can be found in the `data/` directory.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Requirements
+- PyTorch
+- NumPy
+- Matplotlib
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ritikjain51&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Usage
+1. Clone the repository: `git clone https://github.com/ritikjain51/transformers-pytorch.git`
+2. Install the required packages: `pip install -r requirements.txt`
+3. Run the Jupyter notebooks in the order specified above to train and generate text using the bigram model and transformer decoder.
 
----
-[![](https://visitcount.itsvg.in/api?id=ritikjain51&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/rjain) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Acknowledgements
+- This project was inspired by the Transformer architecture proposed in the paper "Attention is All You Need" by Vaswani et al.
+- The Shakespeare dataset used in this project was obtained from [Project Gutenberg](https://www.gutenberg.org/).
